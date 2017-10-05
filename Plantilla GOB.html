@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+
+	<head>
+		<title>TITULO</title>
+		<!--  META TAGS -->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
+		<!--  ESTILOS  -->
+        <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
+	</head>
+
+	<body>
+        <!-- CONTENIDO A PARTIR DE AQUI -->
+            <!--
+                1. Descargar XAMPP
+                2. Configurar conf/extra/httpd-vhost.conf
+                3. Configurar HOST (C:\WINDOWS\System32\drivers\etc\hosts)
+                4. Crear carpeta del sitio
+                5. Trabajar
+
+                hosts:
+                127.0.0.1                   colomos.localhost.com
+
+                httpd-vhost.conf
+                <VirtualHost *:80>
+                    
+                    ServerName colomos.localhost.com
+                    DocumentRoot "C:/web/xampp/htdocs/WEB"
+                    SetEnv APPLICAION_ENV "development"
+                    <Directory "C:/web/xampp/htdocs/WEB">
+                        DirectoryIndex 	index.php || index.htm || index.html || index.phtml
+                        AllowOverride All
+                        Order allow,deny
+                        Allow from all
+                    </Directory>
+                    ErrorLog "logs/colomos.localhost.com-error.log"
+                </VirtualHost>
+            -->
+        <!-- FINAL CONTENIDO -->
+		<script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script>
+        <script src="js/jquery.js"></script>
+	</body>
+</html>
