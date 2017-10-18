@@ -10,6 +10,11 @@
 		<!--  ESTILOS  -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/carousel.css">
+        <link rel="stylesheet" type="text/css" href="css/dropdown.css">
+        <link rel="stylesheet" type="text/css" href="css/imagegallery.css">
+        <!-- Bootstrap Dropdown Hover CSS -->
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
 	</head>
 
 	<body>
@@ -20,9 +25,39 @@
             <div class="container">
                 <div class="collapse navbar-collapse" id="subenlaces">
                     <ul class="nav subnav navbar-nav navbar-center">
-                        <li><a class="sombrear" href="#">Conoce el CETI</a></li>
-                        <li><a class="sombrear" href="#">Oferta Educativa</a></li>
-                        <li><a class="sombrear" href="articulo.php?id=257">Aspirantes</a></li>
+                        <li>
+                            <div class="dropdown">
+                            <button class="dropbtn">Conoce el CETI</button>
+                            <div class="dropdown-content">
+                            <a href="#">Historia</a>
+                            <a href="#">Misión</a>
+                            <a href="#">Visión</a>
+                            <a href="#">Plano del Plantel</a>
+                            <a href="#">Ubicación</a>
+                            <a href="#">Mensaje del director</a>
+                            <a href="#">Directorio Telefónico Organigrama</a>
+                            </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="dropdown">
+                            <button class="dropbtn">Oferta Educativa</button>
+                            <div class="dropdown-content">
+                            <a href="#">Nivel Tecnólogo</a>
+                            <a href="#">Nivel Ingeniería</a>
+                            </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="dropdown">
+                            <button class="dropbtn">Aspirantes</button>
+                            <div class="dropdown-content">
+                            <a href="#">Trámite de Admisión</a>
+                            <a href="#">Curso Propedéutico</a>
+                            <a href="#">Dictamen de Admisión</a>
+                            </div>
+                            </div>
+                        </li>
                         <li><a class="sombrear" href="articulo.php?id=97&Itemid=90">Alumnos</a></li>
                         <li><a class="sombrear" href="index.php">Egresados</a></li>
                         <li><a class="sombrear" href="buzon.php">Docentes</a></li>
@@ -39,14 +74,14 @@
         <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="imagenes/noticias/3.jpg" alt="Chania">
+                        <img src="imagenes/noticias/4.jpg" alt="Chania">
                         <div class="carousel-caption">
                             <h3>Header of Slide 1</h3>
                             <p>Details of Slide 1. Lorem Ipsum Blah Blah Blah....</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="imagenes/noticias/4.jpg" alt="Chania">
+                        <img src="imagenes/noticias/3.jpg" alt="Chania">
                         <div class="carousel-caption">
                             <h3>Header of Slide 2</h3>
                             <p>Details of Slide 2. Lorem Ipsum Blah Blah Blah....</p>
@@ -78,6 +113,7 @@
         </div>
         <br>
         <br>
+
         <!-- MENU SECUNDARIO -->
         <nav class="navbar navbar-inverse sub-sub-navbar navbar-static-top" >
             <div class="container">
@@ -92,17 +128,55 @@
             </div>
         </nav>
         <br>
+
+        <!-- CONTENIDO PÁGINA-->
         <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="col-md-12 col-sm-12 col-xs-12">
+
+                <div class="gallery">
+                    <a target="_blank" href="#">
+                    <img src="imagenes/index/alumnos.jpg" alt="alumnos">
+                    </a>
+                </div>
+                <div class="gallery">
+                    <img src="imagenes/index/alumnos2.jpg" alt="alumnos">
+                </div>
+                <div class="gallery">
+                    <a target="_blank" href="#">
+                    <img src="imagenes/index/alumnos3.jpg" alt="alumnos">
+                    </a>
+                </div>
+                <div class="gallery">
+                    <a target="_blank" href="#">
+                    <img src="imagenes/index/calendario.jpg" alt="alumnos">
+                    </a>
+                </div>
+                <!--<img src="imagenes/index/alumnos.jpg" alt="alumnos" height="200" width="273">
+                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
+                <img src="imagenes/index/alumnos2.jpg" alt="alumnos" height="200" width="273">
+                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
+                <img src="imagenes/index/alumnos3.jpg" alt="alumnos" height="200" width="274">
+                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
+                <!--<img src="imagenes/index/calendario.jpg" alt="alumnos" height="200" width="274">-->
+                <div class="col-md-12 col-sm-12 col-xs-12">                                              
                     <h3 class="top-buffer">Noticias recientes</h3>
                     <hr class="red"></hr>
                 </div>
             </div>
         </div>
         </main>
+
         <!-- FINAL CONTENIDO -->
 		<script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script>
         <script src="js/jquery.js"></script>
+
+        <!-- Dropdown -->
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+
+        <!-- Bootstrap Dropdown Hover JS -->
+        <script src="js/bootstrap-dropdownhover.min.js"></script>
 	</body>
 </html>
