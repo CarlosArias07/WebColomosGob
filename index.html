@@ -132,8 +132,8 @@
                     <div class="item active">
                         <img src="imagenes/noticias/4.jpg" alt="Chania">
                         <div class="carousel-caption">
-                            <h3>Header of Slide 1</h3>
-                            <p>Details of Slide 1. Lorem Ipsum Blah Blah Blah....</p>
+                            <h3>Título de Noticia</h3>
+                            <p>Texto breve descriptivo de Noticia</p>
                         </div>
                     </div>
                     <div class="item">
@@ -210,61 +210,242 @@
 
         <br>
 
-        <!-- CONTENIDO PÁGINA-->
+        <!-- Indicador de pagina actual-->
         <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                
-                <div class="gallery">
-                    <a target="_blank" href="#">
-                    <img src="imagenes/index/alumnos.jpg" alt="alumnos" width="265" height="200">
-                    </a>
-                </div>
-                <div class="gallery">
-                    <img src="imagenes/index/alumnos2.jpg" alt="alumnos" width="265" height="200">
-                </div>
-                <div class="gallery">
-                    <a target="_blank" href="#">
-                    <img src="imagenes/index/alumnos3.jpg" alt="alumnos" width="265" height="200">
-                    </a>
-                </div>
-                <div class="gallery">
-                    <a target="_blank" href="#">
-                    <img src="imagenes/index/calendario.jpg" alt="alumnos" width="265" height="200">
-                    </a>
-                </div>
-                <!--<img src="imagenes/index/alumnos.jpg" alt="alumnos" height="200" width="273">
-                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
-                <img src="imagenes/index/alumnos2.jpg" alt="alumnos" height="200" width="273">
-                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
-                <img src="imagenes/index/alumnos3.jpg" alt="alumnos" height="200" width="274">
-                <img src="imagenes/index/barra.png" alt="alumnos" height="200" width="7">
-                <!--<img src="imagenes/index/calendario.jpg" alt="alumnos" height="200" width="274">-->
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="icon icon-home"></i></a></li>
+                    <li class="active"><a href="index.html">Inicio</a></li>
+                </ol>
+            </div>
+            <hr>
+        </div>
+
+        <div class='icon-scroll'></div>
+
+        <!-- Noticias Recientes-->
+        <div class="container">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                    <img class=".img-responsive" src="imagenes/index/alumnos.jpg" alt="alumnos" width="265" height="200">
+                    <img class=".img-responsive" src="imagenes/index/alumnos2.jpg" alt="alumnos" width="265" height="200">
+                    <img class=".img-responsive" src="imagenes/index/alumnos3.jpg" alt="alumnos" width="265" height="200">
+                    <img class=".img-responsive" src="imagenes/index/calendario.jpg" alt="alumnos" width="265" height="200">
                 <div class="col-md-12 col-sm-12 col-xs-12">                                              
-                    <h3 class="top-buffer">Noticias recientess</h3>
+                    <h3 class="top-buffer">Noticias recientes</h3>
                     <hr class="red"></hr>
                         <div class="gallery">
                             <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                <img src="imagenes/index/alumnos.jpg" alt="Fjords" width="300" height="200">
+                                <img src="imagenes/index/noticias1.jpg" alt="Fjords" width="300" height="200">
                             </a>
-                            <div class="desc">Add a description of the image here</div>
+                            <div class="desc">
+                                <h4>Título de Noticia</h4>
+                                Fecha de publicación de Noticia 
+                            </div>
                         </div>
 
                         <div class="gallery">
                             <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                <img src="imagenes/index/alumnos.jpg" alt="Fjords" width="300" height="200">
+                                <img src="imagenes/index/noticias2.jpg" alt="Fjords" width="300" height="200">
                             </a>
-                            <div class="desc">Add a description of the image here</div>
+                            <div class="desc">
+                                <h4>Título de Noticia</h4>
+                                Fecha de publicación de Noticia
+                            </div>
                         </div>
 
                         <div class="gallery">
                             <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                <img src="imagenes/index/alumnos.jpg" alt="Fjords" width="300" height="200">
+                                <img src="imagenes/index/noticias3.jpg" alt="Fjords" width="300" height="200">
                             </a>
-                            <div class="desc">Add a description of the image here</div>
+                            <div class="desc">
+                                <h4>Título de Noticia</h4>
+                                Fecha de publicación de Noticia
+                            </div>
                         </div>
                 </div>
+                <div class="col-md-12 clearfix top-buffer">
+                        <a class="pull-right" href="noticias.php">ver historial</a>
+                    </div>
             </div>
         </div>
+
+        <!-- Sitios y notas de interes -->
+        <section class="structure dependency bottom-buffer clearfix list-article slider_articles" >
+        <div class="container" >
+            <div class="col-md-12 col-sm-12 col-xs-12 notas">
+                    <h3 class="top-buffer ">Sitios y notas de interés</h3>
+                    <hr class="red"></hr>
+            </div>
+            <div id="notas" class="row carousel slide" data-ride="carousel">
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner">
+                <div class='item active'>
+                                                    <ul class='thumbnails'>
+
+                                                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                    <div class='thumbnail'>
+                                                                        <a href='#'><img src='img/noticias/3116bannercalendarioserviciosactividadescademicas'  height='208px'></a>
+                                                                    </div>
+                                                                    <div class='caption-box'>
+                                                                        <h4>Calendario de Servicios y Actividades académicas 2017-2018</h4>
+                                                                        <p>Calendario de Servicios y Actividades académicas 2017-2018</p>
+                                                                        <a class='btn btn-success btn-mini' href='noticia.php?id=1112'>Ver</a>
+                                                                    </div>
+                                                                </li>
+
+
+                                                        
+
+                                                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                    <div class='thumbnail'>
+                                                                        <a href='#'><img src='img/noticias/2404bannercalendarioescolar2017-2018.jpg'  height='208px'></a>
+                                                                    </div>
+                                                                    <div class='caption-box'>
+                                                                        <h4>Calendario Escolar 2017-2018</h4>
+                                                                        <p>Consulta el Calendario Escolar 2017-2018</p>
+                                                                        <a class='btn btn-success btn-mini' href='noticia.php?id=1111'>Ver</a>
+                                                                    </div>
+                                                                </li>
+
+
+                                                        
+
+                                                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                    <div class='thumbnail'>
+                                                                        <a href='#'><img src='img/noticias/205145aniversario.jpg'  height='208px'></a>
+                                                                    </div>
+                                                                    <div class='caption-box'>
+                                                                        <h4>45° Aniversario CETI </h4>
+                                                                        <p></p>
+                                                                        <a class='btn btn-success btn-mini' href='http://direcciondesarrollo.ceti.mx/historico/'>Ver</a>
+                                                                    </div>
+                                                                </li>
+
+
+                                                            </ul>
+                                                    </div><!-- /Slide1 --><div class='item'>
+                                                     <ul class='thumbnails'>
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/0504ifai.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>IFAI</h4>
+                                                                            <p>Instituto Federal de Acceso a la Información Pública</p>
+                                                                            <a class='btn btn-success btn-mini' href='http://www.ifai.org.mx/'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/0202pifad.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>PIFAD</h4>
+                                                                            <p>Programa Institucional de Formación y Actualización Docente </p>
+                                                                            <a class='btn btn-success btn-mini' href='http://formaciondocente.ceti.mx/'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/5801paci.jpeg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>PACI</h4>
+                                                                            <p>Conoce más sobre equidad y género</p>
+                                                                            <a class='btn btn-success btn-mini' href='articulo.php?id=101'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                              </ul>
+                                                    </div><!-- /Slide2 --><div class='item'>
+                                                     <ul class='thumbnails'>
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/5249paa.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>PAA</h4>
+                                                                            <p>Programa Anual de Adquisiciones 2015</p>
+                                                                            <a class='btn btn-success btn-mini' href='articulo.php?id=129'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/4333cdceti.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>Sistema de Control de Documentos CETI</h4>
+                                                                            <p></p>
+                                                                            <a class='btn btn-success btn-mini' href='http://calidad.ceti.mx/'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/3807contraloria-social.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>PRODEP</h4>
+                                                                            <p>Contraloría social</p>
+                                                                            <a class='btn btn-success btn-mini' href='articulo.php?id=258'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                              </ul>
+                                                    </div><!-- /Slide2 --><div class='item'>
+                                                     <ul class='thumbnails'>
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/evaluacionpresupuestos.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>Evaluación de Programas Presupuestarios</h4>
+                                                                            <p></p>
+                                                                            <a class='btn btn-success btn-mini' href='articulo.php?id=131'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/4059tramitefacil.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>Trámite Fácil </h4>
+                                                                            <p>Evalúa los trámites del Gobierno</p>
+                                                                            <a class='btn btn-success btn-mini' href='http://www.tramitefacil.gob.mx/'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                            
+
+                                                                    <li class='col-md-3 col-sm-3 col-xs-3'>
+                                                                        <div class='thumbnail'>
+                                                                            <a href='#'><img src='img/noticias/3108sems.jpg'  height='208px'></a>
+                                                                        </div>
+                                                                        <div class='caption-box'>
+                                                                            <h4>Portal SEMS </h4>
+                                                                            <p>Subsecretaría de Educación Media Superior</p>
+                                                                            <a class='btn btn-success btn-mini' href='http://www.sems.gob.mx/'>Ver</a>
+                                                                        </div>
+                                                                    </li>
+                                                              </ul>
+                                                    </div><!-- /Slide2 -->
+
+                <!-- Control box -->
+                <div class="control-box">
+                    <a data-slide="prev" href="#notas" class="carousel-control left">‹</a>
+                    <a data-slide="next" href="#notas" class="carousel-control right">›</a>
+                </div><!-- /.control-box -->
+            </div></div></div>
+        </section>
 		
 		
         </main>
