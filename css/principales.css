@@ -3,3 +3,7 @@
 .nota{
     margin-top: 80px;
  }
+ 
+ p.contenido {
+    text-align: justify;
+}
