@@ -1,0 +1,79 @@
+
+
+.boton {
+	height:29px; 
+	width: 310px;
+	background:#5882FA;
+	border-radius: 8px;
+	margin:0 auto;
+	}
+	
+.alternativo {color: #ffff;}
+
+.revista {
+border: 5px solid #ccc;
+float: left;
+margin: 5px 15px;
+-webkit-transition: margin 0.5s ease-out;
+-moz-transition: margin 0.5s ease-out;
+-ms-transition: margin 0.5s ease-out;
+transition: margin 0.5s ease-out;
+}
+.ex1 img:hover {
+margin-top: 2px;
+}
+
+
+
+input[id^="spoiler"]{
+ display: none;
+ color: #fff;
+ 
+}
+input[id^="spoiler"] + label {
+  display: block;
+  width: 270px;
+  height:30%;
+  margin: 0 auto;
+  padding: 5px 20px ; /*margenes del boton*/
+  background: #5882FA; /* azul, boton*/
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all .6s;
+}
+
+input[id="spoiler1"] + label {
+ 
+  background: #f08169; /* naranja, boton*/
+ 
+
+}
+
+input[id^="spoiler"]:checked + label {
+  color: #000; /* letras durante el click -->*/
+  background: #ccc; /*fondo gris*/
+  height:30%; /*Para hacer la etiqueta del titulo mas chica al dar clic*/
+  
+}
+input[id^="spoiler"] ~ .spoiler {
+  width: 90%;
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+  margin: 5px auto 0; /*distancia entre el boton del titulo y el desplegado*/
+  padding: 0px; /*margen entre el boton y los demas*/
+  background: #eee; /* fondo del texto desplegable-*/
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: all .6s;
+  text-align:center;
+  font-size: 12px; /*tamaño de letra del recuadro de opciones*/
+}
+input[id^="spoiler"]:checked + label + .spoiler{
+  height: auto;
+  opacity: 1;
+  padding: 10px;
+}
