@@ -32,7 +32,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'>Oferta Educativa</li>
+					                    <li>Oferta Educativa</li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/nTecnologo.php'>Nivel Tecn&oacute;logo</a></li>
 					                </ol>
 					            </div>

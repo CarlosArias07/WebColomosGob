@@ -13,6 +13,7 @@
         <link rel="stylesheet" type="text/css" href="../../css/dropdown.css">
         <link rel="stylesheet" type="text/css" href="../../css/imagegallery.css">
 		<link rel="stylesheet" type="text/css" href="../../css/principales.css">
+		
         <!-- Bootstrap Dropdown Hover CSS -->
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
@@ -32,12 +33,11 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'>Oferta Educativa</li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/nTecnologo.php'>Nivel Tecn&oacute;logo</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/conoceCeti/directorioTelefonico.php'>Directorio Telefonico</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Carreras de Tecn&oacute;logo</h2>
+					            		<h2 class='bottom-buffer'>Directorio Telefonico</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -71,36 +71,15 @@
 								    </div>
 
 								    <div class='col-sm-7 pull-left'>
-								    	<div class='article-body'>
-								    		<hr class='red'>
-								    		<p class='contenido'>
-											Desde sus inicios el CETI se destaca por su modelo educativo especializado en el ámbito del desarrollo de la tecnología, por lo que en primera instancia a sus egresados se les dio el título de “Técnico”, más sin embargo,
-											dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la
-											técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
-											</p>
-
-
-<div class="row">
-  <div class="col-sm-6 col-md-3">
-    <a href="http://www.colomos.ceti.mx" class="thumbnail">
-       <img src="../../imagenes/ofertaEducativa/carrera.jpg" alt="Control Automatico">
-    </a>
-	<a href="http://www.colomos.ceti.mx" class="thumbnail">
-       <img src="../../imagenes/ofertaEducativa/carrera.jpg" alt="Control Automatico">
-    </a>
-	
-  </div>
-  
-
-</div>
-
-
-
-
-
-
-
-								    	</div>
+								    	<div class="article-body">
+						                    <hr class="red">
+						                    <p class="contenido">	
+                                             <object type"application/pdf" data="../../documentos/conoceCeti/directorioTelefonico-2017.pdf"  height="1730" width="700" > </object>
+										     </p>
+										</div>		
+					                </div>
+										
+										
 								    </div>
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>

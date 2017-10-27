@@ -15,9 +15,10 @@
 	</head>
 
 	<body>
-        <!-- CONTENIDO A PARTIR DE AQUI -->
         <!-- MENU PRINCIPAL -->
         <?php include_once('menu.html'); ?>
+
+        <!-- CONTENIDO A PARTIR DE AQUI -->
         <main class="principal">
         <!--<nav class="havbar navbar-inverse sub-navbar navbar-fixed-top" >
             <div class="container">
