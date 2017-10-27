@@ -7,3 +7,7 @@
  p.contenido {
     text-align: justify;
 }
+
+p.descripcion {
+    font-size: 12px;
+	}

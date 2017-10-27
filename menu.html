@@ -24,7 +24,7 @@
                             <a href="templates/conoceCeti/directorioInstitucional.html">Directorio Institucional</a>
                             <a href="templates/conoceCeti/directorioTelefonico.html">Directorio Telefónico</a>
                             <a href="templates/conoceCeti/redSeguridad.html">Red de Seguridad</a>
-							<a href="#">Anuies</a>
+							<a href="templates/conoceCeti/anuies.html">Anuies</a>
                             </div>
                             </div>
                         </li>
