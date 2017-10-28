@@ -19,7 +19,7 @@
 	</head>
 
 	<body>
-        <!-- MENU PRINCIPAL -->
+		<!-- MENU PRINCIPAL -->
         <?php include_once('../../menu.html'); ?>
 
         <!-- CONTENIDO A PARTIR DE AQUI -->
@@ -32,31 +32,32 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li>Oferta Educativa</li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/nTecnologo.php'>Nivel Tecn&oacute;logo</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Carreras de Tecn&oacute;logo</h2>
+					            		<h2 class='bottom-buffer'>Construcción</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"/> 
 										
 										<!--Menu lateral -->
-										<!--<div class='border-box submenu_relacionados'>
+										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="#">Misión</a><hr class="sub-hr"></li>	
-											        <li><a href="#">Visión</a><hr class="sub-hr"></li>
-													<li><a href="#">Historia del Ceti</a><hr class="sub-hr"></li>	
-													<li><a href="#">Mensaje del Director</a><hr class="sub-hr">	</li>
-													<li><a href="#" target="_blank">Metas Institucionales</a><hr class="sub-hr"></li>
-													<li><a href="#" target="_blank">Análisis de las metas</a><hr class="sub-hr"></li>	
-													</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
-								        <hr class='red sitios_relacionados'><ul><li>		<a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr">	</li>	<li>		<a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr">	</li>	<li>		<a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr">	</li></ul>
-									    </div>  -->
+									       	<ul>	
+											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
+								            <hr class='red sitios_relacionados'>
+											<ul>
+											    <li><a href="ofertaEducativa.php">Carreras Tecn&oacute;logo</a><hr class="sub-hr"></li>	
+										        <li><a href="ofertaEducativa.php">Carreras Ingenier&iacute;a</a><hr class="sub-hr"></li></ul>
+									    </div>
 
 
 
@@ -74,32 +75,9 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class='contenido'>
-											Desde sus inicios el CETI se destaca por su modelo educativo especializado en el ámbito del desarrollo de la tecnología, por lo que en primera instancia a sus egresados se les dio el título de “Técnico”, más sin embargo,
-											dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la
-											técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
-											</p>
-
-
-<div class="row">
-  <div class="col-sm-6 col-md-3">
-    <a href="http://www.colomos.ceti.mx" class="thumbnail">
-       <img src="../../imagenes/ofertaEducativa/carrera.jpg" alt="Control Automatico">
-    </a>
-	<a href="http://www.colomos.ceti.mx" class="thumbnail">
-       <img src="../../imagenes/ofertaEducativa/carrera.jpg" alt="Control Automatico">
-    </a>
-	
-  </div>
-  
-
-</div>
-
-
-
-
-
-
-
+Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
+ en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
+ ecológico, ético y en beneficio de la sociedad.</p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
