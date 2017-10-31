@@ -32,8 +32,8 @@
                             <div class="dropdown">
                             <button class="dropbtn">Oferta Educativa</button>
                             <div class="dropdown-content">
-                            <a href="#">Nivel Tecnólogo</a>
-                            <a href="#">Nivel Ingeniería</a>
+                            <a href="templates/OfertaEducativa/ofertaEducativa.php">Nivel Tecn&oacute;logo y Nivel Ingenier&iacute;a </a>
+
                             </div>
                             </div>
                         </li>

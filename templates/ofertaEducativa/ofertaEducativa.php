@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li>Oferta Educativa</li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li class='active'><a href='#'>Oferta Educativa</a></li>
+										             
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -86,7 +86,7 @@
 											
                                     <div class="row">
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="construccion.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"> </a>
 	                                        <div class="">
                                               <p>Tgo. en Construcci&oacute;n</p>
@@ -94,7 +94,7 @@
                                         </div>
   
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="controlAutomatico.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"></a>
 	                                        <div class="">
                                                <p>Tgo. en Control Automatico</p>
@@ -102,7 +102,7 @@
                                         </div>
   
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="electronica.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/electronica.png" alt="Electronica Comunicaciones"></a>
 	                                        <div class="">
                                                <p>Tgo. en Electr&oacute;nica y Comunicaciones</p>
@@ -110,7 +110,7 @@
                                         </div>
 
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="maquinasHerramienta.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/maquinasHeramienta.png" alt="Maquinas Heramienta"></a>
 	                                        <div class="">
                                               <p>Tgo. en Maquinas-Herramienta</p>
@@ -118,7 +118,7 @@
                                         </div>
  
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="mecanicaAutomotriz.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/mecanicaAutomotriz.png" alt="Mecanica Automotriz"></a>
 	                                        <div class="">
                                                 <p>Tgo. en Mecanica Automotríz</p>
@@ -126,7 +126,7 @@
                                         </div>
   
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="desarrolloSoftware.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/desarrolloSoftware.png" alt="Desarrollo Software"></a>
 	                                        <div class="">
                                                <p>Tgo. en Desarrollo de Software</p>
@@ -134,7 +134,7 @@
                                         </div>
   
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="quimicoFarmacos.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/quimicoFamacos.png" alt="Quimico Farmacos"></a>
 	                                        <div class="">
                                             <p>Tgo. en Químicos en Fármacos</p>
@@ -142,7 +142,7 @@
                                         </div>
   
                                         <div class="col-sm-6 col-md-3">
-                                            <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                            <a href="electromecanica.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/electromecanica.png" alt="electromecanica"></a>
 	                                        <div class="">
                                                <p>Tgo. en Electromecanica</p>

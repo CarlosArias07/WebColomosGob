@@ -33,16 +33,16 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotriz.php'>Mecanica Automotr&iacute;z</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Construcción</h2>
+					            		<h2 class='bottom-buffer'>Mecanica Automotr&iacute;z</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/mecanicaAutomotriz.png" alt="Mecanica Automotr&iacute;z"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
@@ -76,9 +76,15 @@
 								    		<hr class='red'>
 											<b>Objetivo general </b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
- en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
- ecológico, ético y en beneficio de la sociedad.</p>
+											Formar tecnólogos profesionales en Mecánica Automotriz y Diesel, capacitados con
+conocimientos , habilidades, aptitudes y destrezas para identificar, analizar, diagnosticar y
+corregir fallas en los diferentes sistemas de los vehículos automotrices y sus
+componentes electrónicos, elaborando programas administrativos y técnicos de
+mantenimiento preventivo y correctivo, siendo capaz de diseñar piezas automotrices
+utilizando software asistido por computadora, fomentando las actitudes y valores que le
+permitan trabajar en equipo, con sentido ético y visión emprendedora, asumiendo una
+actitud de compromiso para proteger el medio ambiente. 
+											</p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

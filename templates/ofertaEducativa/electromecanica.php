@@ -33,16 +33,16 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electromecanica.php'>Electromec&aacute;nica</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Construcción</h2>
+					            		<h2 class='bottom-buffer'>Electromec&aacute;nica</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/electromecanica.png" alt="Electromecanica"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
@@ -76,9 +76,14 @@
 								    		<hr class='red'>
 											<b>Objetivo general </b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
- en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
- ecológico, ético y en beneficio de la sociedad.</p>
+											Formar profesionales de nivel medio superior con capacidad para desempeñarse con responsabilidad
+                                            y actitud emprendedora, derntro del sector productivo y de servicios, en las areas electrica,  
+											electronica y electromecanica atendiendo propositivamente
+                                            y con criterios normalizados, los retos que se le presenten en la generación
+                                            y distribucion de energia electrica; la instalacion y puesta en servicio de instalaciones electricas, sistemas de control
+											electrico-electronico industrial; el consumo y el ahorro de energía eléctrica; ele mantenimiento y operaciones de 
+											maquinas electricas, equipos eléctrónicos y sistemas electromecánicos.
+											</p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

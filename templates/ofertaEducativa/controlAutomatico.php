@@ -33,16 +33,16 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Construcción</h2>
+					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
@@ -76,9 +76,14 @@
 								    		<hr class='red'>
 											<b>Objetivo general </b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
- en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
- ecológico, ético y en beneficio de la sociedad.</p>
+Formar Tecnólogos profesionales en el campo del Control Automático y la
+Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
+intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
+de sistemas de control y equipos de regulación automática, así como instalar, programar y
+poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
+industriales, trabajando de manera individual o en equipo y aplicando las diferentes
+tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
+beneficio de la sociedad.                   </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
