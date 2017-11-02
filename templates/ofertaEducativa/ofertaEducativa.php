@@ -156,7 +156,7 @@
 											</p>
                                             <div class="row">
                                                <div class="col-sm-6 col-md-3">
-                                                    <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                                    <a href="mecatronica.php" class="thumbnail">
                                                     <img src="../../imagenes/ofertaEducativa/mecatronica.png" alt="Mecatronica">
 	                                                </a>
 	                                                <div class="">
@@ -165,7 +165,7 @@
                                                 </div>
   
                                                 <div class="col-sm-6 col-md-3">
-                                                    <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                                    <a href="industrial.php" class="thumbnail">
                                                     <img src="../../imagenes/ofertaEducativa/industrial.png" alt="Industrial">
                                                     </a>
 	                                                <div class="">
@@ -174,7 +174,7 @@
                                                 </div>
   
                                                 <div class="col-sm-6 col-md-3">
-                                                    <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                                    <a href="ids.php" class="thumbnail">
                                                     <img src="../../imagenes/ofertaEducativa/desarrolloElectronico.png" alt="Desarrollo de Software">
                                                     </a>
 	                                                <div class="">
@@ -183,7 +183,7 @@
                                                 </div>
 												
                                                 <div class="col-sm-6 col-md-3">
-                                                    <a href="http://www.colomos.ceti.mx" class="thumbnail">
+                                                    <a href="idesi.php" class="thumbnail">
                                                     <img src="../../imagenes/ofertaEducativa/desarrolloElectronico.png" alt="Diseño Electronico">
                                                     </a>
 	                                                <div class="">
