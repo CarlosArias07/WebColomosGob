@@ -34,10 +34,11 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccionMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Construcción</h2>
+					            		<h2 class='bottom-buffer'>Misión y Visión de la Carrera de Tecnólogo en Construcción</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,7 +50,7 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="construccionMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="construccion.php">Contrucci&oacute;n</a><hr class="sub-hr"></li>	
 											    <li><a href="construccionPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
@@ -74,11 +75,16 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<b>Misi&oacute;n</b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
- en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
- ecológico, ético y en beneficio de la sociedad.</p>
+               La División de Construcción, es un departamento academico, para la formación de profesionales que se desempeñen en los procesos constructivos de la obra civil, con capacidad emprendedora y formación de liderazgo,
+              promoviendo la calidad y el mejoramiento del medio ambiente.</p>
+                                            <b> Visi&oacute;n </b>
+                                             <p class='contenido'>
+											 "La División de Construcción, busca convertirse en un departamento académico de vanguardia en la industria de la construcción, 
+											 en la que sus egresados posean las competencias necesarias, que les den la seguridad y confianza,
+											 para participar individual y colectivamente en los cambios del país con base en sus valores sociales."
+											 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

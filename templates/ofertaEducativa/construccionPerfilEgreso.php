@@ -34,10 +34,11 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccionPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Construcción</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de Tecnólogo en Construcción</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,8 +50,8 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="construccionMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="construccionPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="construccion.php">Contrucci&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="construccionMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -74,11 +75,51 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<b>Perfil de Egreso Acad&eacute;mico</b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
- en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,
- ecológico, ético y en beneficio de la sociedad.</p>
+                                    El Tecnólogo en Construcción contará con la formación académica apoyo en su formación 
+                                    profesional,  que  como  consecuencia  le  capacitarán  para  realizar  efectivamente  las  
+                                    siguientes tareas:</p>
+                                             <ul>
+											    <li>Supervisa el mantenimiento correctivo, preventivo y predictivo de obras civiles, planifica las actividades del personal 
+												así como programa los tiempos y actividades de los procesos constructivos y 
+												administra los recursos y el personal respaldados con los análisis de los costos y los presupuestos del proyecto.     
+												</li>
+												<li>Identifica, selecciona, elabora y emplea los materiales utilizados en los procedimientos constructivos. 
+												</li>
+												<li> Dibuja e interpreta planos constructivos elaborados a mano y en computadora, tanto para procedimientos administrativos de control así como para la ejecución
+												y supervisión de obra civil y maneja los modelos tridimensionales a escala para las representaciones gráficas. 
+												</li>
+												<li>Utiliza conocimientos de antecedentes urbanos, su demanda social y física, en el desarrollo urbano sustentable. 
+												</li>
+												<li>
+												Reconoce y maneja el software adecuado que le permita calcular, y auxiliar en el diseño de los proyectos de obra civil,
+												así como presentar informes técnicos de los mismos. 
+												</li>
+												<li>
+												Define, clasifica y planea las actividades para la elaboración de su trabajo recepcional e identifica las opciones y los trámites administrativos necesarios para la
+												obtención de su título. 
+												</li>
+												<li>Aplica los lineamientos y procesos, en el proyecto y cálculo estructural para edificación, en concreto, madera y acero. 
+												</li>
+												<li> Participa en el diseño de cimentaciones de edificios, muros de contención o estabilidad geotécnica, relacionando los conocimientos de los suelos y su influencia en las estructuras. 
+												</li>
+												<li>Diseña dosificaciones y realiza pruebas de control a la calidad del concreto así como elaborar elementos prefabricados de concreto, con o sin acero de refuerzo. 
+												</li>
+												<li>Conoce y aplica los procedimientos y procesos para la construcción de obras hidráulicas y sanitarias. 
+												</li>
+												<li>Diseña y elabora instalaciones de agua potable, sanitarias, eléctricas y de aire acondicionado, utilizando los materiales y las herramientas adecuadas, que le permita supervisar 
+												este tipo de procesos y trabajos en la construcción.
+												</li>
+												<li>Realiza cálculos y diseño de redes de agua potable, alcantarillado y obras complementarias, así como supervisa los trabajos en la construcción de las mismas. 
+												</li>
+												<li> Aplica pruebas de control de calidad en obras de infraestructura y urbanización de acuerdo a la normatividad. 
+												</li>
+												<li> Dibuja, analiza y calcula levantamientos topográficos, tanto en planimetría como en altimetría, manejando el equipo adecuado para este tipo de estudio, utilizando conocimientos matemáticos 
+												adecuados a cada análisis del cálculo topográfico
+												</li>
+											 </ul>
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
