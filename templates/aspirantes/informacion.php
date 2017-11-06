@@ -44,6 +44,21 @@
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
 					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
+					            		<!--Menu lateral -->
+										<div class='border-box submenu_relacionados'>
+									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
+									        <hr class='red sitios_relacionados'>
+									       	<ul>	
+											    <li><a href="/WebColomosGob/templates/aspirantes/materialApoyo.php">Material de Apoyo</a><hr class="sub-hr"></li>	
+											</ul>
+										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
+								            <hr class='red sitios_relacionados'>
+											<ul>
+											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
+											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
+											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
+											</ul>-->
+									    </div> 
 								    </div>
 
 								    <div class='col-sm-7 pull-left'>
