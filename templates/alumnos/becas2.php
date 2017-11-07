@@ -33,25 +33,23 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/alumnos/beca2.php'>Becas</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
 										             
 					                </ol>
 					            </div>
-								<div class="container">
 									<h2 style="text-align: justify;">Becas para nivel Tecnólogo e Ingeniería</h2>
 									<hr class="red" />
 									<p>&nbsp;</p>
 									<div class="row">
-										<div class="col-md-6"><a href="/2-principal/199-beca-de-manutención" target="_self"><img src="../../imagenes/alumnos/tecnologo.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
-										<div class="col-md-6"><a href="/2-principal/207-resumen-beca-para-prácticas" target="_self"><img src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
+										<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becasTecnologo.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/tecnologo.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
+										<div class="col-md-6"><a href="/2-principal/207-resumen-beca-para-prácticas" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
 									</div>
 									<p>&nbsp;</p>
 
 									<p class='contenido'>
 										Cualquier duda o aclaración sobre los diferentes Programas de BECAS acude a Trabajo Social, que se ubican en el Edificio A Planta Baja en horario de lunes a viernes en horario de 9:00 a 17:00 hrs. o comunícate al Teléfono 36413250 ext.503
 									</p>
-								</div>    
-	    	</div>
+								
 		<br>
         <br>
         <br>
