@@ -74,7 +74,7 @@
 								    		<hr class='red'>
 
 											<p>
-											<object type"application/pdf" data="../../documentos/conoceCeti/Calendario2017-2018.pdf"  height="990" width="700" > </object>
+											<object type"application/pdf" data="../../documentos/conoceCeti/Calendario2017-2018.pdf"  height="990" width="600" > </object>
 											 <a href="../../documentos/conoceCeti/Calendario2017-2018.pdf" target="_blank"> Abrir Calendario Escolar</a>
 											</p>
 								    	</div>

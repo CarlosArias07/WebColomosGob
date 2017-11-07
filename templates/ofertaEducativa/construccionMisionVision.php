@@ -35,6 +35,7 @@
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccion.php'>Construcción</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccionMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -52,7 +53,8 @@
 									       	<ul>	
 											    <li><a href="construccion.php">Contrucci&oacute;n</a><hr class="sub-hr"></li>	
 											    <li><a href="construccionPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="construccionReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>

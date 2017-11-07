@@ -33,23 +33,25 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ControlAutomatico.php'>Control Automatico e instrumentaci&oacute;n</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccionMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico</h2>
+					            		<h2 class='bottom-buffer'>Misión y Visión de la Carrera de Tecnólogo en Control Automatico e instrumentaci&oacute;n</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/ControlAutomatico.png" alt="ControlAutomatico"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="ControlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="ControlAutomatico.php">ControlAutomatico e instrumentacion</a><hr class="sub-hr"></li>	
 											    <li><a href="ControlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="ControlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
@@ -75,16 +77,14 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<b>Misi&oacute;n</b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo del Control Automático y la
-Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
-intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
-de sistemas de control y equipos de regulación automática, así como instalar, programar y
-poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
-industriales, trabajando de manera individual o en equipo y aplicando las diferentes
-tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
-beneficio de la sociedad.                   </p>
+               La División de Control Automático es un área educativa que forma profesionales en las tecnologías del control automático y la instrumentación, capacitándolos para desempeñarse en la industria regional, teniendo siempre actitud emprendedora y de formación continua, respeto al medio ambiente y conciencia de su papel en el desarrollo social.
+Además, brinda grandes posibilidades de desarrollo personal a sus egresados, apoya el desarrollo de la industria regional, promueve el bienestar de la sociedad y el cuidado del medio ambiente.</p>
+                                            <b> Visi&oacute;n </b>
+                                             <p class='contenido'>
+											 Ser un área académica de vanguardia, en la enseñanza de las tecnologías predominantes del control automático, que ofrezca, cumpliendo con los estándares de calidad establecidos, servicios educativos bajo modalidades de aprendizaje idóneas y modernas, así como servicios de desarrollo tecnológico, en el ámbito del desarrollo sustentable regional.
+											 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
