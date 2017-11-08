@@ -42,7 +42,7 @@
 									<p>&nbsp;</p>
 									<div class="row">
 										<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becasTecnologo.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/tecnologo.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
-										<div class="col-md-6"><a href="/2-principal/207-resumen-beca-para-prácticas" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
+										<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becasIngenieria.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
 									</div>
 									<p>&nbsp;</p>
 

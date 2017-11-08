@@ -53,10 +53,10 @@
 											    <li><a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" target="_blank">Solicitud de Beca</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/documentos/alumnos/ConvocatoriaBecasInstitucionalesAGODIC2017.pdf" target="_blank">Convocatoria</a><hr class="sub-hr"></li>	
 											    <li><a href="/WebColomosGob/documentos/alumnos/Reglamento-para-el-otorgamiento-de-Becas-del-CETI-Rev.-K-sin-firma.pdf" target="_blank">Reglamento para obtener Beca</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Dictamen para Consulta</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Dictamen Firmado</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Fé de Erratas</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Otra Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/DictamenBecasInstitucionalesAgo-Dic2017.pdf" target="_blank">Dictamen para Consulta</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/DictamendeBecasAgosto-Diciembre2017_Firmado.pdf" target="_blank">Dictamen Firmado</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Fedeerratas_DictamendeBecas2017b.pdf" target="_blank">Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Fede erratas_DictamendeBecas_fila378.pdf" target="_blank">Otra Fé de Erratas</a><hr class="sub-hr"></li>	
 											    <li><a href="http://www.ceti.mx/cetinew/index.php" target="_blank">Contraloría Social</a><hr class="sub-hr"></li>		
 											</ul>
 									    </div> 
@@ -74,7 +74,7 @@
                                          	<h4>Requisitos para el trámite</h4>
                                          	<ul type = circle>
                                              <li>Registrarse y postularse en la página: <a href="https://snbecas.sep.gob.mx/TasksBecasWeb/" target="_blank">https://snbecas.sep.gob.mx/TasksBecasWeb/</a></li>
-                                             <li>Llenar el Formato de Beca Institucional, el cual puedes descargar <a href="">Aquí</a></li>
+                                             <li>Llenar el Formato de Beca Institucional, el cual puedes descargar <a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" download>Aquí</a></li>
                                              <li>Presentaren la ventanilla del Departamento de Servicios de Apoyo Académico la solicitud de beca por escrito, debidamente contestada y anexar la documentación indicada en la convocatoria.</li>
                                              <li>Anexar a la solicitud la documentación complementaria indicada en la convocatoria.</li>
                                              <li>Realizar los trámites en tiempo y forma según las fechas señaladas en la convocatoria vigente.</li>

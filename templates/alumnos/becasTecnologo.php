@@ -62,7 +62,7 @@
 											</p>
 											<ul type = circle>
                                              <li><a href="/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php">Beca Institucional</a></li>
-                                             <li><a href="">CBSEMS</a></li>
+                                             <li><a href="/WebColomosGob/templates/alumnos/becaCbsemsTgo.php">CBSEMS</a></li>
                                          	</ul>
                                          	<p class="contenido">
                                          		Las diferentes Becas tienen su propia Convocatoria donde se indica el periodo de inscripción, solicitud y dictamen, además de los requisitos y documentos que se deben entregar.
