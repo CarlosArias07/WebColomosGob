@@ -33,26 +33,27 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico e Instrumentaci&oacute;n</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomaticoPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentac&oacute;n</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de Tecnólogo en Control Automatico e Instrumentaci&oacute;n</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="controlAutomatico"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="controlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="controlAutomatico.php">Control Automatico</a><hr class="sub-hr"></li>	
+											    <li><a href="controlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,16 +76,26 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<b>Perfil de Egreso Acad&eacute;mico</b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo del Control Automático y la
-Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
-intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
-de sistemas de control y equipos de regulación automática, así como instalar, programar y
-poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
-industriales, trabajando de manera individual o en equipo y aplicando las diferentes
-tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
-beneficio de la sociedad.                   </p>
+                                    El egresado de la carrera de Tecnólogo en Control Automático e Instrumentación reúne el siguiente perfil académico: </p>
+                                             <ul>
+											    <li>Se expresa correctamente en forma oral y escrita usando los términos convenientes de acuerdo al asunto tratado tanto de tipo técnico y de cultura general básica.</li>
+												<li>Soluciona problemas de su especialidad haciendo uso de los conocimientos de las ciencias puras y conceptos de carácter social y administrativo.</li>
+												<li>Lee e interpreta documentos técnicos en inglés con términos básicos o de su especialidad.</li>
+												<li>Utiliza lenguajes especializados propios de su especialidad como el gráfico para la lectura e interpretación de planos, software de aplicación en las áreas del control automático.</li>
+												<li>Desarrolla funciones básicas del profesionista en la instrumentación y el control automático de los procesos.</li>
+												<li>Realiza análisis y síntesis de los sistemas de control automático mediante herramientas matemáticas y de simulación computarizada.</li>
+												<li>Analiza e implementa los sistemas de control de procesos industriales bajo diferentes tecnologías.</li>
+												<li>Realiza la programación y puesta en operación de procesos operados mediante robots así como el manejo de medición y   transmisión de información con fines de  control en los procesos.</li>
+												<li>Instala, realiza mantenimiento y puesta en operación de instrumentos de control.</li>
+												<li>Sintoniza sistemas de control automático.</li>
+												<li>Localiza fallas en la operación de sistemas automáticos de control.</li>
+												<li>Disposición para el trabajo en equipo y la formación continua</li>
+												<li>Capacidad de adaptación a los nuevos cambios tecnológicos. </li>
+												<li>Trabaja y se desempeña ética y profesionalmente en su área de formación.</li>
+											 </ul>
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -96,7 +107,7 @@ beneficio de la sociedad.                   </p>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-07 17:02:00</p>
 								    	</div>
 								    </div>
 		    					</div>

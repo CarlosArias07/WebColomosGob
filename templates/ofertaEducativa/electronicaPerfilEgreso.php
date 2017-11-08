@@ -33,26 +33,27 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electronica.php'>Electronica</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electronicaPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentac&oacute;n</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de Tecnólogo en Electr&oacute;nica y Comunicaciones</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/electronica.png" alt="electronica"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="controlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="electronica.php">Electr&oacute;nica y Comunicaciones</a><hr class="sub-hr"></li>	
+											    <li><a href="electronicaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="electronicaReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,16 +76,35 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
-								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo del Control Automático y la
-Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
-intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
-de sistemas de control y equipos de regulación automática, así como instalar, programar y
-poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
-industriales, trabajando de manera individual o en equipo y aplicando las diferentes
-tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
-beneficio de la sociedad.                   </p>
+											<b>Perfil de Egreso Acad&eacute;mico</b>
+											
+											<p>
+                                             <ul>
+											    <li>Analiza e implementa proyectos electrónicos en sistemas analógicos y digitales. 
+												</li>
+												<li>Selecciona y opera equipo de medición para la prueba y mantenimiento de sistemas electrónicos. 
+												</li>
+												<li>Modifica y/o adapta nueva tecnología. 
+												</li>
+												<li>Planifica actividades personales y/o de equipo para la ejecución de tareas. 
+												</li>
+												<li>Diagnostica y corrige fallas en equipos electrónicos. 
+												</li>
+												<li>Conoce herramientas informáticas administrativas y paquetes de simulación o diseño en la ejecución de su trabajo. 
+												</li>
+												<li>Respeta los manuales de operación y normas de seguridad al utilizar herramientas, maquinaria y equipo. 
+												</li>
+												<li>Selecciona, instala y configura equipos electrónicos de comunicación analógicos y digitales. 
+												</li>
+												<li>Aplica las técnicas de procesamiento digital de señales en sistemas de comunicación electrónica en el filtrado y adquisición de variables. 
+												</li>
+												<li>Implementa y analiza sistemas de comunicación entre equipos y/o instrumentos aplicando estándares de comunicación electrónica generales e industriales. 
+												</li>
+												<li>Conoce los estándares para el diseño y la operación de dispositivos electrónicos. 
+												</li>
+											 </ul>
+											</p>
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

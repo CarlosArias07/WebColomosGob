@@ -49,9 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											    <li><a href="maquinasHerramientaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="maquinasHerramientaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="maquinasHerramientaReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>												
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>

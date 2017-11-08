@@ -33,8 +33,8 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ControlAutomatico.php'>Control Automatico e instrumentaci&oacute;n</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/construccionMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico e instrumentaci&oacute;n</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomaticoMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
 										
 					                </ol>
 					            </div>
@@ -51,10 +51,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="ControlAutomatico.php">ControlAutomatico e instrumentacion</a><hr class="sub-hr"></li>	
-											    <li><a href="ControlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="controlAutomatico.php">Control Automatico e instrumentacion</a><hr class="sub-hr"></li>	
+											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="ControlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>

@@ -33,26 +33,27 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/maquinasHerramienta.php'>Maquinas-Herramienta</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/maquinasHerramientaPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentac&oacute;n</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de Tecnólogo en Maquinas-Herramienta</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/maquinasHerramienta.png" alt="Maquinas-Herramienta"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="controlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="maquinasHerramienta.php">Maquinas-Herramienta</a><hr class="sub-hr"></li>	
+											    <li><a href="maquinasHerramientaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="maquinasHerramientaReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,16 +76,39 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<b>Perfil de Egreso Acad&eacute;mico</b>
 								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo del Control Automático y la
-Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
-intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
-de sistemas de control y equipos de regulación automática, así como instalar, programar y
-poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
-industriales, trabajando de manera individual o en equipo y aplicando las diferentes
-tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
-beneficio de la sociedad.                   </p>
+                                    Integra los conocimientos científicos y tecnológicos, interdisciplinaria y estratégicamente en las áreas de ciencias exactas y administrativas, mediante aspectos teórico-prácticos, 
+									conceptuales y metodológicos aplicables en su desempeño profesional. </p>
+                                             <ul>
+												<li>Tiene una actitud favorable al trabajo en equipo. 
+												</li>
+												<li>Muestra una actitud de formación continua y de adaptación a los nuevos cambios tecnológicos. 
+												</li>
+												<li>Tiene una actitud de respeto y conservación de los ecosistemas. 
+												</li>
+												<li>Muestra una actitud de trabajo y desempeño ético y profesional en su área de formación. 
+												</li>
+												<li>Define los tipos de Soldadura. 
+												</li>
+												<li>Identifica las herramientas del taller mecánico. 
+												</li>
+												<li>Describe la maquinaria utilizada en el taller mecánico. 
+												</li>
+												<li>Identificar las herramientas tradicionales usadas en el dibujo técnico, e interpretar los dibujos técnicos. 
+												</li>
+												<li>Describe los diferentes tipos de manteniendo de maquinaria de taller mecánico. 
+												</li>
+												<li>Describe procesos de modelería y fundición. 
+												</li>
+												<li>Identifica los diferentes tipos de materiales industriales. 
+												</li>
+												<li>Nombra los tratamientos térmicos. 
+												</li>
+												<li>Maneja de instrumentos de medición dimensional.
+												</li>
+											 </ul>
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

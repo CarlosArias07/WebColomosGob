@@ -33,26 +33,28 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electronica.php'>Electr&oacute;nica y Comunicaciones</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electronicaMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentac&oacute;n</h2>
+					            		<h2 class='bottom-buffer'>Misión y Visión de la Carrera de Tecnólogo en Electr&oacute;nica y Comunicaciones</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/controlAutomatico.png" alt="Control Automatico"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/electronica.png" alt="electronica"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="controlAutomaticoMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="electronica.php">Electr&oacute;nica y comunicaciones</a><hr class="sub-hr"></li>	
+											    <li><a href="electronicaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="electronicaReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,16 +77,16 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
-								    		<p class='contenido'>
-Formar Tecnólogos profesionales en el campo del Control Automático y la
-Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos
-intermedios y superiores en las áreas de diseño, operación, supervisión y mantenimiento
-de sistemas de control y equipos de regulación automática, así como instalar, programar y
-poner en operación procesos de producción y sistemas automatizados con PLC’s y robots
-industriales, trabajando de manera individual o en equipo y aplicando las diferentes
-tecnologías vigentes en las empresas nacionales e internacionales, con sentido ético y en
-beneficio de la sociedad.                   </p>
+											<b>Misi&oacute;n</b>
+								    		<p class='contenido'>"Formación de tecnólogos profesionales y competitivos en electrónica y comunicaciones cuyos valores principales son: comunicación, trabajo en equipo,
+											responsabilidad, ética profesional, competitividad, respeto, honestidad, criterio; además de tener las habilidades y conocimientos necesarios para proporcionar asesoría y mantenimiento a cualquier equipo electrónico, brindar capacitación a personal con una filosofía de actualización constante para atender 
+											las necesidades de la industria Electronica a nivel Regional y Nacional."
+                                            </p>
+                                            <b> Visi&oacute;n </b>
+                                             <p class='contenido'>
+											 "La División de Electrónica busca permanecer como líder y vanguardista en el manejo y desarrollo de la tecnología Electrónica y de las Comunicaciones formando profesionistas de excelencia a través de una capacitación y actualización 
+											 continúa de su cuerpo docente para atender las necesidades del alumnado e industria y así ofrecer beneficios a la sociedad."
+											 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

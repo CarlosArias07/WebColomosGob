@@ -49,9 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											    <li><a href="electronicaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="electronicaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="electronicaReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -94,11 +95,10 @@ prototipos relacionados con la tecnología electrónica.  </p>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-07 19:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>
-
 	    					</div>
 		<br>
         <br>

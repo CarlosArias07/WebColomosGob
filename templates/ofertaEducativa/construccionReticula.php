@@ -43,7 +43,7 @@
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/construccion.png" alt="construccion"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
@@ -78,7 +78,8 @@
 								    		<hr class='red'>
 
 											<p>
-											<object type"application/pdf" data="../../documentos/ofertaEducativa/tgoConstruccionReticula.pdf"  height="650" width="600" > </object>
+											<object type"application/pdf" data="../../documentos/ofertaEducativa/tgoConstruccionReticula.pdf"  height="500" width="600" > </object>
+											<br>
 											 <a href="../../documentos/ofertaEducativa/tgoConstruccionReticula.pdf" target="_blank"> Abrir Ret&iacute;cula </a>
 											</p>
 								    	</div>
