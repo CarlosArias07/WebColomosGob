@@ -77,11 +77,11 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Misi&oacute;n</b>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>
                La División de Control Automático es un área educativa que forma profesionales en las tecnologías del control automático y la instrumentación, capacitándolos para desempeñarse en la industria regional, teniendo siempre actitud emprendedora y de formación continua, respeto al medio ambiente y conciencia de su papel en el desarrollo social.
 Además, brinda grandes posibilidades de desarrollo personal a sus egresados, apoya el desarrollo de la industria regional, promueve el bienestar de la sociedad y el cuidado del medio ambiente.</p>
-                                            <b> Visi&oacute;n </b>
+                                            <h4> Visi&oacute;n </h4>
                                              <p class='contenido'>
 											 Ser un área académica de vanguardia, en la enseñanza de las tecnologías predominantes del control automático, que ofrezca, cumpliendo con los estándares de calidad establecidos, servicios educativos bajo modalidades de aprendizaje idóneas y modernas, así como servicios de desarrollo tecnológico, en el ámbito del desarrollo sustentable regional.
 											 </p>

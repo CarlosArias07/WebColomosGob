@@ -75,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 Formar Tecnólogos profesionales en el campo de la Construcción para participar en los procesos constructivos, en los niveles de mandos medios y superiores en la obra civil, con las competencias necesarias que le den la seguridad y confianza de participar
  en dichos procesos, en forma individual o colectivamente y aplicando las diversas tecnologías vigentes en la industria de la construcción, todo con un sentido de calidad,

@@ -75,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 Formar Tecnólogos profesionales para el diseño y manufactura de mecanismos, moldes,
 troqueles y dados, que apliquen las normas nacionales e internacionales de fabricación y

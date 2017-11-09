@@ -76,12 +76,12 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Perfil de Egreso Acad&eacute;mico</b>
+											<h4>Perfil de Egreso Acad&eacute;mico</h4>
 								    		<p class='contenido'>
                                     El Tecnólogo en Construcción contará con la formación académica apoyo en su formación 
                                     profesional,  que  como  consecuencia  le  capacitarán  para  realizar  efectivamente  las  
                                     siguientes tareas:</p>
-                                             <ul>
+                                             <ul type="circle">
 											    <li>Supervisa el mantenimiento correctivo, preventivo y predictivo de obras civiles, planifica las actividades del personal 
 												así como programa los tiempos y actividades de los procesos constructivos y 
 												administra los recursos y el personal respaldados con los análisis de los costos y los presupuestos del proyecto.     

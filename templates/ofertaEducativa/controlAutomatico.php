@@ -75,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 Formar Tecnólogos profesionales en el campo del Control Automático y la
 Instrumentación Industrial, los cuales se pueden desempeñar en los niveles de mandos

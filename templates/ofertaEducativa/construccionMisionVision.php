@@ -77,11 +77,11 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Misi&oacute;n</b>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>
                La División de Construcción, es un departamento academico, para la formación de profesionales que se desempeñen en los procesos constructivos de la obra civil, con capacidad emprendedora y formación de liderazgo,
               promoviendo la calidad y el mejoramiento del medio ambiente.</p>
-                                            <b> Visi&oacute;n </b>
+                                            <h4> Visi&oacute;n </h4>
                                              <p class='contenido'>
 											 "La División de Construcción, busca convertirse en un departamento académico de vanguardia en la industria de la construcción, 
 											 en la que sus egresados posean las competencias necesarias, que les den la seguridad y confianza,

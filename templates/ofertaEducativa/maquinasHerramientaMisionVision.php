@@ -77,12 +77,12 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Misi&oacute;n</b>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>
 											"La carrera de Tecnólogo en Máquinas Herramienta forma tecnólogos profesionales con capacidad analítica, emprendedora, autogestiva de calidad y pertinencia, así como, un alto sentido de responsabilidad y superación para desempeñarse en la aplicación de tecnología, en la generación y 
 											operación de los procesos de manufactura mecánica e integrarse al sector productivo en beneficio de la sociedad. "
                                             </p>
-                                            <b> Visi&oacute;n </b>
+                                            <h4> Visi&oacute;n </h4>
                                              <p class='contenido'>
 											 " Convertirse en una opción educativa vanguardista, acorde a las exigencias e innovaciones de la industria metal mecánica en la formación de profesionales altamente calificados en los procesos de manufactura mecánica, con valores, actitudes, aptitudes y concientes para que actúen y
 											 respondan como agentes de cambio y desarrollo tecnológico de su entorno social. "

@@ -75,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 Formar tecnólogos profesionales en Electrónica y Comunicaciones altamente competitivos
 que con ética, responsabilidad, trabajo en equipo, siguiendo normas de seguridad y

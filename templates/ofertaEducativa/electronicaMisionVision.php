@@ -77,12 +77,12 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Misi&oacute;n</b>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>"Formación de tecnólogos profesionales y competitivos en electrónica y comunicaciones cuyos valores principales son: comunicación, trabajo en equipo,
 											responsabilidad, ética profesional, competitividad, respeto, honestidad, criterio; además de tener las habilidades y conocimientos necesarios para proporcionar asesoría y mantenimiento a cualquier equipo electrónico, brindar capacitación a personal con una filosofía de actualización constante para atender 
 											las necesidades de la industria Electronica a nivel Regional y Nacional."
                                             </p>
-                                            <b> Visi&oacute;n </b>
+                                            <h4> Visi&oacute;n </h4>
                                              <p class='contenido'>
 											 "La División de Electrónica busca permanecer como líder y vanguardista en el manejo y desarrollo de la tecnología Electrónica y de las Comunicaciones formando profesionistas de excelencia a través de una capacitación y actualización 
 											 continúa de su cuerpo docente para atender las necesidades del alumnado e industria y así ofrecer beneficios a la sociedad."

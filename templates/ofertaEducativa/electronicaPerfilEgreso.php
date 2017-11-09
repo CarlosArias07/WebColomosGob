@@ -76,10 +76,10 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Perfil de Egreso Acad&eacute;mico</b>
+											<h4>Perfil de Egreso Acad&eacute;mico</h4>
 											
 											<p>
-                                             <ul>
+                                             <ul type="circle">
 											    <li>Analiza e implementa proyectos electrónicos en sistemas analógicos y digitales. 
 												</li>
 												<li>Selecciona y opera equipo de medición para la prueba y mantenimiento de sistemas electrónicos. 

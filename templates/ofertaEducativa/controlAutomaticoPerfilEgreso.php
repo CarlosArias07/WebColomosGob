@@ -76,10 +76,10 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Perfil de Egreso Acad&eacute;mico</b>
+											<h4>Perfil de Egreso Acad&eacute;mico</h4>
 								    		<p class='contenido'>
-                                    El egresado de la carrera de Tecnólogo en Control Automático e Instrumentación reúne el siguiente perfil académico: </p>
-                                             <ul>
+                                            El egresado de la carrera de Tecnólogo en Control Automático e Instrumentación reúne el siguiente perfil académico: </p>
+                                             <ul type="circle">
 											    <li>Se expresa correctamente en forma oral y escrita usando los términos convenientes de acuerdo al asunto tratado tanto de tipo técnico y de cultura general básica.</li>
 												<li>Soluciona problemas de su especialidad haciendo uso de los conocimientos de las ciencias puras y conceptos de carácter social y administrativo.</li>
 												<li>Lee e interpreta documentos técnicos en inglés con términos básicos o de su especialidad.</li>

@@ -76,11 +76,11 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Perfil de Egreso Acad&eacute;mico</b>
+											<h4>Perfil de Egreso Acad&eacute;mico</h4>
 								    		<p class='contenido'>
                                     Integra los conocimientos científicos y tecnológicos, interdisciplinaria y estratégicamente en las áreas de ciencias exactas y administrativas, mediante aspectos teórico-prácticos, 
 									conceptuales y metodológicos aplicables en su desempeño profesional. </p>
-                                             <ul>
+                                             <ul type="circle">
 												<li>Tiene una actitud favorable al trabajo en equipo. 
 												</li>
 												<li>Muestra una actitud de formación continua y de adaptación a los nuevos cambios tecnológicos. 
