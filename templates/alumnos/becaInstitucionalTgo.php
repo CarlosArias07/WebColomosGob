@@ -75,7 +75,7 @@
                                          	<ul type = circle>
                                              <li>Registrarse y postularse en la página: <a href="https://snbecas.sep.gob.mx/TasksBecasWeb/" target="_blank">https://snbecas.sep.gob.mx/TasksBecasWeb/</a></li>
                                              <li>Llenar el Formato de Beca Institucional, el cual puedes descargar <a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" download>Aquí</a></li>
-                                             <li>Presentaren la ventanilla del Departamento de Servicios de Apoyo Académico la solicitud de beca por escrito, debidamente contestada y anexar la documentación indicada en la convocatoria.</li>
+                                             <li>Presentar en la ventanilla del Departamento de Servicios de Apoyo Académico la solicitud de beca por escrito, debidamente contestada y anexar la documentación indicada en la convocatoria.</li>
                                              <li>Anexar a la solicitud la documentación complementaria indicada en la convocatoria.</li>
                                              <li>Realizar los trámites en tiempo y forma según las fechas señaladas en la convocatoria vigente.</li>
                                          	</ul>

@@ -46,10 +46,11 @@
 					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
-									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
-									        <hr class='red sitios_relacionados'>
-									       	<ul>	
-											    <li><a href="#">Ver Trámites Escolares</a><hr class="sub-hr"></li>	
+									        <h4 class='bottom-buffer'>Sitios relacionados</h4>
+								            <hr class='red sitios_relacionados'>
+											<ul>
+											<li><a href="#">Ver Trámites Escolares</a><hr class="sub-hr"></li>	
+											<li><a href="/WebColomosGob/templates/alumnos/becasTecnologo.php">Becas Tecnólogo</a><hr class="sub-hr"></li>	
 											</ul>
 									    </div> 
 								    </div>
@@ -61,8 +62,8 @@
                                              Los Programas de Becas Nacionales que pueden participar los estudiantes del CETI a Nivel Ingeniería son las siguientes:
 											</p>
 											<ul type = circle>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php">Beca Institucional</a></li>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaCbsemsTgo.php">CBSEMS</a></li>
+                                             <li><a href="/WebColomosGob/templates/alumnos/becaInstitucionalIng.php">Beca Institucional</a></li>
+                                             <li><a href="/WebColomosGob/templates/alumnos/becaCnbesIng.php">CNBES</a></li>
                                          	</ul>
                                          	<p class="contenido">
                                          		Las diferentes Becas tienen su propia Convocatoria donde se indica el periodo de inscripción, solicitud y dictamen, además de los requisitos y documentos que se deben entregar.
@@ -75,12 +76,6 @@
 								    </div>
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
-								    		<!--<div class='sociales'>
-								    			<div class='fb-share-button' data-href='http://ceti.mx/noticia.php?id=48' data-layout='button_count' data-size='large' data-mobile-iframe='true'><a class='fb-xfbml-parse-ignore' target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fceti.mx%2Fnoticia.php%3Fid%3D48&amp;src=sdkpreparse'>Compartir</a></div>
-								    		</div>
-								    		<div class='sociales'>
-								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
-								    		</div> -->
 								    		<hr class=''>
 								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-07 11:37:17</p>
 								    	</div>

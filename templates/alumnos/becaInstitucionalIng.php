@@ -34,11 +34,12 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
 										<li><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/alumnos/becasTecnologo.php'>Becas Tecnólogo</a></li>
+										<li><a href='/WebColomosGob/templates/alumnos/becasIngenieria.php'>Becas Ingeniería</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php'>Beca Institucional</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Becas para Nivel Tecnólogo</h2>
+					            		<h2 class='bottom-buffer'>Información general</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -46,11 +47,17 @@
 					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
-											<h4 class='bottom-buffer'>Sitios relacionados</h4>
-								            <hr class='red sitios_relacionados'>
-											<ul>
-											<li><a href="#">Ver Trámites Escolares</a><hr class="sub-hr"></li>	
-											<li><a href="/WebColomosGob/templates/alumnos/becasIngenieria.php">Becas Ingeniería</a><hr class="sub-hr"></li>	
+									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
+									        <hr class='red sitios_relacionados'>
+									       	<ul>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" target="_blank">Solicitud de Beca</a><hr class="sub-hr"></li>
+											    <li><a href="/WebColomosGob/documentos/alumnos/ConvocatoriaBecasInstitucionalesAGODIC2017.pdf" target="_blank">Convocatoria</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Reglamento-para-el-otorgamiento-de-Becas-del-CETI-Rev.-K-sin-firma.pdf" target="_blank">Reglamento para obtener Beca</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/DictamenBecasInstitucionalesAgo-Dic2017.pdf" target="_blank">Dictamen para Consulta</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/DictamendeBecasAgosto-Diciembre2017_Firmado.pdf" target="_blank">Dictamen Firmado</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Fedeerratas_DictamendeBecas2017b.pdf" target="_blank">Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/documentos/alumnos/Fede erratas_DictamendeBecas_fila378.pdf" target="_blank">Otra Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="http://www.ceti.mx/cetinew/index.php" target="_blank">Contraloría Social</a><hr class="sub-hr"></li>		
 											</ul>
 									    </div> 
 								    </div>
@@ -59,15 +66,29 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class='contenido'>
-                                             Los Programas de Becas Nacionales que pueden participar los estudiantes del CETI a Nivel Tecnólogo son las siguientes:
+                                             El Centro de Enseñanza Técnica Industrial podrá otorgar, el siguiente tipo de beca:
 											</p>
 											<ul type = circle>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php">Beca Institucional</a></li>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaCbsemsTgo.php">CBSEMS</a></li>
+                                             <li>Beca de apoyo para ingreso y continuación de estudios</li>
+                                         	</ul>
+                                         	<h4>Requisitos para el trámite</h4>
+                                         	<ul type = circle>
+                                             <li>Registrarse y postularse en la página: <a href="https://snbecas.sep.gob.mx/TasksBecasWeb/" target="_blank">https://snbecas.sep.gob.mx/TasksBecasWeb/</a></li>
+                                             <li>Llenar el Formato de Beca Institucional, el cual puedes descargar <a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" download>Aquí</a></li>
+                                             <li>Presentar en la ventanilla del Departamento de Servicios de Apoyo Académico la solicitud de beca por escrito, debidamente contestada y anexar la documentación indicada en la convocatoria.</li>
+                                             <li>Anexar a la solicitud la documentación complementaria indicada en la convocatoria.</li>
+                                             <li>Realizar los trámites en tiempo y forma según las fechas señaladas en la convocatoria vigente.</li>
+                                         	</ul>
+                                         	<h4>Importante</h4>
+                                         	<ul type = circle>
+                                             <li>Mantente al tanto de la publicación de la convocatoria vigente.</li>
+                                             <li>El monto de la Beca se indica en la convocatoria vigente.</li>
                                          	</ul>
                                          	<p class="contenido">
-                                         		Las diferentes Becas tienen su propia Convocatoria donde se indica el periodo de inscripción, solicitud y dictamen, además de los requisitos y documentos que se deben entregar.
-                                         		Ninguna persona podrá beneficiarse con más de una beca simultáneamente para el mismo fin, para ello se tiene que verificar las convocatorias antes de realizar el trámite.
+                                         		<b>Duración de trámite:</b> Según la convocatoria vigente
+                                         	</p>
+                                         	<p class="contenido">
+                                         		<b>Costo del trámite:</b> Sin costo
                                          	</p>
                                          	<p align="center">
                                          		<b>"ESTE PROGRAMA ES PÚBLICO, AJENO A CUALQUIER PARTIDO POLÍTICO. QUEDA PROHIBIDO EL USO PARA FINES DISTINTOS A LOS ESTABLECIDOS EN EL PROGRAMA."</b>
@@ -83,7 +104,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-07 11:37:17</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-09 11:49:38</p>
 								    	</div>
 								    </div>
 		    					</div>
