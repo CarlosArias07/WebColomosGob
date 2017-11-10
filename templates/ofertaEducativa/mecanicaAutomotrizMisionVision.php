@@ -33,26 +33,28 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotriz.php'>Mecanica Automotr&iacute;z</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotriz.php'>Mecanica Automotriz</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotrizMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Mecanica Automotr&iacute;z</h2>
+					            		<h2 class='bottom-buffer'>Misión y Visión de la Carrera de Tecnólogo en Mecanica Automotriz</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/mecanicaAutomotriz.png" alt="Mecanica Automotriz"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/mecanicaAutomotriz.png" alt="mecanicaAutomotriz"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="mecanicaAutomotrizMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="mecanicaAutomotriz.php">Mecanica Automotriz</a><hr class="sub-hr"></li>	
 											    <li><a href="mecanicaAutomotrizPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="../../documentos/ofertaEducativa/tgoMecanicaAutomotrizReticula.pdf">Ret&iacute;cula</a><hr class="sub-hr"></li>													
+                                                <li><a href="../../documentos/ofertaEducativa/tgoMecanicaAutomotrizReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,17 +77,15 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<h4>Objetivo general </h4>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>
-											Formar tecnólogos profesionales en Mecánica Automotriz y Diesel, capacitados con
-conocimientos , habilidades, aptitudes y destrezas para identificar, analizar, diagnosticar y
-corregir fallas en los diferentes sistemas de los vehículos automotrices y sus
-componentes electrónicos, elaborando programas administrativos y técnicos de
-mantenimiento preventivo y correctivo, siendo capaz de diseñar piezas automotrices
-utilizando software asistido por computadora, fomentando las actitudes y valores que le
-permitan trabajar en equipo, con sentido ético y visión emprendedora, asumiendo una
-actitud de compromiso para proteger el medio ambiente. 
-											</p>
+               La carrera de mecánica automotriz, es un programa cuya función es la de formar tecnólogos profesionales con educación tecnológica, formación integral y pertinente, responsabilidad y superación para desempeñarse en la industria automotriz e integrarse al sector
+			   productivo en beneficio de la sociedad.</p>
+                                            <h4> Visi&oacute;n </h4>
+                                             <p class='contenido'>
+											 La carrera de tecnólogo en mecánica automotriz busca convertirse en una especialidad de vanguardia en la formación de profesionales en el área tecnológica, acorde a las exigencias e innovaciones de la industria automotriz con valores, actitudes, 
+											 aptitudes que respondan al desarrollo científico y tecnológico del desarrollo regional y nacional.
+											 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -97,7 +97,7 @@ actitud de compromiso para proteger el medio ambiente.
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-09 19:15:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>

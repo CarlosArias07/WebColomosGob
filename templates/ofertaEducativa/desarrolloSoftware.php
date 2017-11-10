@@ -49,9 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											    <li><a href="desarrolloSoftwareMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="desarrolloSoftwarePerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="../../documentos/ofertaEducativa/tgoDesarrolloSoftwareReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>	
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -74,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 											Formar tecnologos en Desarrollo de Software con sentido humanistico, analiticos, creativos y emprendedores
                                             capaces de utilizar las tecnolog&iacute;s de la informaci&oacute;n para dar soluci&oacute;n a problemas delarea informatica, electronica y computacional 
@@ -92,7 +93,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-09 20:26:10</p>
 								    	</div>
 								    </div>
 		    					</div>

@@ -36,29 +36,9 @@
 										             
 					                </ol>
 					            </div>
-								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Oferta Educativa</h2>
-					            	</div>
-					            	<div class='col-md-4 col-xs-12 pull-right '>
-									    <!--imagen por encima del menu lateral-->
-					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
-										
-										<!--Menu lateral -->
-										<!--<div class='border-box submenu_relacionados'>
-									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
-									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="#">Misión</a><hr class="sub-hr"></li>	
-											        <li><a href="#">Visión</a><hr class="sub-hr"></li>
-													<li><a href="#">Historia del Ceti</a><hr class="sub-hr"></li>	
-													<li><a href="#">Mensaje del Director</a><hr class="sub-hr">	</li>
-													<li><a href="#" target="_blank">Metas Institucionales</a><hr class="sub-hr"></li>
-													<li><a href="#" target="_blank">Análisis de las metas</a><hr class="sub-hr"></li>	
-													</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
-								        <hr class='red sitios_relacionados'><ul><li>		<a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr">	</li>	<li>		<a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr">	</li>	<li>		<a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr">	</li></ul>
-									    </div>  -->
-
-
-
+								
+								<h2 class='bottom-buffer'>Oferta Educativa </h2>
+								<div class='row'>
 								        <!--<section class='border-box'>
 								          <dl>
 								  	      	<dt>Autor</dt>
@@ -67,9 +47,10 @@
 								  	      	<dd>2017-10-20 18:40:15</dd>
 								          </dl>
 								        </section>-->
-								    </div>
+								  </div>
+								 
 
-								    <div class='col-sm-7 pull-left'>
+								    <div class='col-md-12 col-sm-12 col-xs-12'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class='contenido'>
@@ -83,8 +64,11 @@
 											 sus egresados se les dio el título de “Técnico”, más sin embargo, dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
                                                 Impartidas en plantel Colomos
 											</p>
-											
-                                    <div class="row">
+									
+									
+                                     <div class="row">
+									 
+									 
                                         <div class="col-sm-6 col-md-3">
                                             <a href="construccion.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/construccion.png" alt="Construccion"> </a>
@@ -92,6 +76,7 @@
                                               <p>Tgo. en Construcci&oacute;n</p>
                                             </div>
                                         </div>
+  
   
                                         <div class="col-sm-6 col-md-3">
                                             <a href="controlAutomatico.php" class="thumbnail">
@@ -101,13 +86,15 @@
 	                                        </div>
                                         </div>
   
-                                        <div class="col-sm-6 col-md-3">
-                                            <a href="electronica.php" class="thumbnail">
-                                            <img src="../../imagenes/ofertaEducativa/electronica.png" alt="Electronica Comunicaciones"></a>
+										<div class="col-sm-6 col-md-3">
+                                            <a href="electromecanica.php" class="thumbnail">
+                                            <img src="../../imagenes/ofertaEducativa/electromecanica.png" alt="electromecanica"></a>
 	                                        <div class="">
-                                               <p>Tgo. en Electr&oacute;nica y Comunicaciones</p>
+                                               <p>Tgo. en Electromecanica</p>
 	                                        </div>
                                         </div>
+  
+                                       
 
                                         <div class="col-sm-6 col-md-3">
                                             <a href="maquinasHerramienta.php" class="thumbnail">
@@ -116,7 +103,8 @@
                                               <p>Tgo. en Maquinas-Herramienta</p>
 	                                        </div>
                                         </div>
- 
+
+										
                                         <div class="col-sm-6 col-md-3">
                                             <a href="mecanicaAutomotriz.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/mecanicaAutomotriz.png" alt="Mecanica Automotriz"></a>
@@ -140,14 +128,17 @@
                                             <p>Tgo. en Químicos en Fármacos</p>
 	                                        </div>
                                         </div>
-  
-                                        <div class="col-sm-6 col-md-3">
-                                            <a href="electromecanica.php" class="thumbnail">
-                                            <img src="../../imagenes/ofertaEducativa/electromecanica.png" alt="electromecanica"></a>
+                                        
+										 <div class="col-sm-6 col-md-3">
+                                            <a href="electronica.php" class="thumbnail">
+                                            <img src="../../imagenes/ofertaEducativa/electronica.png" alt="Electronica Comunicaciones"></a>
 	                                        <div class="">
-                                               <p>Tgo. en Electromecanica</p>
+                                               <p>Tgo. en Electr&oacute;nica y Comunicaciones</p>
 	                                        </div>
                                         </div>
+  
+  
+                                        
                                     </div>
 
                                         <p><b>Carreras de Ingenier&iacute;a </b></p>
@@ -205,7 +196,7 @@
 								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
 								    	</div>
 								    </div>
-		    					</div>
+		    					
 	    	</div>
 		<br>
         <br>
