@@ -61,10 +61,10 @@
 								    		<p class='contenido'>
                                              Los Programas de Becas Nacionales que pueden participar los estudiantes del CETI a Nivel Tecnólogo son las siguientes:
 											</p>
-											<ul type = circle>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php">Beca Institucional</a></li>
-                                             <li><a href="/WebColomosGob/templates/alumnos/becaCbsemsTgo.php">CBSEMS</a></li>
-                                         	</ul>
+											<div class="row">
+												<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php" target="_self"><img class="img img-responsive" src="/WebColomosGob/imagenes/alumnos/becainst.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
+												<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becaCbsemsTgo.php" target="_self"><img class="img img-responsive" src="/WebColomosGob/imagenes/alumnos/becacbsems.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
+											</div>
                                          	<p class="contenido">
                                          		Las diferentes Becas tienen su propia Convocatoria donde se indica el periodo de inscripción, solicitud y dictamen, además de los requisitos y documentos que se deben entregar.
                                          		Ninguna persona podrá beneficiarse con más de una beca simultáneamente para el mismo fin, para ello se tiene que verificar las convocatorias antes de realizar el trámite.
