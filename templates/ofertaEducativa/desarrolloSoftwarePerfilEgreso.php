@@ -33,26 +33,27 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/quimicoFarmacos.php'>Quimico Fármacos</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/desarrolloSoftware.php'>Desarrollo de Software</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/desarrolloSoftwarePerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Quimico en Fármacos</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de Tecnólogo en Desarrollo de Software</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/quimicoFarmacos.png" alt="Quimico Farmacos"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/desarrolloSoftware.png" alt="Desarrollo Software"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="quimicoFarmacosMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="quimicoFarmacosPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="desarrolloSoftware.php">Desarrollo de Software</a><hr class="sub-hr"></li>	
+											    <li><a href="desarrolloSoftwareMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-												<li><a href="../../documentos/ofertaEducativa/tgoQuimicoFarmacosReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>
+                                                <li><a href="../../documentos/ofertaEducativa/tgoDesarrolloSoftwareReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,16 +76,45 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<h4>Objetivo general </h4>
+											<h4>Perfil de Egreso Ocupacional</h4>
 								    		<p class='contenido'>
-											Formar tecnólogos profesionales del nivel medio superior para desarrollarse en diferentes
-puestos de la industria farmacéutica y de la industria química en general, que con una
-actitud ética y crítica, aplicando sus conocimientos, habilidades y destrezas en el análisis,
-planeación, desarrollo, cuestionamiento, validación y resolución de los problemas que
-involucra la elaboración, control de calidad, desarrollo e investigación de productos
-farmacéuticos y cosméticos de calidad, satisfagan de manera eficiente la demanda de la
-sociedad sin lesionar el entorno en el cual se desarrollan.  
-											</p>
+                                            El Tecn&oacute;logo en Desarrollo de Software podrán desarrollarse en empresas de producción
+											de bienes y servicios en las siguientes areas:</p>
+                                             <ul type="circle">
+											    <li>Instructor en áreas de capacitaciones tecnológica  acorde a su formación.
+												</li>
+												<li>Emprendedor de microempresas.
+												</li>
+												<li>Supervisor de procesos de producción y/o servicios.
+												</li>
+												<li>Responsable de pruebas, diagnóstico, mantenimiento en procesos de producción.
+												</li>
+												<li> Responsable de mantenimiento y/o administración de sistemas de cómputo, electrónicos y redes.
+												</li>
+												<li>Desarrollador de sistemas de información. 
+												</li>
+											</ul>
+											<ul type="circle">
+												<p>El egresado podrá desarrollar su ejercicio profesional en:</p>
+												<li>Compañías e industrial de área electrónica.
+												</li>
+												<li>Compañías de fabricación de equipos de cómputo.
+												</li>
+												<li> Empresas dedicadas a la asesoría y servicios en sistemas informáticos, computacionales y de redes.
+												</li>
+												<li>Empresas dedicadas al desarrollo, comercialización y asesoría de software y hardware.
+												</li>
+												<li>Empresas que utilicen o desarrollen líneas automatizadas de producción.
+												</li>
+												<li> Instituciones de Educación Tecnológica.
+												</li>
+											</ul>
+												<p>Todo lo anterior desempeñándose de manera efectiva en equipos de trabajo, con responsabilidad, compromisos social,
+                                                   ético y de sustentabilidad, en apego a la normalidad nacional e internacional vigente en las diferentes
+                                                   áreas de la empresa.												
+												</p>
+											 
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -96,7 +126,7 @@ sociedad sin lesionar el entorno en el cual se desarrollan.
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-10 18:53:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-07 17:02:00</p>
 								    	</div>
 								    </div>
 		    					</div>

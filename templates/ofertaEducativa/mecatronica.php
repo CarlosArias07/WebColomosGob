@@ -37,7 +37,7 @@
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Mecatr&oacute;nica</h2>
+					            		<h2 class='bottom-buffer'> Ingeniería Mecatrónica</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,14 +49,15 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											    <li><a href="mecatronicaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="mecatronicaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="../../documentos/ofertaEducativa/IngMecatronicaReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>												
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
 											    <li><a href="ofertaEducativa.php">Carreras Ingenier&iacute;a</a><hr class="sub-hr"></li>
-											    <li><a href="ofertaEducativa.php">Carreras Tecn&oacute;logo</a><hr class="sub-hr"></li>	
+											    <li><a href="ofertaEducativa.php">Carreras Tecn&oacute;logo</a><hr class="sub-hr"></li>
 											</ul>
 									    </div>
 
@@ -75,7 +76,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 Formar ingenieros profesionistas con base científica, tecnológica y humanística que sean
 capaces de seleccionar, desarrollar, sustentar e innovar sistemas, procesos y productos
@@ -97,7 +98,7 @@ formación acorde a sus aspiraciones profesionales.
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-17 19:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>

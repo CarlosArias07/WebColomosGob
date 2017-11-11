@@ -78,7 +78,7 @@
 											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 											Formar tecnologos en Desarrollo de Software con sentido humanistico, analiticos, creativos y emprendedores
-                                            capaces de utilizar las tecnolog&iacute;s de la informaci&oacute;n para dar soluci&oacute;n a problemas delarea informatica, electronica y computacional 
+                                            capaces de utilizar las tecnolog&iacute;as de la informaci&oacute;n para dar soluci&oacute;n a problemas delarea informatica, electronica y computacional 
                                             de los sectores industrial y de servicios con el fin de mejorar su calidad y productividad.											
 											
 											</p>

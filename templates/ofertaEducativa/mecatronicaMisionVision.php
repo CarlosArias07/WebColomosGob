@@ -33,31 +33,34 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/quimicoFarmacos.php'>Quimico Fármacos</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecatronica.php'>Mecatrónica</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecatronicaMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Quimico en Fármacos</h2>
+					            		<h2 class='bottom-buffer'>Misión y Visión de la Carrera de Ingeniería en Mecatrónica</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/quimicoFarmacos.png" alt="Quimico Farmacos"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/mecatronica.png" alt="mecatronica"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="quimicoFarmacosMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="quimicoFarmacosPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="mecatronica.php">Mecatrónica</a><hr class="sub-hr"></li>	
+											    <li><a href="mecatronicaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-												<li><a href="../../documentos/ofertaEducativa/tgoQuimicoFarmacosReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>
+                                                <li><a href="../../documentos/ofertaEducativa/IngMecatronicaReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
+											    <li><a href="ofertaEducativa.php">Carreras Ingenier&iacute;a</a><hr class="sub-hr"></li>
 											    <li><a href="ofertaEducativa.php">Carreras Tecn&oacute;logo</a><hr class="sub-hr"></li>	
-										        <li><a href="ofertaEducativa.php">Carreras Ingenier&iacute;a</a><hr class="sub-hr"></li></ul>
+											</ul>
 									    </div>
 
 
@@ -75,16 +78,15 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<h4>Objetivo general </h4>
+											<h4>Misi&oacute;n</h4>
 								    		<p class='contenido'>
-											Formar tecnólogos profesionales del nivel medio superior para desarrollarse en diferentes
-puestos de la industria farmacéutica y de la industria química en general, que con una
-actitud ética y crítica, aplicando sus conocimientos, habilidades y destrezas en el análisis,
-planeación, desarrollo, cuestionamiento, validación y resolución de los problemas que
-involucra la elaboración, control de calidad, desarrollo e investigación de productos
-farmacéuticos y cosméticos de calidad, satisfagan de manera eficiente la demanda de la
-sociedad sin lesionar el entorno en el cual se desarrollan.  
-											</p>
+               Convertirse en una Ingeniería de vanguardia acorde a las exigencias e innovaciones de la industria y de las actividades económicas en general, con valores, 
+			   actitudes, aptitudes que respondan al desarrollo científico, tecnológico y comercial de su entorno . </p>
+                                            <h4> Visi&oacute;n </h4>
+                                             <p class='contenido'>
+											  La carrera de Ingeniería Mecatrónica, dependiente del Nivel Licenciatura, es un programa cuya función es la de formar 
+											  profesionales analíticos, creativos con amplia capacidad de adaptación e innovación de nuevas tecnologías, para desempeñarse en las áreas de Ingeniería. 
+											 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -96,7 +98,7 @@ sociedad sin lesionar el entorno en el cual se desarrollan.
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-10 18:53:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-17 20:13:10</p>
 								    	</div>
 								    </div>
 		    					</div>
