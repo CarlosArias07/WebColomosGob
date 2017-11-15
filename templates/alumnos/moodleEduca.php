@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/aspirantes/cursoPropedeutico.php'>Moodle EDUCA</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/alumnos/moodleEduca.php'>Moodle EDUCA</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -44,7 +44,7 @@
 									    <!--imagen por encima del menu lateral-->
 					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
 										<!--Menu lateral -->
-										<div class='border-box submenu_relacionados'>
+										<!--<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
@@ -57,8 +57,8 @@
 											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
 											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
 											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
-									    </div> 
+											</ul>
+									    </div>-->
 
 
 
