@@ -50,7 +50,7 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="mecatronica.php">Control Automatico</a><hr class="sub-hr"></li>	
+											    <li><a href="mecatronica.php">Mecatrónica</a><hr class="sub-hr"></li>	
 											    <li><a href="mecatronicaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="../../documentos/ofertaEducativa/IngMecatronicaReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>														
@@ -80,31 +80,22 @@
 								    		<hr class='red'>
 											<h4>Perfil de Egreso Profesional</h4>
                                              <ul type="circle">
-											    <li>
+											    <li>Analizar y resolver problemas de ingeniería, proponiendo soluciones con tecnologías actuales y de vanguardia.
 												</li>
-												<li>
+												<li>Manejar sistemas, equipos y herramientas de innovación en el área de su competencia.
 												</li>
-												<li>
+												<li>Diseñar productos, procesos y sistemas de acuerdo con las necesidades tecnológicas, así como adaptar los productos 
+												existentes a estas.
 												</li>
-												<li>
+												<li>Evaluar, seleccionar y aplicar eficientemente la tecnología de productos, procesos y sistemas que así lo requieren.
 												</li>
-												<li>
+												<li>Automatizar procesos de manufactura a través de dispositivos, equipos y productos inteligentes para el desarrollo de
+												la tecnología de clase mundial.
 												</li>
-												<li>
+												<li>Administrar y asegurar la calidad, eficiencia y rentabilidad de los sistemas y procesos productivos.
 												</li>
-												<li>
+												<li>Valorar la importancia de la ética profesional y el cuidado del medio ambiente asociados al uso de la tecnología
 												</li>
-												<li>
-												</li>
-												<li>
-												</li>
-												<li>
-												</li>
-												<li>
-												</li>
-												<li>
-												</li>
-												
 											 </ul>
 
 								    	</div>

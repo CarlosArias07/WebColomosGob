@@ -34,10 +34,11 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/industrial.php'>Industrial</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/industrialPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Industrial</h2>
+					            		<h2 class='bottom-buffer'>Perfil de Egreso de la Carrera de  Ingeniería Industrial</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,17 +50,17 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="industrialMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="industrialPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="industrial.php">Industrial</a><hr class="sub-hr"></li>	
+											    <li><a href="industrialMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-												<li><a href="../../documentos/ofertaEducativa/IngIndustrialReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>
-												
+                                                <li><a href="../../documentos/ofertaEducativa/IngIndustrialReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
 											    <li><a href="ofertaEducativa.php">Carreras Ingenier&iacute;a</a><hr class="sub-hr"></li>
 											    <li><a href="ofertaEducativa.php">Carreras Tecn&oacute;logo</a><hr class="sub-hr"></li>	
-											</ul>
+		  
+												</ul>
 									    </div>
 
 
@@ -77,15 +78,39 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<h4>Objetivo general </h4>
-								    		<p class='contenido'>
-Formar profesionales líderes de la ingeniería industrial comprometidos con el desarrollo
-sustentable y una visión de sistemas que responda a los retos que presentan los
-constantes cambios en el ámbito industrial y de servicios considerando su impacto social
-y ambiental, optimizando e innovando hacia un entorno de excelencia.</p>
-<p class='contenido'>Esta Carrera cuenta con dos módulos optativos de áreas de formación: Mecánica e
-Instrumentación y Control de Procesos con los cuales el alumno podrá elegir
-fácilmente el área donde desea desarrollarse.</p>
+											<h4>Perfil de Egreso Profesional</h4>
+                                             <ul type="circle">
+											    <li>Administrar y optimizar recursos humanos, materiales, contables y
+												financieros en organizaciones de bienes y servicios, con profesionalismo, ética y valores. 
+												</li>
+												<li>Establecer relaciones interpersonales y relaciones humanas en las organizaciones donde se desarrolle.
+												</li>
+												<li>Desarrollar proyectos sustentables con el fin de conservar el medio ambiente. 
+												</li>
+												<li>Diseñar e implementar instalaciones industriales, automatizar procesos y maquinaria; así como utilizar
+												tecnologías de vanguardia para el mejoramiento de los procesos industriales. 
+												</li>
+												<li>Diseñar e implementar sistemas de calidad, productividad y competitividad implicando en estos últimos, el estudio del trabajo. 
+												</li>
+												<li>Aplicar los sistemas de Gestión de Calidad para el logro de los objetivos en las organizaciones, buscando la rentabilidad.
+												</li>
+												<li>Aplicar modelos matemáticos y técnicas de optimización en procesos productivos y de servicios para una adecuada toma de decisiones 
+												</li>
+												<li>Aplicar reingeniería en los procesos, donde requiera reestructurar los procesos de las organizaciones.
+												</li>
+												<li>Capacidad de trabajar en equipo y desarrollo de proyectos multidisciplinarios, para alcanzar objetivos comunes.
+												</li>
+												<li>Capacidad emprendedora, innovadora, de aprendizaje y de gestión, para crear y desarrollar empresas. 
+                                                    Diseñar, implementar y administrar sistemas de mantenimiento y sistemas TPM (Mantenimiento Total Productivo). 
+												</li>
+												<li>Capacidad de Administrar el Mantenimiento en una empresa, para eficientar el uso de los equipos e instrumentos de control de las empresas.
+												</li>
+												<li>Aplicación de las tecnologías clase mundial, para la solución de problemas que se le presenten en su vida profesional.
+												</li>
+												<li>Uso eficiente del las TIC(Tecnologías de información) en su campo profesional.
+												</li>
+											 </ul>
+
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -97,7 +122,7 @@ fácilmente el área donde desea desarrollarse.</p>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-21 15:02:00</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-21 17:21:00</p>
 								    	</div>
 								    </div>
 		    					</div>

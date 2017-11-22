@@ -37,7 +37,7 @@
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Desarrollo de Software</h2>
+					            		<h2 class='bottom-buffer'> Ingeniería en Desarrollo de Software (IDS)</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,10 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="desarrolloSoftwareMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="desarrolloSoftwarePerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+											    <li><a href="idsMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="idsPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
 												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
-                                                <li><a href="../../documentos/ofertaEducativa/tgodesarrolloSoftware.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>												
+                                                <li><a href="../../documentos/ofertaEducativa/idsReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>												
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -78,7 +78,7 @@
 								    		<hr class='red'>
 											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
-Formar profesionales en el área de ingenlena, capaces de desarrollar
+Formar profesionales en el área de ingeniería, capaces de desarrollar
 productos y brindar servicios de tecnologias de la información orientados a
 cubrir necesidades y expectativas de un mercado global, mediante la
 utilización de infraestructura de redes de datos, administración de proyectos,
@@ -101,7 +101,7 @@ realización de su trabajo.</p>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-09 20:06:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-21 17:29:00</p>
 								    	</div>
 								    </div>
 		    					</div>

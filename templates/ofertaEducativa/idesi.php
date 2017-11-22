@@ -37,7 +37,7 @@
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Diseño Electronico y Sistemas Inteligentes</h2>
+					            		<h2 class='bottom-buffer'>Diseño Electronico y Sistemas Inteligentes (IDESI)</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -49,9 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
-											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+											    <li><a href="idesiMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="idesiPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
+												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+                                                <li><a href="../../documentos/ofertaEducativa/idesiReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -75,9 +76,9 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
-Formar profesionales en el área de ingenlena, capaces de diseñar e
+Formar profesionales en el área de ingeniería, capaces de diseñar e
 implementar sistemas analógicos y digitales con tecnologias de vanguardia,
 que colaboren técnica y tecnológicamente en los procesos de manufactura
 para el diseño de sistemas electrónicos tendientes a la automatización de
@@ -97,7 +98,7 @@ como internacional.</p>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-17 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-21 19:04:00</p>
 								    	</div>
 								    </div>
 		    					</div>
