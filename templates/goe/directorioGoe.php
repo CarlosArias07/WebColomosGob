@@ -75,12 +75,12 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class='contenido'>
-                                            Directorio del Personal del GOE ext. 265
+                                              Directorio del Personal del GOE ext. 265
 											</p>
 											<div class="row">
 												<div class="col-md-6">
-												
-												   <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="carmen" width="160px" height="160px" /></a>&nbsp;</div>
+												   <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="carmen" width="160px" height="160px" /></a>&nbsp;
+												</div>
 												<div class="col-md-6">
 												  <p>Lic. Carmen Jazo Jiménez 
                                                   </p>
@@ -88,9 +88,27 @@
                                                   </p>
 				                                  <p>jazoc@ceti.mx
                                                   </p>												  												  
-													&nbsp;</div>
+													&nbsp;
+												</div>
 											</div>
                                          	
+											<div class="row">
+												<div class="col-md-6">
+												   
+												<p>	Psicóloga Karla Guadalupe Díaz Ruelas
+                                                  </p>
+				                                  <p>kdiaz@ceti.mx
+                                                  </p>												  												  
+													&nbsp;
+												
+												
+												
+												</div>
+												<div class="col-md-6">
+												  <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="carmen" width="160px" height="160px" /></a>&nbsp;
+												</div>
+											</div>
+											
 								    	</div>
 								    </div>
 									
@@ -108,7 +126,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-22 20:19:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-24 20:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>
