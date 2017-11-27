@@ -32,19 +32,19 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li>Docentes</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/docentes/procedimientosFormatos.php'>Procedimientos y Formatos</a></li>
+					                    <li>Desarrollo Académico</li>
+					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Procedimientos y Formatos</h2>
+					            		<h2 class='bottom-buffer'>Tutorías</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
 					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
 										<!--Menu lateral -->
-										<!--<div class='border-box submenu_relacionados'>
+										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
@@ -57,8 +57,10 @@
 											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
 											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
 											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>
-									    </div>-->
+											</ul>-->
+									    </div> 
+
+
 
 								        <!--<section class='border-box'>
 								          <dl>
@@ -73,45 +75,9 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-								    		<p class="contenido">
-                                             	Procedimiento Para la Promoción Académica de los   <a href="/WebColomosGob/documentos/docentes/DPL-CE-PO-021 Rev. 6 Procedimiento para la promoción academica  de los estudiantes.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                             <br>
-                                             	Estudiantes
-                                         	 </p>
-                                             <p class="contenido">
-                                             	Formato de Actividades para Clases No Impartidas <a href="/WebColomosGob/documentos/docentes/FSGC-217-7-INS-005_REV_A_PROGRAMA_DE_ACTIVIDADES_PARA_CLASES_NO_IMPARTIDAS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                             <br>
-                                             <br>
-                                         	 </p>
-                                         	 <p class="contenido">
-                                             	Bitacora Mantenimiento de Equipo <a href="/WebColomosGob/documentos/docentes/BITACORA_MANTENIMIENTO_DE_EQUIPO.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                         	 </p>
-                                         	 <br>
-                                         	 <p class="contenido">
-                                             	Formato de Entrada y Salida de Equipos <a href="/WebColomosGob/documentos/docentes/FORMATO ENTRADA Y SALIDA DE EQUIPOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                             <br>
-                                             <br>
-                                         	 </p>
-                                         	 <p class="contenido">
-                                             	Formato para Registro de Eventos <a href="/WebColomosGob/documentos/docentes/FORMATO PARA REGISTRO DE EVE NTOS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                         	 </p>
-                                         	 <br>
-                                         	 <p class="contenido">
-                                             	Procedimiento Uso Laboratorios Talleres <a href="/WebColomosGob/documentos/docentes/PROCEDIMIENTO USO LABORATORIOS TALLERES.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                         	 </p>
-                                         	 <br>
-                                         	 <p class="contenido">
-                                             	Solicitud de Uso de Laboratorio Extraclase <a href="/WebColomosGob/documentos/docentes/FSGC-214-7-INS-002 SOLICITUD DE USO DE LAB EXTRACLASE.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                         	 </p>
-                                         	 <br>
-                                         	 <p class="contenido">
-                                             	Solicitud Material Herramienta o Equipo <a href="/WebColomosGob/documentos/docentes/SOLICITUD MATERIAL HERRAMIENTA O EQUIPO.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
-                                         	 </p>
-                                         	 <br>
-                                         	 <p class="contenido">
-                                         	 	Si desea consultar un procedimiento o formato no listado en este espacio, favor de consultar el Control de Documentos del Sistema de Gestión de Calidad <center><a href="http://calidad.ceti.mx/out/out.ViewFolder.php?folderid=1" target="_blank" class="btn btn-primary">Consulta</a></center>
-                                         	 </p>
-                                         		
+								    		<p class='contenido'>
+                                             Es un servicio que ofrece el CETI a aquellos aspiranes que desean estudiar en nuestra institución, con el fin de nivelarlos y prepararlos para presentar el examen de admisión.
+											</p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -123,7 +89,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-27 12:54:02</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-31 19:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>
