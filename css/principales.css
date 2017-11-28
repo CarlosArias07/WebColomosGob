@@ -11,3 +11,7 @@
 p.descripcion {
     font-size: 12px;
 	}
+	
+.bordes{
+    border-color: orange;
+ }

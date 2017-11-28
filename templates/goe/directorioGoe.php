@@ -34,6 +34,7 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/goe/directorioGoe.php'>Directorio</a></li>
+										
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -47,8 +48,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="/WebColomosGob/templates/goe/DirectorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											        <li><a href="http://www.anuiesrco.org.mx/revista/epoca-vi/num02/mobile/index.html#p=1" target="_blank">Edici&oacute;n 3</a><hr class="sub-hr"></li>	
+									       	<ul>	<li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
+											        <li><a href="/WebColomosGob/templates/goe/DirectorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
+											        <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>	
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -108,6 +110,25 @@
 												  <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="carmen" width="160px" height="160px" /></a>&nbsp;
 												</div>
 											</div>
+											
+		
+		<div class="row " >
+  <div class="col-md-4" >
+    <div class="thumbnail" style="border-color:#B0B0B0;">
+        <img class="" src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="Lights" style="width:100px">
+        <div class="caption">
+          <p>Psicóloga Karla Guadalupe Díaz </p>
+		  <p>kdiaz@ceti.mx </p>	
+        </div>
+    </div>
+  </div>
+  </div>
+		
+
+		
+		
+
+			
 											
 								    	</div>
 								    </div>

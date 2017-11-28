@@ -33,22 +33,24 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/goe/serviciosGoe.php'>Servicios</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Gabinete de Orientación Educativa</h2>
+					            		<h2 class='bottom-buffer'>Servicios del Gabinete de Orientación Educativa</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/goe/goe_principal.jpg" alt="GOE">
+					            		<img class='img img-responsive' src="../../imagenes/goe/serviciosPrincipal.jpg" alt="GOE">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
-                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
+									       	<ul type="circle">	
+											        <li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
+											        <li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>
+                                                    <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>													
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -74,24 +76,93 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<h4>¿Quiénes somos? </h4>
-								    		<p class='contenido'>
-                                             En el Gabinete de Orientación Educativa, tenemos el objetivo de contribuir con la formación integral de los alumnos,
-											 a través de un programa de prevención que incida en los factores de riesgo juvenil para su sano desarrollo,
-											 todo ello a través de la orientación educativa, formando jóvenes conscientes de su entorno educativo y social.
-											</p>
+											<h4>Servicios generales</h4>
+								    		<ul type="circle">
+											    <li>Canalización oportuna en situaciones de riesgo. </li>
+												<li>Atención en problemáticas emocionales. </li>
+												<li>Orientación Vocacional y proyecto de vida.</li>
+												<li>Asesoría a padre de familia. </li>
+												<li>Talleres. </li>
+												<li>Conferencias.</li>
+											</ul>
+											
+											<h4>Apoyo a alumnos</h4>
+								    		<ul type="circle">
+											    <li>Hábitos y Técnicas de Estudio.</li>
+												<li>Administración del tiempo.</li>
+												<li>Orientación Vocacional.</li>
+												<li>Detección y canalización oportuna en:
+												   <ul>
+												   <li>Situaciones familiares</li>
+												   <li>Situaciones de pareja.</li>
+												   <li>Sexualidad.</li>
+												   <li>Desórdenes alimenticios.</li>
+												   <li>Adaptación.</li>
+												   <li>Adicciones y abuso de sustancias.</li>
+												   <li>Acoso escolar.</li>
+												   <li>Depresión.</li>
+												   </ul>
+												</li>
+											</ul>
 											
 											
-											<h4>Misión</h4>
-											<p class='contenido'> Colaborar con el estudiante en su desarrollo humano y profesional, brindándole un programa de orientación educativa a 
-											través de estrategias de prevención de riesgos, canalización oportuna y actividades sobre desarrollo humano, contribuyendo a su desempeño escolar.
-											</p>
+											<h4>Apoyo a padres de familia </h4>
+								    		<ul type="circle">
+											    <li>Diálogos en familia.</li>
+												<li>Atención a padres en función al desempeño académico del alumno.</li>
+											</ul>
 											
-											<h4>Visión</h4>
-											<p class='contenido'>Ser un equipo de trabajo profesional que fomente la formación integral y la prevención de riesgos de los estudiantes,
-											promoviendo su participación activa, desarrollando competencias para la vida que le permitan actuar a nivel escolar, social y familiar con responsabilidad y honestidad.
-											</p>
 											
+											<h4>Apoyo a docentes</h4>
+								    		<ul type="circle">
+											    <li>Diálogos en familia.</li>
+												<li>Atención a padres en función al desempeño académico de sus alumnos.</li>
+												<li>Atención a docentes en el acompañamiento de talleres construye-t para el desarrollo de habilidades socioemocionales.</li>
+												<li>Capacitación a docentes en el tema de desarrollo de habilidades socioemocionales.</li>
+												<li>Apoyo a docentes en impartición de talleres con temas de desarrollo humano y académico para sus estudiantes.</li>
+											</ul>
+											
+											
+					            		       <img class='img img-responsive' src="../../imagenes/goe/talleresGoe.jpg" alt="GOE" >
+										
+											<h4>Habilidades para la vida:</h4>
+								    		<ul type="circle">
+											    <li>Liderazgo. </li>
+												<li>Autoestima. </li>
+												<li>Trabajo en equipo. </li>
+												<li>Valores.</li>
+												<li>Cominicación asertiva. </li>
+												<li>Manejo de emociones.</li>
+												<li>Proyecto de vida. </li>
+											</ul>
+											
+											<h4>Habilidades cognitivas:</h4>
+								    		<ul type="circle">
+											    <li>Estilos de aprendizaje.</li>
+												<li>Hábitos de Estudio.</li>
+												<li>Organización del tiempo.</li>
+												<li>Cómo preparar un examen.</li>
+												<li>Cómo hacer un Currículum y una entrevista de trabajo.</li>
+												<li>Mantener buenas relaciones laborales</li>
+												<li>Memorización.</li>
+											</ul>
+											
+											
+											<h4>Salud integral:</h4>
+								    		<ul type="circle">
+											    <li>Sexualidad Humana.</li>
+												<li>Prevención de la violencia en el noviazgo.</li>
+												<li>Hábitos alimenticios o nutición sana.</li>
+												<li>Manejo del estrés.</li>
+											</ul>
+											
+											<h4>Prevención de conductas de riesgo:</h4>
+								    		<ul type="circle">
+											    <li>Adicciones.</li>
+												<li>Prevención del suicidio.</li>
+												<li>Prevención de conductas delictivas.</li>
+												<li>Prevención del acoso escolar.</li>
+											</ul>
 											
 								    	</div>
 								    </div>
@@ -104,7 +175,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-22 18:58:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-27 20:23:10</p>
 								    	</div>
 								    </div>
 		    					</div>
