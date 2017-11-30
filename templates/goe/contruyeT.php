@@ -32,27 +32,27 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/directorioGoe.php'>Directorio</a></li>
-										
+					                    <li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/goe/contruyeT.php'>Contruye-T</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Directorio GOE</h2>
+					            		<h2 class='bottom-buffer'>Construye-T</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/goe/goe_principal.jpg" alt="GOE">
+					            		<center><img class='img img-responsive' src="../../imagenes/goe/construyeT.png" alt="construyeT" width="220" height="80"> </center>
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/templates/goe/DirectorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/goe/campanasGoe.php" target="_blank">Campañas</a><hr class="sub-hr"></li>
-											        <li><a href="/WebColomosGob/templates/goe/contruyeT.php">Contruye-T</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	
+											                    <li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>
+																<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
+											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
+                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
+											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>	
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -62,6 +62,8 @@
 											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
 											</ul>-->
 									    </div> 
+
+
 
 								        <!--<section class='border-box'>
 								          <dl>
@@ -73,52 +75,24 @@
 								        </section>-->
 								    </div>
 
+								    
 									<div class='col-sm-7 pull-left'>
-								    	<div class='article-body'>
-								    		<hr class='red'>
-								    		<p class='contenido'>
-                                              Directorio del Personal del GOE ext. 265
-											</p>
-				                                     
-                                           <div class="col-md-6 ">
-                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="goe">
-                                                  <div class="caption" >
-                                                    <h3>Lic. Carmen Jazo Jiménez </h3>
-                                                    <p>Coordinadora de GOE</p>
-		                                            <p>jazoc@ceti.mx</p>
-                                                   </div>
-                                             </div>
-                                           </div>
-       
-                                          <div class="col-md-6 ">
-                                            <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                              <img class="" src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="goe">
-                                                 <div class="caption">
-                                                    <h3>Karla Guadalupe Díaz </h3>
-		                                            <p>Psicóloga </p>
-		                                            <p>kdiaz@ceti.mx </p>	
-                                                 </div>
-                                            </div>
-                                          </div>
-										  
-										  <div class="col-md-6 ">
-                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img src="/WebColomosGob/imagenes/goe/JoseJ.JPG" alt="goe" height="50px">
-                                                  <div class="caption" >
-                                                    <h3>José de Jesús López Díaz 	</h3>
-                                                    <p>Psicólogo</p>
-		                                            <p>jjlopezd@ceti.mx</p>
-                                                   </div>
-                                             </div>
-                                           </div>
+								    	<div class="article-body">
+						                    <hr class="red">
 											
-								    	</div>
-								    </div>
+											<h4>¿Qué es Construye-T?</h4>
+						                    <p class="contenido">	
+                                             <object type"application/pdf" data="../../documentos/goe/ProgramaConstruyeT.pdf"  height="700" width="620" > </object>
+										     </p>
+											 <hr>
+											 <h4>Manual Construye-T para Tutores</h4>
+											 <p class="contenido">	
+                                             <object type"application/pdf" data="../../documentos/goe/ContruyeTDocentes.pdf"  height="700" width="620" > </object>
+										     </p>
+											 
+										</div>		
+					                </div>
 									
-									
-
-
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
@@ -128,7 +102,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-24 20:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-29 16:40:10</p>
 								    	</div>
 								    </div>
 		    					</div>

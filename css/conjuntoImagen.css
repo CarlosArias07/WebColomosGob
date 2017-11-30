@@ -1,0 +1,74 @@
+#gallery { display: none; }
+#jgal {
+padding:0;
+margin:0;
+list-style: none;
+ width: 160px; }
+#jgal li { 
+opacity: .5;
+filter:alpha(opacity=50); 
+float: left; display: block; 
+width: 60px; height: 60px; 
+background-position: 82% 6%; cursor: pointer;
+ border: 3px solid #fff; outline: 1px solid #ddd;
+ margin-right: 10px; margin-bottom: 10px; }
+#jgal li img { position: absolute;
+ top: 20px; left: 160px; display: none; }
+#jgal li.active img { display: block;
+ width:370px; }
+#jgal li.active, #jgal li:hover { outline-color: #bbb;
+ opacity: .99;
+filter:alpha(opacity=99);}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 14px/1 'Open Sans', sans-serif;
+  color: #555;
+  background: #e5e5e5;
+}
+
+.gallery {
+  width: 640px;
+  margin: 0 auto;
+  padding: 5px;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0,0,0,.3);
+}
+
+.gallery > div {
+  position: relative;
+  float: left;
+  padding: 5px;
+}
+
+.gallery > div > img {
+  display: block;
+  width: 147px;
+  height: 200px;
+  transition: .1s transform;
+  transform: translateZ(0); /* hack */
+}
+
+.gallery > div:hover {
+  z-index: 1;
+}
+
+.gallery > div:hover > img {
+  transform: scale(1.7,1.7);
+  transition: .3s transform;
+}
+
+.cf:before, .cf:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+
+.cf:after {
+  clear: both;
+}
