@@ -32,7 +32,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/goe/contruyeT.php'>Contruye-T</a></li>
 					                </ol>
 					            </div>

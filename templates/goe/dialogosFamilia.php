@@ -32,13 +32,12 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/directorioGoe.php'>Directorio</a></li>
-										
+					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/goe/dialogosFamilia.php'>GOE</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Directorio GOE</h2>
+					            		<h2 class='bottom-buffer'>Diálogos en Familia</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -48,19 +47,17 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php" >Servicios</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/goe/campanasGoe.php" target="_blank">Campañas</a><hr class="sub-hr"></li>
-											        <li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
+											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
+                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
+											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
+																<li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
 											</ul>
-										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
+										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
-											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
-											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
+											  <li><a href="/WebColomosGob/templates/goe/goe.php" >GOE</a><hr class="sub-hr"></li>
+											</ul>
 									    </div> 
 
 								        <!--<section class='border-box'>
@@ -73,52 +70,43 @@
 								        </section>-->
 								    </div>
 
-									<div class='col-sm-7 pull-left'>
+								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-								    		<p class='contenido'>
-                                              Directorio del Personal del GOE ext. 265
-											</p>
-				                                     
-                                           <div class="col-md-6 ">
-                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="goe">
-                                                  <div class="caption" >
-                                                    <h3>Lic. Carmen Jazo Jiménez </h3>
-                                                    <p>Coordinadora de GOE</p>
-		                                            <p>jazoc@ceti.mx</p>
-                                                   </div>
-                                             </div>
-                                           </div>
-       
-                                          <div class="col-md-6 ">
-                                            <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                              <img class="img img-responsive"  src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="goe">
-                                                 <div class="caption">
-                                                    <h3>Karla Guadalupe Díaz </h3>
-		                                            <p>Psicóloga </p>
-		                                            <p>kdiaz@ceti.mx </p>	
-                                                 </div>
-                                            </div>
-                                          </div>
-										  
-										  <div class="col-md-6 ">
-                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/JoseJ.JPG" alt="goe" width="150" height="50">
-                                                  <div class="caption" >
-                                                    <h3>José de Jesús López Díaz 	</h3>
-                                                    <p>Psicólogo</p>
-		                                            <p>jjlopezd@ceti.mx</p>
-                                                   </div>
-                                             </div>
-                                           </div>
+											<h4>Programa de conferencias y talleres para padres</h4>
+											<h5>Semestre Agosto-Diciembre 2017</h5>
+											<br>
 											
+											 <img class='img img-responsive' src="../../imagenes/goe/dialogosFam32017.jpg" alt="GOE" >
 								    	</div>
+										
+										<br>
+										
+										 <div class="table-responsive">
+						<table class="table">
+						<tr>
+						<th>Junta</th>
+						<th>Fecha</th>
+						<th>Hora</th>
+						<th>Lugar</th>
+						</tr>
+						<tr>
+						<td>dfff
+						</td>
+						<td>dfff
+						</td>
+						<td>dfff
+						</td>
+						<td>dfff
+						</td>
+						</tr>
+						</table>
+							</div> 
+										
+										
+										
+										
 								    </div>
-									
-									
-
-
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
@@ -128,7 +116,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-24 20:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-30 20:46:10</p>
 								    	</div>
 								    </div>
 		    					</div>

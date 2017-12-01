@@ -77,18 +77,18 @@ gal.init();
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/goe/campanasGoe.php'>Campañas</a></li>
 					                </ol>
 					            </div>
-								<div class='row'><div class='col-sm-7 pull-left'>
+								<div class='row'>
 					            		<h2 class='bottom-buffer'>Campañas de GOE</h2>
 
-					            	</div>
-					            	<div class='col-md-4 col-xs-12 pull-right '>
-									    <!--imagen por encima del menu lateral-->
+					            	
+					            	<!--<div class='col-md-4 col-xs-12 pull-right '>
+									    <!--imagen por encima del menu lateral 
 					            		<img class='img img-responsive' src="../../imagenes/goe/goe_principal.jpg" alt="GOE">
-										<!--Menu lateral -->
+										<!--Menu lateral 
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
@@ -97,14 +97,14 @@ gal.init();
 											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
                                                                 <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
 																<li><a href="/WebColomosGob/templates/goe/contruyeT.php">Contruye-T</a><hr class="sub-hr"></li>
-											</ul>
+											</ul> -->
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
 											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
 											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
 											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
+											</ul>
 									    </div> 
 
 								        <!--<section class='border-box'>
@@ -114,69 +114,78 @@ gal.init();
 								  	      	<dt>Fecha de publicación</dt>
 								  	      	<dd>2017-10-20 18:40:15</dd>
 								          </dl>
-								        </section>-->
-								    </div>
+								        </section>
+								    </div>-->
 
-								    <div class='col-sm-7 pull-left'>
-								    	<div class='article-body'>
+								    
 								    		<hr class='red'>
+											
+											<div class="row">
+											
+											<div class="col-md-6">
 <h4>Escuela Alerta! </h4>
 <div class="style_prevu_kit">
-<img class='img img-responsive' src="../../imagenes/goe/escuelaAlerta.png" width="540" height="240" alt="goe" />
+<img class='img img-responsive' src="../../imagenes/goe/escuelaAlerta.png" width="500" height="240" alt="goe" />
+</div>  
 </div>
-<hr>
+
+<div class="col-md-6">
 <h4>Prevención de Adicciones</h4>
 <div class="style_prevu_kit">
  <img class="img img-responsive" src="../../imagenes/goe/prevenAdicciones.jpg"  width="360" height="540" alt="goe" />
- </div>
+ </div> 
 <p><a href="https://www.youtube.com/watch?v=E5aaZ7eOeHc&feature=youtu.be" target="_blank"> Disfruta la vida </a> </p>
+ </div>
 
-<hr>
+<div class="col-md-6">
 <h4>Escuela 100% libre de humo</h4>
 <div class="style_prevu_kit">
 <a href="http://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LGCT.pdf" target="_blank">
-<img class="img img-responsive" src="../../imagenes/goe/libreHumo.png" width="540" height="240" alt="goe" /> </a>
+<img class="img img-responsive" src="../../imagenes/goe/libreHumo.png" width="500" height="240" alt="goe" /> </a>
+</div>
 </div>
      
-<hr>
+	 
+<div class="col-md-6">
 <h4>Cultura de Paz y No Violencia</h4>
 	 <div class="gallery cf">
   <div>
-    <img src="../../imagenes/goe/1nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/1nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/2nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/2nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/3Nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/3Nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/4nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/4nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/5nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/5nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/6nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/6nomasviolencia.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/7-seincluyentenoexcluyente.jpg" />
+    <img  class="img img-responsive"src="../../imagenes/goe/7-seincluyentenoexcluyente.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/8-quientequierenoteagrede.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/8-quientequierenoteagrede.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/9-entusmanoscelular.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/9-entusmanoscelular.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/10-hagamos un trato.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/10-hagamos un trato.jpg" />
   </div>
   <div>
-    <img src="../../imagenes/goe/11-nomasviolencia.jpg" />
+    <img class="img img-responsive" src="../../imagenes/goe/11-nomasviolencia.jpg" />
   </div>
+</div> 
 </div>
 									
-								 <div class='col-sm-7 pull-left'>
+								 <div class='col-md-12 col-sm-12 col-xs-12'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
 								    			<div class='fb-share-button' data-href='http://ceti.mx/noticia.php?id=48' data-layout='button_count' data-size='large' data-mobile-iframe='true'><a class='fb-xfbml-parse-ignore' target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fceti.mx%2Fnoticia.php%3Fid%3D48&amp;src=sdkpreparse'>Compartir</a></div>
