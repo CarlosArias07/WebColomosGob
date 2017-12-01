@@ -34,26 +34,26 @@
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
 					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/objetivos.php'>Objetivo</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/directorioTutorias.php'>Directorio</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Objetivo</h2>
+					            		<h2 class='bottom-buffer'>Directorio Tutorías</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/aspirantes/curso.jpg" alt="Anuies">
+					            		<img class='img img-responsive' src="../../imagenes/goe/goe_principal.jpg" alt="GOE">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	
+									       	<ul>
 									       		<li><a href="/WebColomosGob/templates/tutoria/tutorias.php">Tutorías</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/directorioTutorias.php">Directorio</a><hr class="sub-hr"></li>
+											    <li><a href="/WebColomosGob/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li>	
 											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Asesorías y Áreas de Apoyo</a><hr class="sub-hr"></li>		
+											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Asesorías y Áreas de Apoyo</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -74,47 +74,34 @@
 								        </section>-->
 								    </div>
 
-								    <div class='col-sm-7 pull-left'>
+									<div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
-								    		<hr class='red'>
-								    		<h4>Objetivo General</h4>
-								    		<p class='contenido'>
-                                             Apoyar a los alumnos del CETI en su recorrido escolar, con el propósito de prevenir el posible fracaso escolar de los alumnos que se encuentren en riesgo y así incidir en el mejoramiento de su desempeño académico y formación integral
-											</p>
-											<h4>Objetivos Particulares</h4>
-											<p class='contenido'>
-												<ul type = circle>
-													<li>
-														Integrar a los alumnos a un nuevo entorno escolar, ya sea que inicien sus estudios de bachillerato o que se hayan cambiado de otra institución, con el fin de fomentar su sentido de pertenencia a la escuela.
-													</li>
-													<br>
-													<li>
-														Detectar oportunamente las problemáticas académicas y/o personales de los alumnos, previa a la evaluación parcial o final, para implementar estrategias pertinentes que den solución o permitan su canalización a tiempo a las instancias correspondientes.
-													</li>
-													<br>
-													<li>
-														Dar seguimiento y apoyo a los alumnos en relación con sus procesos de aprendizaje y desarrollo personal, con el propósito de mejorar su desempeño académico y trayectoria escolar.
-													</li>
-													<br>
-													<li>
-														Apoyar a los alumnos a nivel pedagógico, psicológico y/o académico, con la colaboración de profesores, tutores y administrativos comprometidos con la formación integral de los jóvenes, con el propósito de mejorar su rendimiento escolar, así como su estancia en la Institución.
-													</li>
-													<br>
-													<li>
-														Construir el historial no académico del alumno, con el propósito de facilitar la labor del tutor en el acompañamiento de sus tutorados.
-													</li>
-													<br>
-													<li>
-														Capacitar a los tutores para la mejora continua de su labor frente a los alumnos.
-													</li>
-													<br>
-													<li>
-														Promover la atención oportuna y eficiente a los padres de familia a través de reuniones periódicas con los tutores de grupo, con la finalidad de involucrarlos en la mejora de desempeño escolar de sus hijos.
-													</li>
-												</ul>
-											</p>
+								    		<hr class='red'>  
+                                           <div class="col-md-6 ">
+                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
+                                               <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="goe">
+                                                  <div class="caption" >
+                                                    <h3>Mtra. Aída Velázquez Castañeda </h3>
+                                                    <p>Coordinadora de Tutorías del nivel Tecnólogo</p>
+		                                            <p>coordtutoriastgo@ceti.mx</p>
+		                                            <p>Tel.36-41-32-50 Ext.241</p>
+                                                   </div>
+                                             </div>
+                                           </div>
+       
+                                          <div class="col-md-6 ">
+                                            <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
+                                              <img class="img img-responsive"  src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="goe">
+                                                 <div class="caption">
+                                                    <h3>Sin Responsable a Cargo </h3>
+		                                            <p>Coordinación de Tutorías del nivel de Ingeniería:</p>
+		                                            <p>Tel.36-41-32-50 Ext.241</p>	
+                                                 </div>
+                                            </div>
+                                          </div>
 								    	</div>
 								    </div>
+
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
@@ -124,7 +111,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-01 12:50:00</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-01 14:01:10</p>
 								    	</div>
 								    </div>
 		    					</div>

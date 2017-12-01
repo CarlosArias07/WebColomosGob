@@ -49,8 +49,8 @@
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
 									       		<li><a href="/WebColomosGob/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Directorio</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/templates/tutoria/directorioTutorias.php">Directorio</a><hr class="sub-hr"></li>
+											    <li><a href="/WebColomosGob/templates/tutoria/docentesTutores.php">Docentes Tutores</a><hr class="sub-hr"></li>	
 											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Asesorías y Áreas de Apoyo</a><hr class="sub-hr"></li>		
 											</ul>
