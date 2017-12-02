@@ -33,13 +33,14 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/dialogosFamilia.php'>GOE</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/goe/dialogosFamilia.php'>Diálogos en Familia</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Diálogos en Familia</h2>
+					            		<h2 class='bottom-buffer'>Diálogos en Familia- Junta de Padres</h2>
+					            	<hr class='red'>
+									</div>
 
-					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
 					            		<img class='img img-responsive' src="../../imagenes/goe/goe_principal.jpg" alt="GOE">
@@ -59,7 +60,6 @@
 											  <li><a href="/WebColomosGob/templates/goe/goe.php" >GOE</a><hr class="sub-hr"></li>
 											</ul>
 									    </div> 
-
 								        <!--<section class='border-box'>
 								          <dl>
 								  	      	<dt>Autor</dt>
@@ -69,39 +69,84 @@
 								          </dl>
 								        </section>-->
 								    </div>
+									
+									<div class='col-sm-7 pull-left'>
+								    	<div class='article-body'>
+
+									<h4>Junta de Padres</h4>
+								    		<h5>
+								    			Semestre Agosto-Diciembre 2017
+								    		</h5>
+								    		<p align='center'>
+								    			Tecnólogo
+								    		</p>
+								    		<table class="table table-hover ">
+								    			<thead>
+								    				<tr>
+								    					<th>Junta</th>
+								    					<th>Fecha</th>
+								    					<th>Hora</th>
+								    					<th>Lugar</th>
+								    				</tr>
+								    			</thead>
+								    			<tbody>
+								    				<tr>
+								    					<td>Junta y Taller Nuevo Ingreso</td>
+								    					<td>21 de julio de 2017</td>
+								    					<td>8:00 a 13:00 hrs.</td>
+								    					<td>Gimnasio del plantel</td>
+								    				</tr>
+								    				<tr>
+								    					<td>Primer Parcial</td>
+								    					<td>30 de septiembre de 2017</td>
+								    					<td>8:00 a 9:00 hrs.</td>
+								    					<td>Gimnasio del plantel</td>
+								    				</tr>
+								    				<tr>
+								    					<td>Segundo Parcial</td>
+								    					<td>11 de noviembre de 2017</td>
+								    					<td>8:00 a 9:00 hrs.</td>
+								    					<td>Gimnasio del plantel</td>
+								    				</tr>
+								    			</tbody>
+								    		</table>
+											<br>
+								    		<p align='center'>
+								    			Ingeniería
+								    		</p>
+								    		<table class="table table-hover">
+								    			<thead>
+								    				<tr>
+								    					<th>Junta</th>
+								    					<th>Fecha</th>
+								    					<th>Hora</th>
+								    					<th>Lugar</th>
+								    				</tr>
+								    			</thead>
+								    			<tbody>
+								    				<tr>
+								    					<td>Junta Nuevo Ingreso</td>
+								    					<td>21 de julio de 2017</td>
+								    					<td>15:00 a 15:30 hrs.</td>
+								    					<td>Gimnasio del plantel</td>
+								    				</tr>
+								    			</tbody>
+								    		</table>
+									   </div>
+									   </div>
+									
+									
 
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
-								    		<hr class='red'>
+								    		<hr>
 											<h4>Programa de conferencias y talleres para padres</h4>
 											<h5>Semestre Agosto-Diciembre 2017</h5>
 											<br>
 											
 											 <img class='img img-responsive' src="../../imagenes/goe/dialogosFam32017.jpg" alt="GOE" >
-								    	</div>
-										
-										<br>
-										
-										 <div class="table-responsive">
-						<table class="table">
-						<tr>
-						<th>Junta</th>
-						<th>Fecha</th>
-						<th>Hora</th>
-						<th>Lugar</th>
-						</tr>
-						<tr>
-						<td>dfff
-						</td>
-						<td>dfff
-						</td>
-						<td>dfff
-						</td>
-						<td>dfff
-						</td>
-						</tr>
-						</table>
-							</div> 
+								    	</div>		
+							        </div> 
 										
 										
 										

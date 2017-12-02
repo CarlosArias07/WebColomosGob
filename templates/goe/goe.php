@@ -51,7 +51,7 @@
                                                                 <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
 											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
 																<li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia</a><hr class="sub-hr"></li>
+																<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
