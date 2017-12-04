@@ -111,7 +111,6 @@
                                          	 <p class="contenido">
                                          	 	Si desea consultar un procedimiento o formato no listado en este espacio, favor de consultar el Control de Documentos del Sistema de Gestión de Calidad <center><a href="http://calidad.ceti.mx/out/out.ViewFolder.php?folderid=1" target="_blank" class="btn btn-primary">Consulta</a></center>
                                          	 </p>
-                                         		
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

@@ -33,6 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
+					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
 					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
 					                </ol>
 					            </div>
@@ -48,11 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/directorioTutorias.php">Directorio</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Asesorías y Áreas de Apoyo</a><hr class="sub-hr"></li>		
+									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/templates/tutoria/juntaPadres.php">Junta de Padres</a><hr class="sub-hr"></li>
+											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Normatividad</a><hr class="sub-hr"></li>		
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -77,67 +77,53 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<h4>Guías para el tutor</h4>
-								    		<p>Guía Tutor Focal <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a><p>
+								    		<p>Guía Tutor Focal <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a>
+								    		<p>
                                             <p>Guía Tutor Grupal <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosIng_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a></p>
 
-								    		<h4>Junta de Padres</h4>
-								    		<p class='contenido'>
-								    			Periodo Agosto - Diciembre 2017
-								    		</p>
-								    		<p align='center'>
-								    			Tecnólogo
-								    		</p>
-								    		<table class="table table-hover table-bordered">
-								    			<thead>
-								    				<tr>
-								    					<th>Junta</th>
-								    					<th>Fecha</th>
-								    					<th>Hora</th>
-								    					<th>Lugar</th>
-								    				</tr>
-								    			</thead>
-								    			<tbody>
-								    				<tr>
-								    					<td>Junta y Taller Nuevo Ingreso</td>
-								    					<td>21 de julio de 2017</td>
-								    					<td>8:00 a 13:00 hrs.</td>
-								    					<td>Gimnasio del plantel</td>
-								    				</tr>
-								    				<tr>
-								    					<td>Primer Parcial</td>
-								    					<td>30 de septiembre de 2017</td>
-								    					<td>8:00 a 9:00 hrs.</td>
-								    					<td>Gimnasio del plantel</td>
-								    				</tr>
-								    				<tr>
-								    					<td>Segundo Parcial</td>
-								    					<td>11 de noviembre de 2017</td>
-								    					<td>8:00 a 9:00 hrs.</td>
-								    					<td>Gimnasio del plantel</td>
-								    				</tr>
-								    			</tbody>
-								    		</table>
-								    		<p align='center'>
-								    			Ingeniería
-								    		</p>
-								    		<table class="table table-hover">
-								    			<thead>
-								    				<tr>
-								    					<th>Junta</th>
-								    					<th>Fecha</th>
-								    					<th>Hora</th>
-								    					<th>Lugar</th>
-								    				</tr>
-								    			</thead>
-								    			<tbody>
-								    				<tr>
-								    					<td>Junta Nuevo Ingreso</td>
-								    					<td>21 de julio de 2017</td>
-								    					<td>15:00 a 15:30 hrs.</td>
-								    					<td>Gimnasio del plantel</td>
-								    				</tr>
-								    			</tbody>
-								    		</table>
+                                            <h4>Formatos de Tutorías</h4>
+								    		<p class="contenido">
+                                             	Plan de Trabajo <a href="/WebColomosGob/documentos/tutorias/FR-06-DAC-NT-PO-014_PLAN_TRABAJO GRAL. CADA SEMESTRE TUTORES.doc" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Citatorio a Junta de Padres y Madres de Familia <a href="/WebColomosGob/documentos/tutorias/FR-14-DAC-NT-PO-014 CITATORIO A JUNTA DE PADRES Y MADRES DE FAMILIA.doc" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Informe Parcial Junta de Padres <a href="/WebColomosGob/documentos/tutorias/FR-07-DAC-NT-PO-014 INFORME_PARCIAL_JUNTA_DE_PADRES_REV 2.doc" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Informe de Actividades Tutoriales TG y TF <a href="/WebColomosGob/documentos/tutorias/FR-09-DAC-NT-PO-014 INFORME DE ACTIVIDADES_TUTORIALES_TGyTF REV 2.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Solicitud de Atención y Canalización <a href="/WebColomosGob/documentos/tutorias/SOLICITUD_DE_ATENCION_Y_CANALIZACION.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Informe de Actividades Tutoriales para Tutor Académico <a href="/WebColomosGob/documentos/tutorias/Actividades Tutoriales Tutor Academico.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Datos Alumnos para Tutores <a href="/WebColomosGob/documentos/tutorias/FR-10-DAC-NT-PO-014 DATOS_ALUMNOS_PARA_TUTORES.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <h4>Videos Explicativos</h4>
+                                         	 <p class="contenido">
+                                             	Video Formato Actividades Tutoriales <a href="/WebColomosGob/videos/tutorias/Formato Actividades Tutoriales TG y TF.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Video Formato Asistencia Padres de Familia <a href="/WebColomosGob/videos/tutorias/Formato Asistencia PadresFamilia.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Video Informe Parcial de Junta de Padres <a href="/WebColomosGob/videos/tutorias/Informe Parcial de Junta de Padres.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -149,7 +135,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-31 13:53:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-04 12:07:00</p>
 								    	</div>
 								    </div>
 		    					</div>
