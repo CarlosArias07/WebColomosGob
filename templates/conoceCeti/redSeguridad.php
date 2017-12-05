@@ -36,9 +36,9 @@
 					                    <li class='active'><a href='/WebColomosGob/templates/conoceCeti/redSeguridad.php'>Red de Seguridad</a></li>
 					                </ol>
 					            </div>
-								<div class='row'><div class='col-sm-7 pull-left'>
+								
 					            		<h2 class='bottom-buffer'>Red de Seguridad</h2>
-					            	</div>
+					            	
 					            	<!--<div class='col-md-4 col-xs-12 pull-right '>
 									    imagen por encima del menu lateral-->
 					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
@@ -66,7 +66,7 @@
 								          </dl>
 								        </section>
 								    </div>-->
-								    <div class='col-sm-7 pull-left'>
+								    
 								    	<div class="article-body">
 						                    <hr class="red">
 						                    <p class="contenido"> 
@@ -102,8 +102,8 @@
 											</div>  
 											</p>
                                         </div>			
-					                </div>	
-								</div>
+					                
+								
 								<div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>

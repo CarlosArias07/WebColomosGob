@@ -44,18 +44,21 @@
 					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
 										
 										<!--Menu lateral -->
-										<!--<div class='border-box submenu_relacionados'>
+										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="#">Misión</a><hr class="sub-hr"></li>	
-											        <li><a href="#">Visión</a><hr class="sub-hr"></li>
-													<li><a href="#">Historia del Ceti</a><hr class="sub-hr"></li>	
-													<li><a href="#">Mensaje del Director</a><hr class="sub-hr">	</li>
-													<li><a href="#" target="_blank">Metas Institucionales</a><hr class="sub-hr"></li>
-													<li><a href="#" target="_blank">Análisis de las metas</a><hr class="sub-hr"></li>	
-													</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
-								        <hr class='red sitios_relacionados'><ul><li>		<a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr">	</li>	<li>		<a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr">	</li>	<li>		<a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr">	</li></ul>
-									    </div>  -->
+									       	<ul>	<li><a href="/WebColomosGob/templates/conoceCeti/nuestroPlantel.php">Historia</a><hr class="sub-hr"></li>
+											        <li><a href="/WebColomosGob/templates/conoceCeti/misionVision.php">Misión y Visión</a><hr class="sub-hr"></li>	
+													<li><a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a><hr class="sub-hr"></li>
+													<li><a href="/WebColomosGob/templates/conoceCeti/planoPlantel.php">Plano del Plantel</a><hr class="sub-hr"></li>	
+													<li><a href="/WebColomosGob/templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a><hr class="sub-hr">	</li>
+													<li><a href="/WebColomosGob/templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a><hr class="sub-hr"></li>	
+											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
+								        <hr class='red sitios_relacionados'><ul><li>
+										<a href="/WebColomosGob/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a><hr class="sub-hr"></li>	
+										<li><a href="/WebColomosGob/templates/conoceCeti/anuies.php">ANUIES</a><hr class="sub-hr"></li>	
+										</ul>
+									    </div>
 
 
 

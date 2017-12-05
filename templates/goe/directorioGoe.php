@@ -54,6 +54,7 @@
 													<li><a href="/WebColomosGob/templates/goe/campanasGoe.php" target="_blank">Campañas</a><hr class="sub-hr"></li>
 											        <li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
 													<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
+													<li><a href="/WebColomosGob/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -105,11 +106,45 @@
 										  
 										  <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/JoseJ.JPG" alt="goe" width="150" height="50">
+                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/JoseJ.JPG" alt="goe" width="120" height="35">
                                                   <div class="caption" >
-                                                    <h3>José de Jesús López Díaz 	</h3>
+                                                    <h3>José de Jesús López Díaz </h3>
                                                     <p>Psicólogo</p>
 		                                            <p>jjlopezd@ceti.mx</p>
+                                                   </div>
+                                             </div>
+                                           </div>
+										   
+										   <div class="col-md-6 ">
+                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
+                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/EdithMojica.jpg" alt="goe" width="150" height="50">
+                                                  <div class="caption" >
+                                                    <h3>Edith Mojica Brambila</h3>
+                                                    <p>Psicóloga</p>
+		                                            <p>emojica@ceti.mx</p>
+                                                   </div>
+                                             </div>
+                                           </div>
+										   
+										   
+										   <div class="col-md-6 ">
+                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
+                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/PatriciaGonzalez.jpg" alt="goe" width="155" height="55">
+                                                  <div class="caption" >
+                                                    <h3> Martha Patricia Gonzalez Caviedes</h3>
+                                                    <p>Psicóloga</p>
+		                                            <p>mpatricia@ceti.mx</p>
+                                                   </div>
+                                             </div>
+                                           </div>
+										   
+										   <div class="col-md-6 ">
+                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
+                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/IlianaGonzalez.jpg" alt="goe" width="145" height="45">
+                                                  <div class="caption" >
+                                                    <h3>Iliana Leticia Gonzalez Cisneros</h3>
+                                                    <p>Psicopedagoga</p>
+		                                            <p>ilgonzalez@ceti.mx</p>
                                                    </div>
                                              </div>
                                            </div>
@@ -129,7 +164,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-11-24 20:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-04 18:43:10</p>
 								    	</div>
 								    </div>
 		    					</div>

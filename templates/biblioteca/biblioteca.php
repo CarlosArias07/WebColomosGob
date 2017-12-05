@@ -32,12 +32,11 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>Lecturas de Interés</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/biblioteca/biblioteca.php'>Biblioteca</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Lecturas de Interés para la Familia</h2>
+					            		<h2 class='bottom-buffer'>Biblioteca</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -47,12 +46,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
-                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
-											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	<li><a href="/WebColomosGob/documentos/biblioteca/reglamentoBiblioteca.pdf" target="_blank">Reglamento</a><hr class="sub-hr"></li>	
+											                    <li><a href="/WebColomosGob/templates/biblioteca/.php">Biblioteca Virtual</a><hr class="sub-hr"></li>
+                                                                
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -78,25 +74,29 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
+											
+											<h4>Misión</h4>
+											<p class='contenido'>La misión de la biblioteca Manuel Sandoval Vallarta consiste en proporcionar los servicios de información que la comunidad
+											del Centro de Enseñanza Técnica Industrial requiere para cumplir con los programas académicos, de docencia y de investigación.
+											Tiene como principal objetivo facilitar el acceso y la difusión de los recursos de información, apoyando así en los procesos de creación del conocimiento y de aprendizaje. 
+											</p>
+											
+											<h4>Visión</h4>
+											<p class='contenido'>Contar con infraestructura suficiente y adecuada para apoyar la realización de los procesos y servicios bibliotecarios.
+											Satisfacer las demandas de información de los usuarios con servicios de calidad. Formar usuarios para que desarrollen habilidades en el uso
+											adecuado de los recursos y servicios de información. Cubrir los indicadores de acreditación para los programas educativos relativos a bibliotecas. </p>
+											<h4>Servicios</h4>
+											
 											<ul type="circle">
-											    <li> <a href="../../documentos/goe/comoEducar.pdf" target="_blank">Cómo educar </a></li>
-												<li><a href="../../documentos/goe/guíaParaSobrevivirALaAdolescenciaDsuHijo.pdf" target="_blank">Guía para sobrevivir a la adolescencia de su hijo.</a></li>
-												<li><a href="../../documentos/goe/adolescentes.GuiaParaPadresyMadres.pdf" target="_blank">Adolescentes. Guía para padres y madres..</li>
-												<li><a href="http://www.aulaplaneta.com/2015/02/20/en-familia/diez-libros-para-entender-y-tratar-tus-hijos-adolescentes/" target="_blank">Diez libros para entender y tratar a tus hijos adolescentes.</a> </li>
-												<li><a href="../../documentos/goe/despertandoAlGiganteInterior.pdf" target="_blank">Despertando al gigante interior.-Anthony Robbins.</a></li>
-												<li><a href="../../documentos/goe/poderSinlimites.pdf" target="_blank">Poder sin lmites.-Anthony Robbins.</a></li>
-												<li><a href="../../documentos/goe/padreRicoPadrePobre.pdf" target="_blank">Padre Rico, Padre Pobre</a> </li>
-												<li><a href="../../documentos/goe/los7HabitosGenteAltamenteEfectiva.pdf" target="_blank">Los 7 hábitos de la gente altamente efectiva </a></li>
-												<li><a href="../../documentos/goe/sieteLeyesEspiritualesdelExito.pdf" target="_blank">Las 7 leyes espirituales del éxito</a> </li>
-												<li><a href="../../documentos/goe/tuPuedesSanartuVida.pdf" target="_blank">Tu Puedes Sanar tu Vida </a></li>
-												<li><a href="../../documentos/goe/elVendedormasGrandeDelMundo.pdf" target="_blank">El Vendedor más grande del mundo </a></li>
-												<li><a href="../../documentos/goe/elMilagroMasGrandeDelMundo.pdf" target="_blank">El Milagro más grande del mundo </a></li>
-												<li><a href="../../documentos/goe/DelSufrimientoAlaPaz.pdf" target="_blank">Del Sufrimiento a la paz-Ignacio Larrañaga </a></li>
-												<li><a href="../../documentos/goe/inquietudesFrecuentesDelAdolescente.pdf" target="_blank">Inquietudes frecuentes del adolescente </a></li>
-												<li><a href="../../documentos/goe/contestarPreguntasDeAdolescentes.pdf" target="_blank">Contestar las preguntas de los adolescentes </a></li>
-												<li><a href="../../documentos/goe/mujeresQueAmanDemasiado.pdf"target="_blank">Mujeres que aman demasiado-Robin Norwood </a></li>
-												<li><a href="http://www.neuroticos-anonimos.org.mx/es-usted-neurotico/"target="_blank">Test para identificar si es usted Neurótico </a></li>
-											</ul>
+											    <li>Préstamo interno o en sala. </li>
+												<li>Préstamo a domicilio, renovación y devolución del material.</li>
+												<li>Préstamo de equipo de cómputo .</li>
+												<li>Préstamo de de sala de juntas y sala audiovisual</li>
+												<li>Préstamo de material audiovisual </li>
+										    </ul>
+											
+											<h4>Horario:</h4>
+											<p class='contenido'>Lunes a viernes de 8:00 am a 9:30 pm. Sábados de 9:00 am a 3:00 pm.</p>
 											
 											
 								    	</div>
@@ -110,7 +110,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-04 18:54:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-04 20:05:10</p>
 								    	</div>
 								    </div>
 		    					</div>
