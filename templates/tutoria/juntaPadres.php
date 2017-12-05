@@ -35,7 +35,7 @@
 					                    <li>Desarrollo Académico</li>
 					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
 					                    <li><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Junta de Padres</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/juntaPadres.php'>Junta de Padres</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -51,8 +51,8 @@
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
 									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Capacitacion</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Normatividad</a><hr class="sub-hr"></li>		
+											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

@@ -35,11 +35,11 @@
 					                    <li>Desarrollo Académico</li>
 					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
 					                    <li><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/capacitacion.php'>Capacitación</a></li>
+					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/normatividad.php'>Normatividad</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Capacitación</h2>
+					            		<h2 class='bottom-buffer'>Manuales y Acuerdos de Normatividad</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -50,8 +50,8 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>		
-											    <li><a href="/WebColomosGob/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
+									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
+											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>			
 											</ul>
 										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -73,39 +73,32 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-								    		<h4>Diplomado: Formación Integral del Tutor</h4>
-								    		<h4>Características Generales</h4>
-								    		<p class='contenido'>
-                                             <ul type = circle>
-													<li>
-														Módulos no secuenciados
-													</li>
-													<br>
-													<li>
-														Duración Total: 200 hrs
-													</li>
-											 </ul>
-											</p>
-											<h4>Objetivos</h4>
-											<p class='contenido'>
-												<ul type = circle>
-													<li>
-														<b>MODULO 1: EL TUTOR Y LA TUTORÍA (60 horas).</b> Objetivo: Proporcionar herramientas de autoconocimiento para la interacción efectiva entre tutores y tutorados(as).
-													</li>
-													<br>
-													<li>
-														<b>MODULO 2: LA INSTITUCIÓN Y LA TUTORÍA (40 horas).</b> Objetivo: Implementar instrumentos que concretan las actividades y resultados de la acción tutorial, en base a la normatividad y programas de apoyo a la institución para la orientación y canalización efectiva.
-													</li>
-													<br>
-													<li>
-														<b>MODULO 3: EL ALUMNO Y LA TUTORÍA (60 horas).</b> Objetivo: Aplicar recursos y estrategias enfocadas al desarrollo de las competencias genéricas de los tutorados(as) a través del Programa de Tutorías del CETI-Colomos.
-													</li>
-													<br>
-													<li>
-														<b>MODULO 4: VINCULACIÓN DE LA FAMILIA (40 horas).</b> Objetivo: Identificar las relaciones de los tutorados y las tutoradas en el contexto familiar-académico para fomentar la conciliación, y permitiendo una educación integral.
-													</li>
-												</ul>
-											</p>
+                                            <h4>Formatos de Tutorías</h4>
+								    		<p class="contenido">
+                                             	Acuerdos 442 BGC <a href="/WebColomosGob/documentos/tutorias/Acuerdo 442 BGC.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Acuerdo 9 del Comité de Tutorías SEMS <a href="/WebColomosGob/documentos/tutorias/Acuerdo_9_comites_tutorias_SEMS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Manual de la Función Docente <a href="/WebColomosGob/documentos/tutorias/DI-MN-200-04-01 Manual de la Funcion Docente.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Metodología Acción Tutorial <a href="/WebColomosGob/documentos/tutorias/Metodologia_Accion_Tutorial.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Programa de Tutorías Nivel Tecnólogo <a href="/WebColomosGob/documentos/tutorias/DI-VA-200-11-02 rev 4 PROGRAMA DE TUTORIAS NIVEL TECNOLOGO PLANTEL COLOMOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Manual para Ser Mejor Tutor <a href="/WebColomosGob/documentos/tutorias/MANUAL MEJOR_TUTOR.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -117,7 +110,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-04 14:23:06</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-05 12:43:00</p>
 								    	</div>
 								    </div>
 		    					</div>

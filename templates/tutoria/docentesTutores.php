@@ -50,17 +50,14 @@
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
 									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/juntaPadres.php">Junta de Padres</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Normatividad</a><hr class="sub-hr"></li>		
+											    <li><a href="/WebColomosGob/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
 											</ul>
-										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
+										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
-											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
-											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
+												<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
+											</ul>
 									    </div> 
 
 								        <!--<section class='border-box'>
