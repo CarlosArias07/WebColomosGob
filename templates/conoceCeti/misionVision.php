@@ -51,7 +51,7 @@
 											        <li><a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a><hr class="sub-hr"></li>
 													<li><a href="/WebColomosGob/templates/conoceCeti/planoPlantel.php">Plano del Plantel</a><hr class="sub-hr"></li>	
 													<li><a href="/WebColomosGob/templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a><hr class="sub-hr">	</li>
-													<li><a href="/WebColomosGob/templates/conoceCeti/directorioTelefonico.php" target="_blank">Directorio Telefónico</a><hr class="sub-hr"></li>	
+													<li><a href="/WebColomosGob/templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a><hr class="sub-hr"></li>	
 													</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								        <hr class='red sitios_relacionados'><ul><li>
 										<a href="/WebColomosGob/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a><hr class="sub-hr"></li>	

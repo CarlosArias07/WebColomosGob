@@ -32,11 +32,12 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/biblioteca/biblioteca.php'>Biblioteca</a></li>
+					                    <li><a href='/WebColomosGob/templates/biblioteca/biblioteca.php'>Biblioteca</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/biblioteca/bibliotecaVirtual.php'>Biblioteca Virtual</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Biblioteca</h2>
+					            		<h2 class='bottom-buffer'>Biblioteca Virtual</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
@@ -46,8 +47,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle">	<li><a href="/WebColomosGob/documentos/biblioteca/reglamentoBiblioteca.pdf" target="_blank">Reglamento</a><hr class="sub-hr"></li>	
-											                    <li><a href="/WebColomosGob/templates/biblioteca/bibliotecaVirtual.php">Biblioteca Virtual</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/biblioteca/biblioteca.php">Biblioteca</a><hr class="sub-hr"></li>
+											                 <li><a href="/WebColomosGob/documentos/biblioteca/reglamentoBiblioteca.pdf" target="_blank">Reglamento</a><hr class="sub-hr"></li>	
+											                    
                                                                 
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
@@ -74,33 +76,54 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
+											<h4>Bases de datos libre acceso</h4>
 											
-											<h4>Misión</h4>
-											<p class='contenido'>La misión de la biblioteca Manuel Sandoval Vallarta consiste en proporcionar los servicios de información que la comunidad
-											del Centro de Enseñanza Técnica Industrial requiere para cumplir con los programas académicos, de docencia y de investigación.
-											Tiene como principal objetivo facilitar el acceso y la difusión de los recursos de información, apoyando así en los procesos de creación del conocimiento y de aprendizaje. 
-											</p>
+											<table class="table table-hover ">
+								    			<thead>
+								    				<tr>
+								    					<th>Nombre</th>
+								    					<th>Descripción</th>
+								    					<th>Link</th>
+								    				</tr>
+								    			</thead>
+								    			<tbody>
+								    				<tr>
+								    					<td>DOAJ - DIRECTORY OF OPEN ACCESS JOURNALS</td>
+								    					<td>Esta base de datos contiene información libre, con calidad científica controlada y de revistas científicas.
+														Con diversos temas como por ejemplo: Química, Matemáticas y Estadística, Tecnología e Ingeniería.</td>
+								    					<td> <a href="http://www.doaj.org/">http://www.doaj.org/ </a></td>
+								    					
+								    				</tr>
+								    				<tr>
+								    					<td>Primer Parcial</td>
+								    					<td>30 de septiembre de 2017</td>
+								    					<td>8:00 a 9:00 hrs.</td>
+								    					
+								    				</tr>
+								    				<tr>
+								    					<td>Segundo Parcial</td>
+								    					<td>11 de noviembre de 2017</td>
+								    					<td>8:00 a 9:00 hrs.</td>
+								    					
+								    				</tr>
+								    			</tbody>
+								    		</table>
 											
-											<h4>Visión</h4>
-											<p class='contenido'>Contar con infraestructura suficiente y adecuada para apoyar la realización de los procesos y servicios bibliotecarios.
-											Satisfacer las demandas de información de los usuarios con servicios de calidad. Formar usuarios para que desarrollen habilidades en el uso
-											adecuado de los recursos y servicios de información. Cubrir los indicadores de acreditación para los programas educativos relativos a bibliotecas. </p>
-											<h4>Servicios</h4>
 											
-											<ul type="circle">
-											    <li>Préstamo interno o en sala. </li>
-												<li>Préstamo a domicilio, renovación y devolución del material.</li>
-												<li>Préstamo de equipo de cómputo .</li>
-												<li>Préstamo de de sala de juntas y sala audiovisual</li>
-												<li>Préstamo de material audiovisual </li>
-										    </ul>
 											
-											<h4>Horario:</h4>
-											<p class='contenido'>Lunes a viernes de 8:00 am a 9:30 pm. Sábados de 9:00 am a 3:00 pm.</p>
+											
+											
+											
+											
+											
+											
+											
+											
 											
 											
 								    	</div>
 								    </div>
+
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
