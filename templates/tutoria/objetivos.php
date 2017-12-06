@@ -52,8 +52,7 @@
 									       		<li><a href="/WebColomosGob/templates/tutoria/tutorias.php">Tutorías</a><hr class="sub-hr"></li>	
 											    <li><a href="/WebColomosGob/templates/tutoria/directorioTutorias.php">Directorio</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/templates/tutoria/docentesTutores.php">Docentes Tutores</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Asesorías y Áreas de Apoyo</a><hr class="sub-hr"></li>		
+											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>		
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
