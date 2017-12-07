@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/contruyeT.php'>Contruye-T</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/goe/contruyeT.php'>Construye-T</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -80,16 +80,104 @@
 									<div class='col-sm-7 pull-left'>
 								    	<div class="article-body">
 						                    <hr class="red">
+						                    <table >
+						                    	<tr>
+						                    		<td>¿Que es construye-T?</td>
+						                    		<td>Manual Constuye-T para tutores</td>
+						                    	</tr>
+						                    	<tr> 
+						                    		<td><a href="" class="btn btn-primary">Seleccionar</a></td>
+						                    		<td><a href="" class="btn btn-primary">Seleccionar</a></td>
+						                    	</tr>
+						                    </table>
 											
-											<h4>¿Qué es Construye-T?</h4>
-						                    <p class="contenido">	
-                                             <object type"application/pdf" data="../../documentos/goe/ProgramaConstruyeT.pdf"  height="700" width="620" > </object>
-										     </p>
-											 <hr>
-											 <h4>Manual Construye-T para Tutores</h4>
-											 <p class="contenido">	
-                                             <object type"application/pdf" data="../../documentos/goe/ContruyeTDocentes.pdf"  height="700" width="620" > </object>
-										     </p>
+											
+											<h4>Formatos de Tutorías</h4>
+								    		<p class="contenido">
+                                             	Manual Construye-T para Tutores <a href="/WebColomosGob/documentos/tutorias/Manual_Construye-T.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Proyectos Grupales <a href="/WebColomosGob/documentos/tutorias/ConstruyeT y los Proyectos Grupales.ppt" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Directorio de Instituciones <a href="/WebColomosGob/documentos/tutorias/DIRECTORIO DE INSTITUCIONES.xls" class="btn btn-primary pull-right">Consultar</a>
+                                             <br>
+                                             <br>
+                                         	 </p>
+                                         	 <p class="contenido">
+                                             	Formato Planeacion Proyecto de Grupo <a href="/WebColomosGob/documentos/tutorias/Formato Planeacion Proyecto de Grupo.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Guia Matriz de Actividades <a href="/WebColomosGob/documentos/tutorias/GUIA_MATRIZ_ACTIVIDADES.xls" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	Video Programa Construye-T <a href="/WebColomosGob/videos/tutorias/VIDEO_Programa ConstruyeT.m4v" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <h4>Indices por dimensión</h4>
+                                         	 <p class="contenido">
+                                             	1. Conocimiento de sí mismo <a href="/WebColomosGob/documentos/tutorias/1. Indice de Actividades - Conocimiento de si mismo..pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	2. Vida Saludable <a href="/WebColomosGob/documentos/tutorias/2. Indice de Actividades - Vida Saludable.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	3. Cultura de Paz y No Violencia <a href="/WebColomosGob/documentos/tutorias/3. Indice de Actividades - Cultura de Paz y No Violencia.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	4. Escuela y Familia <a href="/WebColomosGob/documentos/tutorias/4. Indice de Actividades - Escuela y Familia.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	5. Participación y Juvenil <a href="/WebColomosGob/documentos/tutorias/5. Indice de Actividades - Participacion Juvenil.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <h4></h4>
+                                         	 <br>
+                                         	 <h4>Dinámicas por dimensión</h4>
+                                         	 <p class="contenido">
+                                             	1. Conocimiento de sí mismo <a href="/WebColomosGob/documentos/tutorias/1. CONOCIMIENTO DE SI MISMO.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	2. Vida Saludable: Consumo y Salud <a href="/WebColomosGob/documentos/tutorias/2.A VIDA SALUDABLE - CONSUMO Y SALUD.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	2. Vida Saludable: Sexualidad <a href="/WebColomosGob/documentos/tutorias/2.B VIDA SALUDABLE - SEXUALIDAD.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	2. Vida Saludable: Sustancias Adictivas <a href="/WebColomosGob/documentos/tutorias/2.C VIDA SALUDABLE - SUSTANCIAS ADICITIVAS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	3. Cultura de Paz y No Violencia <a href="/WebColomosGob/documentos/tutorias/3. CULTURA DE PAZ Y NO VIOLENCIA.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	4. Escuela y Familia: Ambiente Escolar <a href="/WebColomosGob/documentos/tutorias/4.A ESCUELA Y FAMILIA - AMBIENTE ESCOLAR.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	4. Escuela y Familia: Familia <a href="/WebColomosGob/documentos/tutorias/4.B ESCUELA Y FAMILIA - FAMILIA.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	5. Participación y Juvenil <a href="/WebColomosGob/documentos/tutorias/5. PARTICIPACION JUVENIL.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
+                                         	 <br>
+                                         	 <p class="contenido">
+                                             	6. Proyecto de Vida <a href="/WebColomosGob/documentos/tutorias/6. PROYECTO DE VIDA.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                         	 </p>
 											 
 										</div>		
 					                </div>
