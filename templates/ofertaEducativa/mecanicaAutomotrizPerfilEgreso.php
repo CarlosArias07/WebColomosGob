@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotriz.php'>Mecanica Automotriz</a></li>
+					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotriz.php'>Mecanica Automotriz</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/mecanicaAutomotrizPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
@@ -52,7 +52,7 @@
 									       	<ul>	
 											    <li><a href="mecanicaAutomotriz.php">Mecanica Automotriz</a><hr class="sub-hr"></li>	
 											    <li><a href="mecanicaAutomotrizMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/tgoPlanMecanicaAutomotriz.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="../../documentos/ofertaEducativa/tgoMecanicaAutomotrizReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

@@ -48,6 +48,7 @@
 									        <hr class='red sitios_relacionados'>
 									       	<ul type="circle">	<li><a href="/WebColomosGob/documentos/biblioteca/reglamentoBiblioteca.pdf" target="_blank">Reglamento</a><hr class="sub-hr"></li>	
 											                    <li><a href="/WebColomosGob/templates/biblioteca/bibliotecaVirtual.php">Biblioteca Virtual</a><hr class="sub-hr"></li>
+																<li><a href="/WebColomosGob/templates/biblioteca/bibliotecaConsulta.php">Consulta</a><hr class="sub-hr"></li>
                                                                 
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>

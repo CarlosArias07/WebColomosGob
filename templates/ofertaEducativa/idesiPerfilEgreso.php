@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/idesi.php'>Diseño Electronico y Sistemas Inteligentes</a></li>
+					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li><a href='/WebColomosGob/templates/ofertaEducativa/idesi.php'>Diseño Electronico y Sistemas Inteligentes</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/idsPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
@@ -52,7 +52,7 @@
 									       	<ul>	
 											    <li><a href="idesi.php">Diseño Electronico y Sistemas Inteligentes</a><hr class="sub-hr"></li>	
 											    <li><a href="idsMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/IngPlanIDESI.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="../../documentos/ofertaEducativa/idesiReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>														
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

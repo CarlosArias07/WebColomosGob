@@ -53,7 +53,7 @@
 									       	<ul>	
 											    <li><a href="industrial.php">Industrial</a><hr class="sub-hr"></li>	
 											    <li><a href="industrialPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/ingPlanIndustrial.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="../../documentos/ofertaEducativa/IngIndustrialReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

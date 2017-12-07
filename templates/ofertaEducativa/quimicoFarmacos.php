@@ -32,17 +32,17 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/quimicoFarmacos.php'>Quimico Fármacos</a></li>
+					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electromecanica.php'>Electromec&aacute;nica</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Quimico en Fármacos</h2>
+					            		<h2 class='bottom-buffer'>Electromec&aacute;nica</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/quimicoFarmacos.png" alt="Quimico Farmacos"/> 
+					            		<img class='img img-responsive' src="../../imagenes/ofertaEducativa/electromecanica.png" alt="Electromecanica"/> 
 										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
@@ -51,7 +51,7 @@
 									       	<ul>	
 											    <li><a href="quimicoFarmacosMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
 											    <li><a href="quimicoFarmacosPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/tgoPlanQuimicoFarmacos.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
 												<li><a href="../../documentos/ofertaEducativa/tgoQuimicoFarmacosReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

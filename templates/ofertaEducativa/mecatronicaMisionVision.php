@@ -53,7 +53,7 @@
 									       	<ul>	
 											    <li><a href="mecatronica.php">Mecatrónica</a><hr class="sub-hr"></li>	
 											    <li><a href="mecatronicaPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/ingPlanMecatronica.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="../../documentos/ofertaEducativa/IngMecatronicaReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

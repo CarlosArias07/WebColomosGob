@@ -32,9 +32,9 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico e instrumentaci&oacute;n</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomaticoMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomatico.php'>Control Automatico e instrumentaci&oacute;n</a></li>
+										<li class='active' ><a href='/WebColomosGob/templates/ofertaEducativa/controlAutomaticoMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
 										
 					                </ol>
 					            </div>
@@ -53,7 +53,7 @@
 									       	<ul>	
 											    <li><a href="controlAutomatico.php">Control Automatico e instrumentacion</a><hr class="sub-hr"></li>	
 											    <li><a href="controlAutomaticoPerfilEgreso.php">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/tgoPlanControlAutomaticoEInstrumentacion.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>
                                                 <li><a href="controlAutomaticoReticula.php">Ret&iacute;cula</a><hr class="sub-hr"></li>													
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

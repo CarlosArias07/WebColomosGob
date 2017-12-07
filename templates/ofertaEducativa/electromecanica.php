@@ -32,7 +32,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electromecanica.php'>Electromec&aacute;nica</a></li>
 					                </ol>
 					            </div>
@@ -49,9 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="#">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
+											    <li><a href="electromecanicaMisionVision.php">Misi&oacute; y Visi&oacute;n</a><hr class="sub-hr"></li>	
 											    <li><a href="#">Perfil de Egreso</a><hr class="sub-hr"></li>
-												<li><a href="#">Planes y programas</a><hr class="sub-hr"></li>	
+												<li><a href="../../documentos/ofertaEducativa/tgoElectromecanicaReticula.pdf" target="_blank">Ret&iacute;cula</a><hr class="sub-hr"></li>
+												<li><a href="../../documentos/ofertaEducativa/tgoPlanElectromecanica.pdf" target="_blank">Planes y programas</a><hr class="sub-hr"></li>	
 											</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
@@ -74,7 +75,7 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-											<b>Objetivo general </b>
+											<h4>Objetivo general </h4>
 								    		<p class='contenido'>
 											Formar profesionales de nivel medio superior con capacidad para desempeñarse con responsabilidad
                                             y actitud emprendedora, derntro del sector productivo y de servicios, en las areas electrica,  
