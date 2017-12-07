@@ -80,18 +80,22 @@
 									<div class='col-sm-7 pull-left'>
 								    	<div class="article-body">
 						                    <hr class="red">
-						                    <table >
-						                    	<tr>
-						                    		<td>¿Que es construye-T?</td>
-						                    		<td>Manual Constuye-T para tutores</td>
-						                    	</tr>
-						                    	<tr> 
-						                    		<td><a href="" class="btn btn-primary">Seleccionar</a></td>
-						                    		<td><a href="" class="btn btn-primary">Seleccionar</a></td>
-						                    	</tr>
-						                    </table>
-											
-											
+											<table class="table table-hover" border="0px">
+								    			<thead>
+								    				<tr>
+								    					<th>¿Que es construye-T?</th>
+								    					<th>Manual Constuye-T para tutores</th>
+								    				</tr>
+								    			</thead>
+								    			<tbody>
+								    				<tr>
+								    					<td align="center"><a href="" class="btn btn-primary">Consultar</a></td>
+								    					<td align="center"><a href="" class="btn btn-primary">Consultar</a></td>
+								    				</tr>
+								    			</tbody>
+								    		</table>
+											<br>
+											<br>
 											<h4>Formatos de Tutorías</h4>
 								    		<p class="contenido">
                                              	Manual Construye-T para Tutores <a href="/WebColomosGob/documentos/tutorias/Manual_Construye-T.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
@@ -140,7 +144,6 @@
                                              	5. Participación y Juvenil <a href="/WebColomosGob/documentos/tutorias/5. Indice de Actividades - Participacion Juvenil.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
-                                         	 <h4></h4>
                                          	 <br>
                                          	 <h4>Dinámicas por dimensión</h4>
                                          	 <p class="contenido">

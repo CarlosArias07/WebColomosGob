@@ -52,7 +52,7 @@
 									       		<li><a href="/WebColomosGob/templates/tutoria/tutorias.php">Tutorías</a><hr class="sub-hr"></li>	
 											    <li><a href="/WebColomosGob/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>
 											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/materialApoyo.php">Construye-T</a><hr class="sub-hr"></li>
+											    <li><a href="/WebColomosGob/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
