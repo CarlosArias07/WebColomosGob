@@ -58,6 +58,7 @@
 											dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la
 											técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
 											</p>
+											<div id="tec">
 											<h4>Carreras de Tecnólogo</h4>
 											<p class="contenido">Desde sus inicios el CETI se destaca por su modelo educativo especializado en el ámbito del desarrollo de la tecnología, por lo que en primera instancia a 
 											 sus egresados se les dio el título de “Técnico”, más sin embargo, dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
@@ -134,12 +135,11 @@
 	                                        <div class="">
                                                <p>Tgo. en Electr&oacute;nica y Comunicaciones</p>
 	                                        </div>
-                                        </div>
-  
-  
-                                        
+                                        </div> 
                                     </div>
+                                </div>
 
+                                    <div id="ing">
                                         <h4>Carreras de Ingenier&iacute;a</h4>
 								    		<p class='contenido'>
 											El CETI también cuenta con cuatro carreras universitarias que son las de mayor auge en nuestro país. 
@@ -181,6 +181,7 @@
 	                                                </div>
                                                 </div>
                                             </div>
+                                        </div>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

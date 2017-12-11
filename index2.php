@@ -18,6 +18,7 @@
         <?php include_once('menu.html'); ?>
 
         <!-- CARRUSEL -->
+        <section class="slider_articles">
         <div class="container">
             <!-- Indicators -->
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -38,7 +39,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="imagenes/noticias/3.jpg" alt="Flower">
+                        <img src="imagenes/noticias/5.jpg" alt="Flower">
                         <div class="carousel-caption">
                             <h3>Título de Noticia</h3>
                             <p>Texto breve descriptivo de Noticia</p>
@@ -61,6 +62,7 @@
                 </ol>
             </div>
         </div>
+        </section>
         <!-- FIN CARRUSEL -->
 
         <!-- SUB-MENU -->
@@ -73,16 +75,16 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.php">
+                    <a class="navbar-brand" href="/WebColomosGob/index.php">
                     <!--<img src="img/logo_ceti.png" class="img img-responsive">-->
                     </a>
                 </div>
                 <div class="collapse navbar-collapse" id="subenlaces">
                     <ul class="nav subnav navbar-nav navbar-right">
-                        <li><a class="sombrear" href="index.php">Carreras Tecnólogo</a></li>
-                        <li><a class="sombrear" href="buzon.php">Carreras Ingeniería</a></li>
+                        <li><a class="sombrear" href="/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php#tec">Carreras Tecnólogo</a></li>
+                        <li><a class="sombrear" href="/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php#ing">Carreras Ingeniería</a></li>
                         <li><a class="sombrear" href="articulo.php?id=257">Trámites Aspirantes</a></li>
-                        <li><a class="sombrear" href="articulo.php?id=97&Itemid=90">Ingreso al Sistema Escolar</a></li>
+                        <li><a class="sombrear" href="https://ase1.ceti.mx/tecnologo/" target="_blank">Ingreso al Sistema Escolar</a></li>
                     </ul>
                 </div>
             </div>
@@ -299,7 +301,7 @@
 
 
         <!-- FINAL CONTENIDO -->
-        <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+        <!--<script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>-->
 		<script src="https://framework-gb.cdn.gob.mx/gobmx.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	</body>

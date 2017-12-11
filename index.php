@@ -112,7 +112,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <ol class="breadcrumb">
                     <li><a href="#"><i class="icon icon-home"></i></a></li>
-                    <li class="active"><a href="index.html">Inicio</a></li>
+                    <li class="active"><a href="/WebColomosGob/index.php">Inicio</a></li>
                 </ol>
             </div>
             <hr>
