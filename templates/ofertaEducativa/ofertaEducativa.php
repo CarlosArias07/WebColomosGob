@@ -59,10 +59,10 @@
 											técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
 											</p>
 											<div id="tec">
-											<h4>Carreras de Tecnólogo</h4>
+											<h4>Carreras de Tecnólogo (Equivalencia a Nivel Media Superior)</h4>
 											<p class="contenido">Desde sus inicios el CETI se destaca por su modelo educativo especializado en el ámbito del desarrollo de la tecnología, por lo que en primera instancia a 
 											 sus egresados se les dio el título de “Técnico”, más sin embargo, dado el avanzado programa de estudios en comparación con otras preparatorias técnicas, se optó por cambiar el título a “Tecnólogo”, un profesional que conoce de la técnica a tal grado que es capaz de perfeccionar y ampliar su campo de aplicación.
-                                                Impartidas en plantel Colomos
+                                                Impartidas en plantel Colomos.
 											</p>
 									
 									
@@ -100,7 +100,7 @@
                                             <a href="maquinasHerramienta.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/maquinasHeramienta.png" alt="Maquinas Heramienta"></a>
 	                                        <div class="">
-                                              <p>Tgo. en Maquinas-Herramienta</p>
+                                              <p>Tgo. Mecánico en Máquinas-Herramienta</p>
 	                                        </div>
                                         </div>
 
@@ -125,7 +125,7 @@
                                             <a href="quimicoFarmacos.php" class="thumbnail">
                                             <img src="../../imagenes/ofertaEducativa/quimicoFamacos.png" alt="Quimico Farmacos"></a>
 	                                        <div class="">
-                                            <p>Tgo. en Químicos en Fármacos</p>
+                                            <p>Tgo. Químico en Fármacos</p>
 	                                        </div>
                                         </div>
                                         
@@ -140,7 +140,7 @@
                                 </div>
 
                                     <div id="ing">
-                                        <h4>Carreras de Ingenier&iacute;a</h4>
+                                        <h4>Carreras de Ingenier&iacute;a (Equivalencia a Nivel Superior)</h4>
 								    		<p class='contenido'>
 											El CETI también cuenta con cuatro carreras universitarias que son las de mayor auge en nuestro país. 
 											</p>
@@ -168,7 +168,7 @@
                                                     <img src="../../imagenes/ofertaEducativa/desarrolloElectronico.png" alt="Desarrollo de Software">
                                                     </a>
 	                                                <div class="">
-                                                    <p>Ing. Desarrollo de Software </p>
+                                                    <p>Ing. en Desarrollo de Software</p>
 	                                                </div>
                                                 </div>
 												
@@ -177,7 +177,7 @@
                                                     <img src="../../imagenes/ofertaEducativa/desarrolloElectronico.png" alt="Diseño Electronico">
                                                     </a>
 	                                                <div class="">
-                                                       <p>Ing. Diseño Electronico y de Sistemas Inteligentes</p>
+                                                       <p>Ing. en Diseño Electrónico y Sistema Inteligentes</p>
 	                                                </div>
                                                 </div>
                                             </div>

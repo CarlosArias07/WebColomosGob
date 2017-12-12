@@ -16,6 +16,7 @@
         <!-- Bootstrap Dropdown Hover CSS -->
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
+
 	</head>
 
 	<body>
@@ -35,9 +36,10 @@
 					                    <li class='active'><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
 					                </ol>
 					            </div>
-								<div class='row'><div class='col-sm-7 pull-left'>
+								<div class='row'>
+								  <div class='col-sm-7 pull-left'>
 					            		<h2 class='bottom-buffer'>Cultura Arte y Deporte (CAD)</h2>
-
+										
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
@@ -75,13 +77,66 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 											<h4>Talleres y Galería </h4>
-								    		<p class='contenido'>
-                                             
-											</p>
-											
-
+				
+				
+				<div class='list-group gallery'>
+                                           <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                                          <a class="thumbnail" rel="ligthbox" href="" >
+											<img class="img-responsive" alt="" src="../../imagenes/cad/acroyoga/acroyoga1.JPG" /></a>
+										    </div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="thumbnail" rel="ligthbox" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/futbol/futbol1.jpg" />
+											</a>
+											</div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="thumbnail" rel="ligthbox" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/baloncesto/baloncesto1.jpg" />
+											</a>
+											</div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
+											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
+											</a>
+											</div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
+											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
+											</a>
+											</div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
+											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
+											</a>
+											</div> <!-- col-6 / end -->
+											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
+											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
+											</a>
+											</div> <!-- col-6 / end -->
+            
+											</div> <!-- list-group / end -->
+				
+				
+				
 								    	</div>
 								    </div>
+									
+									
+									
+									
+							
+								
+	
+								
+									
+									
+									
+									
+									
+									
+									
+									
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
@@ -91,7 +146,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-08 20:40:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-11 20:42:10</p>
 								    	</div>
 								    </div>
 		    					</div>

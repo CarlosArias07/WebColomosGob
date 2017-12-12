@@ -156,7 +156,8 @@
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<!--<div class='sociales'>
-								    			<div class='fb-share-button' data-href='http://ceti.mx/noticia.php?id=48' data-layout='button_count' data-size='large' data-mobile-iframe='true'><a class='fb-xfbml-parse-ignore' target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fceti.mx%2Fnoticia.php%3Fid%3D48&amp;src=sdkpreparse'>Compartir</a></div>
+								    			<div class='fb-share-button' data-href='http://ceti.mx/noticia.php?id=48' data-layout='button_count' data-size='large' data-mobile-iframe='true'>
+												<a class='fb-xfbml-parse-ignore' target='_blank' href='https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fceti.mx%2Fnoticia.php%3Fid%3D48&amp;src=sdkpreparse'>Compartir</a></div>
 								    		</div>
 								    		<div class='sociales'>
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
