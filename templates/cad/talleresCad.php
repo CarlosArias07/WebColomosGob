@@ -80,40 +80,68 @@
 				
 				
 				<div class='list-group gallery'>
-                                           <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-                                          <a class="thumbnail" rel="ligthbox" href="" >
-											<img class="img-responsive" alt="" src="../../imagenes/cad/acroyoga/acroyoga1.JPG" /></a>
-										    </div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="thumbnail" rel="ligthbox" href="">
+                                           <div class='col-md-6'>
+                                          <a class=" img img-responsive thumbnail"  href="" >
+											<img class="img-responsive" alt="" src="../../imagenes/cad/acroyoga/acroyoga1.JPG" />
+											</a><center> <h5>Acroyoga</h5> </center>
+										    </div> 
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail"  href="">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/futbol/futbol1.jpg" />
-											</a>
-											</div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="thumbnail" rel="ligthbox" href="">
+											</a><center> <h5> Fútbol  </h5></center>
+											</div> 
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/baloncesto/baloncesto1.jpg" />
-											</a>
-											</div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
-											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
-											</a>
-											</div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
-											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
-											</a>
-											</div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
-											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
-											</a>
-											</div> <!-- col-6 / end -->
-											<div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-											<a class="fancybox thumbnail" rel="ligthbox" href="http://placehold.it/800x600.png">
-											<img class="img-responsive" alt="" src="http://placehold.it/320x320" />
-											</a>
-											</div> <!-- col-6 / end -->
+											</a><center> <h5>Baloncesto <h5><center> 
+											</div> 
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/voleibol/voleibol1.jpg" />
+											</a><center> <h5>Voleibol <h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/danzaAerea/danzaAerea1.jpg" />
+											</a><center> <h5>Danza Aérea  <h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/canto/canto1.jpg" />
+											</a><center> <h5>Canto y Percusiones<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/guitarra/guitarra1.jpg" />
+											</a><center> <h5>Taller de Guitarra <h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/defensa/defensa1.jpg" />
+											</a><center> <h5>Defensa Personal<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/balonmano/balonmano1.jpg" />
+											</a><center> <h5>Balonmano<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/acondicionamiento/acondicionamiento1.jpg" />
+											</a><center> <h5>Acondicionamiento fisíco <h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/radio/radio1.jpg" />
+											</a><center> <h5>Taller de Radio<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/danzaPolinesia/danzaPolinesia1.jpg" />
+											</a><center> <h5> Danza Polinesia (hawaiano y tahitiano)<h5><center> 
+											</div>
+											
+											
             
 											</div> <!-- list-group / end -->
 				
@@ -127,13 +155,7 @@
 									
 							
 								
-	
-								
-									
-									
-									
-									
-									
+
 									
 									
 									
@@ -146,7 +168,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-11 20:42:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-12 20:48:10</p>
 								    	</div>
 								    </div>
 		    					</div>
