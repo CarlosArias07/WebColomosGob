@@ -140,8 +140,36 @@
 											<img class="img-responsive" alt="" src="../../imagenes/cad/danzaPolinesia/danzaPolinesia1.jpg" />
 											</a><center> <h5> Danza Polinesia (hawaiano y tahitiano)<h5><center> 
 											</div>
-											
-											
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/ritmosLatinos/ritmosLatinos1.jpg" />
+											</a><center> <h5>Ritmos Latinos<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/dibujo/dibujo1.jpg" />
+											</a><center> <h5>Dibujo Artístico<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/pintura/pintura1.jpg" />
+											</a><center> <h5>Pintura<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/atletismo/atletismo1.jpg" />
+											</a><center> <h5>Atletismo<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/dibujo/dibujo1.jpg" />
+											</a><center> <h5>Teatro<h5><center> 
+											</div>
+											<div class='col-md-6'>
+											<a class="img img-responsive thumbnail" href="">
+											<img class="img-responsive" alt="" src="../../imagenes/cad/natacion/natacion1.JPG" />
+											</a><center> <h5>Natación<h5><center> 
+											</div>
             
 											</div> <!-- list-group / end -->
 				
@@ -152,11 +180,7 @@
 									
 									
 									
-									
-							
-								
-
-									
+		
 									
 									
 								 <div class='col-sm-7 pull-left'>
