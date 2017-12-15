@@ -10,6 +10,11 @@
 		<!--  ESTILOS  -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/lista.css">
+        <style type="text/css">
+            ul{
+                list-style-type: none;
+            }
+        </style>
 	</head>
 
 	<body>
@@ -31,7 +36,7 @@
                                     </ol>
                                 </div>
                                 <div class='row'><div class='col-sm-7 pull-left'>
-                                        <h2 class='bottom-buffer'>Noticias Anteriores</h2>
+                                        <h2 class='bottom-buffer'>Becas Nivel Tecnólogo e Ingeniería</h2>
                                     </div>
                                     <div class='col-md-4 col-xs-12 pull-right '>
                                     </div>
@@ -41,10 +46,54 @@
                                             <hr class='red'>
 
                                             <ul id="myList">
-                                                <li>One</li>
-                                                <li>Two</li>
-                                                <li>Three</li>
-                                                <li>Four</li>
+                                                <li>
+                                                    <table class="table">
+                                                        <tr>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias1.jpg" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias2.jpg" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias3.jpg" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </li>
+                                                <li>
+                                                    Two
+                                                </li>
+                                                <li>
+                                                    Three
+                                                </li>
+                                                <li>
+                                                    For
+                                                </li>
                                                 <li>Five</li>
                                                 <li>Six</li>
                                                 <li>Seven</li>
