@@ -33,7 +33,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
+					                    <li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
+										<li class='active'><a href='/WebColomosGob/templates/cad/talleresCad.php'>Talleres CAD</a></li>
 					                </ol>
 					            </div>
 								<div class='row'>
@@ -81,57 +82,57 @@
 				
 				<div class='list-group gallery'>
                                            <div class='col-md-6'>
-                                          <a class=" img img-responsive thumbnail"  href="" >
+                                          <a class=" img img-responsive thumbnail"  href="acroyoga.php" >
 											<img class="img-responsive" alt="" src="../../imagenes/cad/acroyoga/acroyoga1.JPG" />
 											</a><center> <h5>Acroyoga</h5> </center>
 										    </div> 
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail"  href="">
+											<a class="img img-responsive thumbnail"  href="futbol.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/futbol/futbol1.jpg" />
 											</a><center> <h5> Fútbol  </h5></center>
 											</div> 
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="baloncesto.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/baloncesto/baloncesto1.jpg" />
 											</a><center> <h5>Baloncesto <h5><center> 
 											</div> 
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="voleibol.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/voleibol/voleibol1.jpg" />
 											</a><center> <h5>Voleibol <h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="danzaAerea.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/danzaAerea/danzaAerea1.jpg" />
-											</a><center> <h5>Danza Aérea  <h5><center> 
+											</a><center> <h5>Danza Aérea <h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="canto.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/canto/canto1.jpg" />
 											</a><center> <h5>Canto y Percusiones<h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="guitarra.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/guitarra/guitarra1.jpg" />
 											</a><center> <h5>Taller de Guitarra <h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="defensa.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/defensa/defensa1.jpg" />
 											</a><center> <h5>Defensa Personal<h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="balonmano.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/balonmano/balonmano1.jpg" />
 											</a><center> <h5>Balonmano<h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="acondicionamiento.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/acondicionamiento/acondicionamiento1.jpg" />
 											</a><center> <h5>Acondicionamiento fisíco <h5><center> 
 											</div>
 											<div class='col-md-6'>
-											<a class="img img-responsive thumbnail" href="">
+											<a class="img img-responsive thumbnail" href="radio.php">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/radio/radio1.jpg" />
 											</a><center> <h5>Taller de Radio<h5><center> 
 											</div>
