@@ -36,7 +36,7 @@
                                     </ol>
                                 </div>
                                 <div class='row'><div class='col-sm-7 pull-left'>
-                                        <h2 class='bottom-buffer'>Becas Nivel Tecnólogo e Ingeniería</h2>
+                                        <h2 class='bottom-buffer'>Noticias Anteriores</h2>
                                     </div>
                                     <div class='col-md-4 col-xs-12 pull-right '>
                                     </div>
@@ -86,13 +86,121 @@
                                                     </table>
                                                 </li>
                                                 <li>
-                                                    Two
+                                                    <table class="table">
+                                                        <tr>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias4.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias5.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias6.jpg" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                 </li>
                                                 <li>
-                                                    Three
+                                                    <table class="table">
+                                                        <tr>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias7.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias8.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias9.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                 </li>
                                                 <li>
-                                                    For
+                                                    <table class="table">
+                                                        <tr>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias10.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias11.png" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                            <td>
+                                                                <div class="gallery">
+                                                                    <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                                                        <img src="imagenes/index/noticias12.jpg" alt="Fjords" width="300" height="200">
+                                                                    </a>
+                                                                    <div class="desc">
+                                                                        <h4>Título de Noticia</h4>
+                                                                        Fecha de publicación de Noticia 
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
                                                 </li>
                                                 <li>Five</li>
                                                 <li>Six</li>
@@ -144,14 +252,14 @@
         <script>
             $(document).ready(function () {
                 size_li = $("#myList li").length;
-                x=3;
+                x=2;
                 $('#myList li:lt('+x+')').show();
                 $('#loadMore').click(function () {
-                    x= (x+5 <= size_li) ? x+5 : size_li;
+                    x= (x+2 <= size_li) ? x+2 : size_li;
                     $('#myList li:lt('+x+')').show();
                 });
                 $('#showLess').click(function () {
-                    x=(x-5<0) ? 3 : x-5;
+                    x=(x-2<0) ? 2 : x-2;
                     $('#myList li').not(':lt('+x+')').hide();
                 });
             });

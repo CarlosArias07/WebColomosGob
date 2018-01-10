@@ -37,7 +37,7 @@
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentac&oacute;n</h2>
+					            		<h2 class='bottom-buffer'>Control Autom&aacute;tico e instrumentaci&oacute;n</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
