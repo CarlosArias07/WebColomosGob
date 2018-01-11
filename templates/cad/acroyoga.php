@@ -85,8 +85,122 @@
 											 es un nivel básico y se avanza en las posturas conforme a las posibilidades de los alumnos. Para su práctica es necesario ropa cómoda y estar descalzo. 
 											</p>
 											
-							
-							<section class="gallery">
+											
+											
+											
+											
+											
+									
+<!--
+<div class="">
+
+<div style="width:100%;overflow:hidden;">
+
+
+<!--
+Thumbnail link for mixer image
+NOTE: data-target is .pop-up-1 for mixer, and .pop-up-2 for lion, these 
+classes must be unique
+
+<div style="float:left" >
+<div class=" col-sm-6 col-md-4"  >
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 1
+<img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" width="150"  class="img-responsive img-rounded center-block "  height="200" alt="acroyoga">
+</a>
+</div>
+
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">2
+<img src="../../imagenes/cad/acroyoga/acroyoga2.JPG" width="150"   class="img-responsive img-rounded " height="200" alt="acroyoga">
+</a>
+</div>
+
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 3
+<img src="../../imagenes/cad/acroyoga/acroyoga3.JPG" width="150"  class="img-responsive img-rounded " height="200" alt="acroyoga">
+</a>
+</div>
+</div>
+<div style="float:left" >
+
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">1
+<img src="../../imagenes/cad/acroyoga/acroyoga4.JPG" width="150"   class="img-responsive img-rounded " style="margin-top:3px" height="200" alt="acroyoga">
+</a>
+</div>
+
+<div class=" col-sm-6 col-md-4" height="50 px">
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 2
+<img src="../../imagenes/cad/acroyoga/acroyoga5.JPG" width="150" class="img-responsive img-rounded " height="200" alt="acroyoga">
+</a>
+</div>
+
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">3
+<img src="../../imagenes/cad/acroyoga/acroyoga6.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+</a>
+</div>
+</div>
+<div style="float:left" >
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">1
+<img src="../../imagenes/cad/acroyoga/acroyoga7.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+</a>
+</div>
+
+<div class=" col-sm-6 col-md-4" >
+<!-- Thumbnail link for lion image ->
+<a href="#" data-toggle="modal" data-target=".pop-up-2">
+<img src="http://i.imgur.com/dtaHtds.jpg" width="180" class="img-responsive img-rounded center-block" alt="">
+</a>
+</div>
+</div>
+	</div>  
+	  
+<!--  Modal content for the mixer image example ->
+  <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-1">Mixer Board</h4>
+        </div>
+        <div class="modal-body">
+        <img src="http://i.imgur.com/YZ7AGyF.jpg" class="img-responsive img-rounded center-block" alt="">
+        </div>
+      </div><!- /.modal-content ->
+    </div><!-/.modal-dialog ->
+  </div><!- /.modal mixer image 
+  Modal content for the lion image example ->
+  <div class="modal fade pop-up-2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-2" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-2">Lion</h4>
+        </div>
+        <div class="modal-body">
+        <img src="http://i.imgur.com/kzGVqbd.jpg" class="img-responsive img-rounded center-block" alt="">
+        </div>
+      </div> /.modal-content 
+    </div> /.modal-dialog 
+  </div></.modal mixer image 
+  
+    
+</div> </.row 
+  /.container 
+									
+											
+				-->							
+											
+											
+											
+											
+											
+											
+						<section class="gallery">
 							<div class="carousel">
     
     <input type="radio" id="image1" name="gallery-control" checked>
@@ -102,7 +216,7 @@
     <div class="wrap">
       
       <figure>
-        <label for="fullscreen">
+        <label for="">
           <img src="https://unsplash.it/1000/700/?random" alt="image1"/>
         </label>
       </figure>
@@ -150,11 +264,16 @@
       <label for="image4" class="thumb" style="background-image: url('https://unsplash.it/700/450/?random')"></label>
     </div>
   </div>
-</section>
+</section>  -->
 							
 							
 							
-							
+			
+
+
+
+
+			
 							
 							
 							
