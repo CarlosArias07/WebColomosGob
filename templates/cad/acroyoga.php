@@ -91,7 +91,7 @@
 											
 											
 									
-<!--
+
 <div class="">
 
 <div style="width:100%;overflow:hidden;">
@@ -100,7 +100,7 @@
 <!--
 Thumbnail link for mixer image
 NOTE: data-target is .pop-up-1 for mixer, and .pop-up-2 for lion, these 
-classes must be unique
+classes must be unique -->
 
 <div style="float:left" >
 <div class=" col-sm-6 col-md-4"  >
@@ -148,18 +148,13 @@ classes must be unique
 </a>
 </div>
 
-<div class=" col-sm-6 col-md-4" >
-<!-- Thumbnail link for lion image ->
-<a href="#" data-toggle="modal" data-target=".pop-up-2">
-<img src="http://i.imgur.com/dtaHtds.jpg" width="180" class="img-responsive img-rounded center-block" alt="">
-</a>
-</div>
+
 </div>
 	</div>  
 	  
-<!--  Modal content for the mixer image example ->
+<!--  Modal content for the mixer image example -->
   <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
+    <div class="modal-dialog modal-lg"> 
       <div class="modal-content">
 
         <div class="modal-header">
@@ -169,10 +164,10 @@ classes must be unique
         <div class="modal-body">
         <img src="http://i.imgur.com/YZ7AGyF.jpg" class="img-responsive img-rounded center-block" alt="">
         </div>
-      </div><!- /.modal-content ->
-    </div><!-/.modal-dialog ->
-  </div><!- /.modal mixer image 
-  Modal content for the lion image example ->
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+  <!--Modal content for the lion image example -->
   <div class="modal fade pop-up-2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-2" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
@@ -193,81 +188,65 @@ classes must be unique
   /.container 
 									
 											
-				-->							
+																
+			<!--							
 											
-											
-											
-											
-											
-											
-						<section class="gallery">
-							<div class="carousel">
+		<div class="col-md-12 ">		
+<section class="gallery">
+
+  <div class="carousel">
     
     <input type="radio" id="image1" name="gallery-control" checked>
     <input type="radio" id="image2" name="gallery-control">
     <input type="radio" id="image3" name="gallery-control">
     <input type="radio" id="image4" name="gallery-control">
-	<input type="radio" id="image5" name="gallery-control">
-	<input type="radio" id="image6" name="gallery-control">
     
     
     <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control"/>
-    
-    <div class="wrap">
-      
-      <figure>
-        <label for="">
-          <img src="https://unsplash.it/1000/700/?random" alt="image1"/>
-        </label>
-      </figure>
-      
-      <figure>
-        <label for="fullscreen">
-          <img src="https://unsplash.it/1200/980/?random" alt="image2"/>
-        </label>
-      </figure>
+	<div class="wrap">	
+		
+		  
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga7.JPG" alt="image1"/>
+			</label>
+		  </figure>
+		  
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga6.JPG" alt="image2"/>
+			</label>
+		  </figure>
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga1.JPG"alt="image3" />		 
+			</label>
+		  </figure>
 
-      <figure>
-        <label for="fullscreen">
-          <img src="https://unsplash.it/1600/880/?random" alt="image3" />
-        </label>
-      </figure>
-
-      <figure>
-        <label for="fullscreen">
-          <img src="https://unsplash.it/2000/1400/?random" alt="image4"/>
-        </label>
-      </figure>
-	  <figure>
-        <label for="fullscreen">
-          <img src="https://unsplash.it/2000/1400/?random" alt="image5"/>
-        </label>
-      </figure>
-	  <figure>
-        <label for="fullscreen">
-          <img src="https://unsplash.it/2000/1400/?random" alt="image6"/>
-        </label>
-      </figure>
-	 
-    </div>
-    
+		  <figure>
+			<label for="fullscreen">
+			  <img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" alt="image4"/>
+			</label>
+		  </figure>
+		
+	</div>
     <div class="thumbnails">
       
       <div class="slider"><div class="indicator"></div></div>
       
-      <label for="image1" class="thumb" style="background-image: url('https://unsplash.it/700/480/?random')"></label>
+      <label for="image1" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga7.JPG')"></label>
       
-      <label for="image2" class="thumb" style="background-image: url('https://unsplash.it/700/400/?random')"></label>
+      <label for="image2" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga6.JPG')"></label>
       
-      <label for="image3" class="thumb" style="background-image: url('https://unsplash.it/700/410/?random')"></label>
+      <label for="image3" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga1.JPG')"></label>
         
       <label for="image4" class="thumb" style="background-image: url('https://unsplash.it/700/450/?random')"></label>
     </div>
   </div>
-</section>  -->
-							
-							
-							
+  
+</section>			
+					</div>		
+			-->				
 			
 
 
