@@ -34,17 +34,17 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 										<li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
-					                    <li><a href='/WebColomosGob/templates/cad/talleresCad.php'>Talleres y Galería</a></li>	
-										<li class='active'><a href='/WebColomosGob/templates/cad/futbol.php'>Fútbol</a></li>
+					                    <li><a href="/WebColomosGob/templates/cad/talleresCad.php" >Talleres y Galería</a></li>	
+										<li class='active'><a href='/WebColomosGob/templates/cad/acroyoga.php'>Acroyoga</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Fútbol</h2>
+					            		<h2 class='bottom-buffer'>Acroyoga</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/cad/futbol/futbol1.jpg" alt="futbol">
+					            		<img class='img img-responsive' src="../../imagenes/cad/acroyoga/acroyoga1.jpg" alt="CAD">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
@@ -78,161 +78,186 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class='contenido'>
-											El futbol es un deporte en el cual se trabajan las habilidades y destrezas motrices en la manipulación de un balón,
-											además se trabaja en equipo conjuntando las particularidades de cada miembro de equipo. En el taller podrás conocer
-											y aprender las habilidades y estrategias básicas para el desarrollo del juego. Los requisitos son acudir con la
-											vestimenta adecuada para el desarrollo de las actividades, y los días en que se trabaja son los martes y jueves de las 15:00 a las 17:00 hrs. 
-                                             </p>
+                                             Acroyoga es una disciplina para el desarrollo físico y concentración mental, que fusiona las características de meditación y
+											 relajación del yoga con muchas posturas acrobáticas de bajo impacto, e incluye técnicas de masaje tailandés. Una de las causas
+											 que ha hecho muy popular ésta disciplina en el mundo es la facilidad de su práctica, pues permite que en poco tiempo un practicante
+											 disfrute de posturas acrobáticas exuberantes y divertidas sin años de entrenamiento agotador. El taller que se imparte en el CETI 
+											 es un nivel básico y se avanza en las posturas conforme a las posibilidades de los alumnos. Para su práctica es necesario ropa cómoda y estar descalzo. 
+											</p>
 											
-							
-							
+											
+											
+											
+											
+											
+									
+
 <div class="">
+
 <div style="width:100%;overflow:hidden;">
+
+
 <!--
 Thumbnail link for mixer image
 NOTE: data-target is .pop-up-1 for mixer, and .pop-up-2 for lion, these 
 classes must be unique -->
 
-<div  >
-<div class="col-xs-6 col-md-4">
-<a href="#" data-toggle="modal" data-target=".pop-up-1"> 
-<img src="../../imagenes/cad/futbol/futbol8.JPG" width="150"  class="img-responsive img-rounded center-block" style="margin-top:3px"  height="200" alt="futbol">
+<div style="float:left" >
+<div class=" col-sm-6 col-md-4"  >
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 1
+<img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" width="150"  class="img-responsive img-rounded center-block "  height="200" alt="acroyoga">
 </a>
 </div>
 
-<div class="col-xs-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-2">
-<img src="../../imagenes/cad/futbol/futbol3.JPG" width="150"   class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="futbol">
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">2
+<img src="../../imagenes/cad/acroyoga/acroyoga2.JPG" width="150"   class="img-responsive img-rounded " height="200" alt="acroyoga">
 </a>
 </div>
 
-<div class="col-xs-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-3"> 
-<img src="../../imagenes/cad/futbol/futbol4.JPG" width="150"  class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="futbol">
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 3
+<img src="../../imagenes/cad/acroyoga/acroyoga3.JPG" width="150"  class="img-responsive img-rounded " height="200" alt="acroyoga">
 </a>
 </div>
 </div>
-<div  >
+<div style="float:left" >
 
-<div class="col-xs-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-4">
-<img src="../../imagenes/cad/futbol/futbol5.JPG" width="150"   class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="futbol">
-</a>
-</div>
-
-<div class="col-xs-6 col-md-4">
-<a href="#" data-toggle="modal" data-target=".pop-up-5">
-<img src="../../imagenes/cad/futbol/futbol6.JPG" width="150" class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="futbol">
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">1
+<img src="../../imagenes/cad/acroyoga/acroyoga4.JPG" width="150"   class="img-responsive img-rounded " style="margin-top:3px" height="200" alt="acroyoga">
 </a>
 </div>
 
-<div class="col-xs-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-6">
-<img src="../../imagenes/cad/futbol/futbol9.JPG" width="150"  class="img-responsive img-rounded center-block" style="margin-top:3px" height="200" alt="futbol">
+<div class=" col-sm-6 col-md-4" height="50 px">
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 2
+<img src="../../imagenes/cad/acroyoga/acroyoga5.JPG" width="150" class="img-responsive img-rounded " height="200" alt="acroyoga">
 </a>
 </div>
+
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">3
+<img src="../../imagenes/cad/acroyoga/acroyoga6.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+</a>
+</div>
+</div>
+<div style="float:left" >
+<div class=" col-sm-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-1">1
+<img src="../../imagenes/cad/acroyoga/acroyoga7.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+</a>
+</div>
+
+
 </div>
 	</div>  
 	  
-<!--  Modal content  image example -->
+<!--  Modal content for the mixer image example -->
   <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
     <div class="modal-dialog modal-lg"> 
       <div class="modal-content">
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-1">Fútbol</h4>
+          <h4 class="modal-title" id="myLargeModalLabel-1">Mixer Board</h4>
         </div>
         <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol8.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
+        <img src="http://i.imgur.com/YZ7AGyF.jpg" class="img-responsive img-rounded center-block" alt="">
         </div>
       </div><!-- /.modal-content -->
     </div><!--/.modal-dialog -->
   </div><!-- /.modal mixer image -->
-  <!--Modal content  image example -->
+  <!--Modal content for the lion image example -->
   <div class="modal fade pop-up-2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-2" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-2">Fútbol</h4>
+          <h4 class="modal-title" id="myLargeModalLabel-2">Lion</h4>
         </div>
         <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol3.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
+        <img src="http://i.imgur.com/kzGVqbd.jpg" class="img-responsive img-rounded center-block" alt="">
         </div>
-      </div> <!--/.modal-content -->
-    </div> <!--/.modal-dialog -->
-  </div><!--/.modal mixer image -->
+      </div> /.modal-content 
+    </div> /.modal-dialog 
+  </div></.modal mixer image 
   
-    <!-- imagen 3-->
-	<div class="modal fade pop-up-3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-3" aria-hidden="true">
-    <div class="modal-dialog modal-lg"> 
-      <div class="modal-content">
+    
+</div> </.row 
+  /.container 
+									
+											
+																
+			<!--							
+											
+		<div class="col-md-12 ">		
+<section class="gallery">
 
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-3">Fútbol</h4>
-        </div>
-        <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol4.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!--/.modal-dialog -->
-  </div><!-- /.modal mixer image -->
-	
-	
-	 <!-- imagen 4-->
-	<div class="modal fade pop-up-4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-4" aria-hidden="true">
-    <div class="modal-dialog modal-lg"> 
-      <div class="modal-content">
+  <div class="carousel">
+    
+    <input type="radio" id="image1" name="gallery-control" checked>
+    <input type="radio" id="image2" name="gallery-control">
+    <input type="radio" id="image3" name="gallery-control">
+    <input type="radio" id="image4" name="gallery-control">
+    
+    
+    <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control"/>
+	<div class="wrap">	
+		
+		  
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga7.JPG" alt="image1"/>
+			</label>
+		  </figure>
+		  
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga6.JPG" alt="image2"/>
+			</label>
+		  </figure>
+		  <figure>
+			<label for="fullscreen">
+			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga1.JPG"alt="image3" />		 
+			</label>
+		  </figure>
 
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-4">Fútbol</h4>
-        </div>
-        <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol5.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!--/.modal-dialog -->
-  </div><!-- /.modal mixer image -->
-	
-	 <!-- imagen 5-->
-	<div class="modal fade pop-up-5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-5" aria-hidden="true">
-    <div class="modal-dialog modal-lg"> 
-      <div class="modal-content">
+		  <figure>
+			<label for="fullscreen">
+			  <img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" alt="image4"/>
+			</label>
+		  </figure>
+		
+	</div>
+    <div class="thumbnails">
+      
+      <div class="slider"><div class="indicator"></div></div>
+      
+      <label for="image1" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga7.JPG')"></label>
+      
+      <label for="image2" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga6.JPG')"></label>
+      
+      <label for="image3" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga1.JPG')"></label>
+        
+      <label for="image4" class="thumb" style="background-image: url('https://unsplash.it/700/450/?random')"></label>
+    </div>
+  </div>
+  
+</section>			
+					</div>		
+			-->				
+			
 
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-5">Fútbol</h4>
-        </div>
-        <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol6.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!--/.modal-dialog -->
-  </div><!-- /.modal mixer image -->
-	
-	
-	 <!-- imagen 6-->
-	<div class="modal fade pop-up-6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-6" aria-hidden="true">
-    <div class="modal-dialog modal-lg"> 
-      <div class="modal-content">
 
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-6">Fútbol</h4>
-        </div>
-        <div class="modal-body">
-        <img src="../../imagenes/cad/futbol/futbol9.JPG" width="500" class="img-responsive img-rounded center-block" alt="Fútbol">
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!--/.modal-dialog -->
-  </div><!-- /.modal mixer image -->
-</div> 
+
+
+			
 							
-						
+							
+							
+							
+							
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -244,7 +269,7 @@ classes must be unique -->
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 20:03:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 18:09:10</p>
 								    	</div>
 								    </div>
 		    					</div>

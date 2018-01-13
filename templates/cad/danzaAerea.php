@@ -44,7 +44,7 @@
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/cad/danzaAerea/danzaAerea1.jpg" alt="danzaAerea">
+					            		<img class='img img-responsive' src="../../imagenes/cad/danzaAerea/danzaAerea1.jpg"  alt="danzaAerea">
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
@@ -95,6 +95,69 @@
 											</p>
 								
 							
+							            
+<div class="">
+<div style="width:100%;overflow:hidden;">
+
+<!--
+Thumbnail link for mixer image
+NOTE: data-target is .pop-up-1 for mixer, and .pop-up-2 for lion, these 
+classes must be unique -->
+
+<div style="float:left" >
+<div class="col-xs-6 col-md-4">
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 
+<img src="../../imagenes/cad/danzaAerea/danzaAerea1.JPG" width="180"  class="img-responsive img-rounded center-block" style="margin-top:3px"  height="200" alt="Danza Aérea">
+</a>
+</div>
+
+<div class="col-xs-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-2">
+<img src="../../imagenes/cad/danzaAerea/danzaAerea2.JPG" width="180"   class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="Danza Aérea">
+</a>
+</div>
+
+	</div>  
+	  
+<!--  Modal content  image example -->
+  <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
+    <div class="modal-dialog modal-lg"> 
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-1">Danza Aérea</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/danzaAerea/danzaAerea1.JPG" width="450" class="img-responsive img-rounded center-block" alt="Danza Aérea">
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+  <!--Modal content  image example -->
+  <div class="modal fade pop-up-2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-2" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-2">Danza Aérea</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/danzaAerea/danzaAerea2.JPG" width="450" class="img-responsive img-rounded center-block" alt="Danza Aérea">
+        </div>
+      </div> <!--/.modal-content -->
+    </div> <!--/.modal-dialog -->
+  </div><!--/.modal mixer image -->
+
+</div> 
+							     
+							
+							
+							
+							
+							
+							
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -106,7 +169,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 20:13:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 20:32:10</p>
 								    	</div>
 								    </div>
 		    					</div>

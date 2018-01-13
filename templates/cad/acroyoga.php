@@ -87,15 +87,10 @@
 											
 											
 											
-											
-											
-											
-									
+						
 
 <div class="">
-
 <div style="width:100%;overflow:hidden;">
-
 
 <!--
 Thumbnail link for mixer image
@@ -103,160 +98,146 @@ NOTE: data-target is .pop-up-1 for mixer, and .pop-up-2 for lion, these
 classes must be unique -->
 
 <div style="float:left" >
-<div class=" col-sm-6 col-md-4"  >
-<a href="#" data-toggle="modal" data-target=".pop-up-1"> 1
-<img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" width="150"  class="img-responsive img-rounded center-block "  height="200" alt="acroyoga">
+<div class="col-xs-6 col-md-4">
+<a href="#" data-toggle="modal" data-target=".pop-up-1"> 
+<img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" width="180"  class="img-responsive img-rounded center-block" style="margin-top:3px"  height="200" alt="acroyoga">
 </a>
 </div>
 
-<div class=" col-sm-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-1">2
-<img src="../../imagenes/cad/acroyoga/acroyoga2.JPG" width="150"   class="img-responsive img-rounded " height="200" alt="acroyoga">
+<div class="col-xs-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-2">
+<img src="../../imagenes/cad/acroyoga/acroyoga2.JPG" width="180"   class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="acroyoga">
 </a>
 </div>
 
-<div class=" col-sm-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-1"> 3
-<img src="../../imagenes/cad/acroyoga/acroyoga3.JPG" width="150"  class="img-responsive img-rounded " height="200" alt="acroyoga">
-</a>
-</div>
-</div>
-<div style="float:left" >
-
-<div class=" col-sm-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-1">1
-<img src="../../imagenes/cad/acroyoga/acroyoga4.JPG" width="150"   class="img-responsive img-rounded " style="margin-top:3px" height="200" alt="acroyoga">
-</a>
-</div>
-
-<div class=" col-sm-6 col-md-4" height="50 px">
-<a href="#" data-toggle="modal" data-target=".pop-up-1"> 2
-<img src="../../imagenes/cad/acroyoga/acroyoga5.JPG" width="150" class="img-responsive img-rounded " height="200" alt="acroyoga">
-</a>
-</div>
-
-<div class=" col-sm-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-1">3
-<img src="../../imagenes/cad/acroyoga/acroyoga6.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+<div class="col-xs-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-3"> 
+<img src="../../imagenes/cad/acroyoga/acroyoga3.JPG" width="180"  class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="acroyoga">
 </a>
 </div>
 </div>
 <div style="float:left" >
-<div class=" col-sm-6 col-md-4" >
-<a href="#" data-toggle="modal" data-target=".pop-up-1">1
-<img src="../../imagenes/cad/acroyoga/acroyoga7.JPG" width="150"  class="img-responsive img-rounded center-block" height="200" alt="acroyoga">
+
+<div class="col-xs-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-4">
+<img src="../../imagenes/cad/acroyoga/acroyoga6.JPG" width="180"   class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="acroyoga">
 </a>
 </div>
 
-
+<div class="col-xs-6 col-md-4">
+<a href="#" data-toggle="modal" data-target=".pop-up-5">
+<img src="../../imagenes/cad/acroyoga/acroyoga5.JPG" width="180" class="img-responsive img-rounded center-block " style="margin-top:3px" height="200" alt="acroyoga">
+</a>
 </div>
+
+<div class="col-xs-6 col-md-4" >
+<a href="#" data-toggle="modal" data-target=".pop-up-6">
+<img src="../../imagenes/cad/acroyoga/acroyoga4.JPG" width="180"  class="img-responsive img-rounded center-block" style="margin-top:3px" height="200" alt="acroyoga">
+</a>
+</div>
+</div>
+
 	</div>  
 	  
-<!--  Modal content for the mixer image example -->
+<!--  Modal content  image example -->
   <div class="modal fade pop-up-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-1" aria-hidden="true">
     <div class="modal-dialog modal-lg"> 
       <div class="modal-content">
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-1">Mixer Board</h4>
+          <h4 class="modal-title" id="myLargeModalLabel-1">Acroyoga</h4>
         </div>
         <div class="modal-body">
-        <img src="http://i.imgur.com/YZ7AGyF.jpg" class="img-responsive img-rounded center-block" alt="">
+        <img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" width="450" class="img-responsive img-rounded center-block" alt="">
         </div>
       </div><!-- /.modal-content -->
     </div><!--/.modal-dialog -->
   </div><!-- /.modal mixer image -->
-  <!--Modal content for the lion image example -->
+  <!--Modal content  image example -->
   <div class="modal fade pop-up-2" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-2" aria-hidden="true">
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
 
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-          <h4 class="modal-title" id="myLargeModalLabel-2">Lion</h4>
+          <h4 class="modal-title" id="myLargeModalLabel-2">Acroyoga</h4>
         </div>
         <div class="modal-body">
-        <img src="http://i.imgur.com/kzGVqbd.jpg" class="img-responsive img-rounded center-block" alt="">
+        <img src="../../imagenes/cad/acroyoga/acroyoga2.JPG" width="450" class="img-responsive img-rounded center-block" alt="Acroyoga">
         </div>
-      </div> /.modal-content 
-    </div> /.modal-dialog 
-  </div></.modal mixer image 
+      </div> <!--/.modal-content -->
+    </div> <!--/.modal-dialog -->
+  </div><!--/.modal mixer image -->
   
-    
-</div> </.row 
-  /.container 
-									
+    <!-- imagen 3-->
+	<div class="modal fade pop-up-3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-3" aria-hidden="true">
+    <div class="modal-dialog modal-lg"> 
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-3">Acroyoga</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/acroyoga/acroyoga3.JPG" width="450" class="img-responsive img-rounded center-block" alt="Acroyoga">
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+	
+	
+	 <!-- imagen 4-->
+	<div class="modal fade pop-up-4" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-4" aria-hidden="true">
+    <div class="modal-dialog modal-lg"> 
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-4">Acroyoga</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/acroyoga/acroyoga7.JPG" width="450" class="img-responsive img-rounded center-block" alt="Acroyoga">
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+	
+	 <!-- imagen 5-->
+	<div class="modal fade pop-up-5" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-5" aria-hidden="true">
+    <div class="modal-dialog modal-lg"> 
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-5">Acroyoga</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/acroyoga/acroyoga5.JPG" width="450" class="img-responsive img-rounded center-block" alt="Acroyoga">
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+	
+	
+	 <!-- imagen 6-->
+	<div class="modal fade pop-up-6" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel-6" aria-hidden="true">
+    <div class="modal-dialog modal-lg"> 
+      <div class="modal-content">
+
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <h4 class="modal-title" id="myLargeModalLabel-6">Acroyoga</h4>
+        </div>
+        <div class="modal-body">
+        <img src="../../imagenes/cad/acroyoga/acroyoga6.JPG" width="450" class="img-responsive img-rounded center-block" alt="Acroyoga">
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!--/.modal-dialog -->
+  </div><!-- /.modal mixer image -->
+</div> 
 											
-																
-			<!--							
-											
-		<div class="col-md-12 ">		
-<section class="gallery">
 
-  <div class="carousel">
-    
-    <input type="radio" id="image1" name="gallery-control" checked>
-    <input type="radio" id="image2" name="gallery-control">
-    <input type="radio" id="image3" name="gallery-control">
-    <input type="radio" id="image4" name="gallery-control">
-    
-    
-    <input type="checkbox" id="fullscreen" name="gallery-fullscreen-control"/>
-	<div class="wrap">	
-		
-		  
-		  <figure>
-			<label for="fullscreen">
-			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga7.JPG" alt="image1"/>
-			</label>
-		  </figure>
-		  
-		  <figure>
-			<label for="fullscreen">
-			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga6.JPG" alt="image2"/>
-			</label>
-		  </figure>
-		  <figure>
-			<label for="fullscreen">
-			  <img class="img img-responsive" src="../../imagenes/cad/acroyoga/acroyoga1.JPG"alt="image3" />		 
-			</label>
-		  </figure>
-
-		  <figure>
-			<label for="fullscreen">
-			  <img src="../../imagenes/cad/acroyoga/acroyoga1.JPG" alt="image4"/>
-			</label>
-		  </figure>
-		
-	</div>
-    <div class="thumbnails">
-      
-      <div class="slider"><div class="indicator"></div></div>
-      
-      <label for="image1" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga7.JPG')"></label>
-      
-      <label for="image2" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga6.JPG')"></label>
-      
-      <label for="image3" class="thumb" style="background-image: url('../../imagenes/cad/acroyoga/acroyoga1.JPG')"></label>
-        
-      <label for="image4" class="thumb" style="background-image: url('https://unsplash.it/700/450/?random')"></label>
-    </div>
-  </div>
-  
-</section>			
-					</div>		
-			-->				
-			
-
-
-
-
-			
-							
-							
-							
-							
 							
 								    	</div>
 								    </div>
@@ -269,7 +250,7 @@ classes must be unique -->
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 18:09:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-01-12 19:32:10</p>
 								    	</div>
 								    </div>
 		    					</div>
