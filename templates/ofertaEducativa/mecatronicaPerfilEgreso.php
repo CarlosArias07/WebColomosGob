@@ -21,7 +21,7 @@
 	<body>
 		<!-- MENU PRINCIPAL -->
         <?php include_once('../../menu.html'); ?>
-
+		
         <!-- CONTENIDO A PARTIR DE AQUI -->
         <main class="principal">
         

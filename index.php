@@ -15,7 +15,7 @@
 
 	<body>
         <!-- CONTENIDO A PARTIR DE AQUI -->
-        <?php include_once('menu.html'); ?>
+        <?php include_once('menu2.php'); ?>
 
         <!-- CARRUSEL -->
         <section class="slider_articles">
@@ -25,7 +25,7 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="imagenes/noticias/4.jpg" alt="Chania">
+                        <img src="imagenes/noticias/anticorrupcionCETI-29-01-18.png" alt="Chania">
                         <div class="carousel-caption">
                             <h3>Título de Noticia</h3>
                             <p>Texto breve descriptivo de Noticia</p>
@@ -76,7 +76,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="/WebColomosGob/index.php">
-                    <img src="imagenes/index/logo_ceti.png" class="img img-responsive">
+                    <!--<img src="imagenes/index/logo_ceti.png" class="img img-responsive"> -->
                     </a>
                 </div>
                 <div class="collapse navbar-collapse" id="subenlaces">

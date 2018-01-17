@@ -3,9 +3,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
-        <!-- dos carpetas  -->
-		<!--  ESTILOS  -->
-		
+        <!--  ESTILOS  -->
+		<!-- Principal -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/dropdown.css">
     </head>
@@ -15,18 +14,18 @@
             <div class="container">
                 <div class="collapse navbar-collapse" id="subenlaces">
                     <ul class="nav subnav navbar-nav navbar-center">
-					  <li> <img src="../../imagenes/index/logo_ceti.png" class="img img-responsive" width="50"> 
+					  <li> <img src="imagenes/index/logo_ceti.png" class="img img-responsive" width="50"> 
 					  </li>
                         <li>
                             <div class="dropdown">
                             <button class="dropbtn">Conoce el CETI</button>
                             <div class="dropdown-content">
-                            <a href="../../templates/conoceCeti/nuestroPlantel.php">Historia</a>
-                            <a href="/WebColomosGob/templates/conoceCeti/misionVision.php">Misión y Visión</a>
-                            <a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a>
-                            <a href="/WebColomosGob/templates/conoceCeti/planoPlantel.php">Plano del Plantel</a>
-                            <a href="/WebColomosGob/templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a>
-                            <a href="/WebColomosGob/templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a>
+                            <a href="templates/conoceCeti/nuestroPlantel.php">Historia</a>
+                            <a href="templates/conoceCeti/misionVision.php">Misión y Visión</a>
+                            <a href="templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a>
+                            <a href="templates/conoceCeti/planoPlantel.php">Plano del Plantel</a>
+                            <a href="templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a>
+                            <a href="templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a>
                             <!--<a href="/WebColomosGob/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a>-->
 							<a href="/WebColomosGob/templates/conoceCeti/anuies.php">Anuies</a>
                             </div>
