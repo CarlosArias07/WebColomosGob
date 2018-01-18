@@ -27,8 +27,8 @@
                     <div class="item active">
                         <img src="imagenes/noticias/anticorrupcionCETI-29-01-18.png" alt="Chania">
                         <div class="carousel-caption">
-                            <h3>Título de Noticia</h3>
-                            <p>Texto breve descriptivo de Noticia</p>
+                            <h3>Código de Conducta</h3>
+                            <p>Anticorrupción</p>
                         </div>
                     </div>
                     <div class="item">
@@ -97,8 +97,8 @@
         <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <ol class="breadcrumb">
-                    <li><a href="#"><i class="icon icon-home"></i></a></li>
-                    <li class="active"><a href="index.html">Inicio</a></li>
+                    <li><a href="index.php"><i class="icon icon-home"></i></a></li>
+                    <li class="active"><a href="/index.php">Inicio</a></li>
                 </ol>
             </div>
             <hr>
@@ -108,37 +108,38 @@
         <!-- NOTICIAS RECIENTES -->
         <div class="container">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                    <a href="/WebColomosGob/templates/aspirantes/cursoPropedeutico.php"><img class=".img-responsive" src="imagenes/index/alumnos.jpg" alt="alumnos" width="265" height="200"></a>
-                    <a href="/WebColomosGob/templates/aspirantes/cursoPropedeutico.php"><img class=".img-responsive" src="imagenes/index/alumnos2.jpg" alt="alumnos" width="265" height="200"></a>
-                    <a href="/WebColomosGob/templates/aspirantes/cursoPropedeutico.php"><img class=".img-responsive" src="imagenes/index/alumnos3.jpg" alt="alumnos" width="265" height="200"></a>
-                    <a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php"><img class=".img-responsive" src="imagenes/index/calendario.jpg" alt="alumnos" width="265" height="200"></a>
+			        <a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php"><img class=".img-responsive" src="imagenes/index/calendarioEscolar.jpg" alt="alumnos" width="265" height="200"></a>
+                    <a href="/WebColomosGob/templates/aspirantes/cursoPropedeutico.php"><img class=".img-responsive" src="imagenes/index/cursoPropedeutico.jpg" alt="alumnos" width="265" height="200"></a>
+                    <a href="/WebColomosGob/templates/alumnos/becas2.php"><img class=".img-responsive" src="imagenes/index/becas.jpg" alt="alumnos" width="265" height="200"></a>
+                    <a href="/WebColomosGob/templates/cad/cad.php"><img class=".img-responsive" src="imagenes/index/cad.jpg" alt="alumnos" width="265" height="200"></a>
+                   
 					 
 					<div class="col-md-12 col-sm-12 col-xs-12">                                              
                         <h3 class="top-buffer">Noticias recientes</h3>
                         <hr class="red"></hr>
                             <div class="gallery">
-                                <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                    <img src="imagenes/index/noticias1.jpg" alt="Fjords" width="300" height="200">
+                                <a target="_blank" href="imagenes/noticias/propedeutico01-01-18.jpg">
+                                    <img src="imagenes/noticias/propedeutico01-01-18.jpg" alt="prope" width="300" height="200">
                                 </a>
                                 <div class="desc">
-                                    <h4>Título de Noticia</h4>
-                                    Fecha de publicación de Noticia 
+                                    <h4>Curso Propedéutico</h4>
+                                         10 de enero 2018 
                                 </div>
                             </div>
 
                             <div class="gallery">
                                 <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                    <img src="imagenes/index/noticias2.jpg" alt="Fjords" width="300" height="200">
+                                    <img src="imagenes/noticias/revistaConexion_11_01-01-18.jpg" alt="revista" width="300" height="200">
                                 </a>
                                 <div class="desc">
-                                    <h4>Título de Noticia</h4>
+                                    <h4>Revista Conexión</h4>
                                     Fecha de publicación de Noticia
                                 </div>
                             </div>
 
                             <div class="gallery">
                                 <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                    <img src="imagenes/index/noticias3.jpg" alt="Fjords" width="300" height="200">
+                                    <img src="imagenes/noticias/areaLactancia01-01-18.jpg" alt="area" width="300" height="200">
                                 </a>
                                 <div class="desc">
                                     <h4>Título de Noticia</h4>
