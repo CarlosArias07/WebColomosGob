@@ -11,6 +11,7 @@
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/carousel2.css">
         <link rel="stylesheet" type="text/css" href="css/imagegallery.css">
+		<link rel="stylesheet" type="text/css" href="css/notas.css">
 	</head>
 
 	<body>
@@ -98,7 +99,7 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <ol class="breadcrumb">
                     <li><a href="index.php"><i class="icon icon-home"></i></a></li>
-                    <li class="active"><a href="/index.php">Inicio</a></li>
+                    <li class="active"><a href="index.php">Inicio</a></li>
                 </ol>
             </div>
             <hr>
@@ -157,7 +158,7 @@
         <!-- SITIOS Y NOTAS DE INTERES -->
         <section class="structure dependency bottom-buffer clearfix list-article slider_articles" >
             <div class="container" >
-                <div class="col-md-12 col-sm-12 col-xs-12 notas">
+                <div class="col-md-12 col-sm-4 col-xs-12 notas">
                         <h3 class="top-buffer ">Sitios y notas de interés</h3>
                         <hr class="red"></hr>
                 </div>
@@ -262,7 +263,7 @@
                     </div>
                     <!-- Control box -->
                     <div class="control-box">
-                        <a data-slide="prev" href="#notas" >‹</a>
+                        <a data-slide="prev" href="#notas" class="carousel-control left" >‹</a>
                         <a data-slide="next" href="#notas" class="carousel-control right">›</a>
                     </div><!-- /.control-box -->
                     <!-- /#myCarousel -->
