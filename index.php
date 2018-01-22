@@ -26,18 +26,22 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="imagenes/noticias/anticorrupcionCETI-29-01-18.png" alt="Chania">
+					    <a href="templates/noticias/anticorrupcionCETI-29-01-18.php">
+                        <img src="imagenes/noticias/anticorrupcionCETI-29-01-18.png" alt="Codigo Conducta"> 
                         <div class="carousel-caption">
                             <h3>Código de Conducta</h3>
                             <p>Anticorrupción</p>
                         </div>
+						</a>
                     </div>
                     <div class="item">
-                        <img src="imagenes/noticias/6.jpg" alt="Chania">
+					    <a href="https://www.inadem.gob.mx/" target="_blank">
+                        <img src="imagenes/noticias/premioNacionaldelEmprendedor-18-01-18.jpg" alt="Premio Nacional">
                         <div class="carousel-caption">
-                            <h3>Título de Noticia</h3>
-                            <p>Texto breve descriptivo de Noticia</p>
+                            <h3>Premio Nacional del Emprendedor</h3>
+                            <p>2017</p>
                         </div>
+						</a>
                     </div>
                     <div class="item">
                         <img src="imagenes/noticias/5.jpg" alt="Flower">
@@ -118,8 +122,19 @@
 					<div class="col-md-12 col-sm-12 col-xs-12">                                              
                         <h3 class="top-buffer">Noticias recientes</h3>
                         <hr class="red"></hr>
+						
+						    <div class="gallery">
+                                <a target="" href="templates/noticias/convocatoriaComiteDiCurricular-18-01-18.php">
+                                    <img src="imagenes/noticias/convocatoriaComiteDiCurricular-18-01-18.jpg" alt="area" width="300" height="200">
+                                </a>
+                                <div class="desc">
+                                    <h4>Convocatoria para integrar..</h4>
+                                    18 de enero de 2018
+                                </div>
+                            </div>
+						
                             <div class="gallery">
-                                <a target="_blank" href="imagenes/noticias/propedeutico01-01-18.jpg">
+                                <a target="" href="templates/aspirantes/cursoPropedeutico.php">
                                     <img src="imagenes/noticias/propedeutico01-01-18.jpg" alt="prope" width="300" height="200">
                                 </a>
                                 <div class="desc">
@@ -129,24 +144,16 @@
                             </div>
 
                             <div class="gallery">
-                                <a target="_blank" href="imagenes/index/alumnos.jpg">
+                                <a target="" href="templates/cad/revistaConexion.php">
                                     <img src="imagenes/noticias/revistaConexion_11_01-01-18.jpg" alt="revista" width="300" height="200">
                                 </a>
                                 <div class="desc">
                                     <h4>Revista Conexión</h4>
-                                    Fecha de publicación de Noticia
+                                    8 de diciembre de 2018
                                 </div>
                             </div>
 
-                            <div class="gallery">
-                                <a target="_blank" href="imagenes/index/alumnos.jpg">
-                                    <img src="imagenes/noticias/areaLactancia01-01-18.jpg" alt="area" width="300" height="200">
-                                </a>
-                                <div class="desc">
-                                    <h4>Título de Noticia</h4>
-                                    Fecha de publicación de Noticia
-                                </div>
-                            </div>
+                            
                     </div>
                     <div class="col-md-12 clearfix top-buffer">
                         <a class="pull-right" href="noticias.php">ver historial</a>

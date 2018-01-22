@@ -73,33 +73,46 @@
                                          	</ul>
 
                                              <h4>Calendario de Inscripciones</h4>
-                                             <p>Cursos Propedéutico Febrero-Junio 2017</p>
-                                             <p>Inscripción: 09 de Enero al 03 de Febrero de 2017</p>
-                                             <p>Inicio de curso: 11 de Febrero</p>
-                                             <p>Fin de curso: 17 de Junio</p>
-                                             <p>Costo: $ 1,145.00</p>
-                                             <p>Sábados de clases de 8:00 a 13:00 hrs.</p>
+                                             <p>Cursos Propedéutico Febrero-Junio 2018</p>
+                                             <p>Inscripción: 10 de enero al 02 de febrero de 2018</p>
+                                             <p>Inicio de curso: 10 de febrero</p>
+                                             <p>Fin de curso: 16 de junio</p>
+                                             <p>Costo: $ 1,218.00</p>
+                                             <p>Horario: 8:00 a 12:30 hrs.</p>
+											 <p>Materias que se imparten: Matemáticas y Español </p>
 
                                              <h4>Requisitos</h4>
-                                             <p>Solicitud al Curso</p>
-
-                                             <p>Ficha de Pago de Inscripción<p>
-
-                                             <p>2 Fotografías Tamaño Credencial a Blanco y Negro de Foto Estudio (NO INSTANTÁNEAS).</p>
-                                             <ul type = circle>
+											 
+											 <p>Envía un correo a propedeutico@ceti.mx a partir del 10 de Enero de 2018 con los siguientes datos: </p>
+                                                 <ul>
+												    <li type="circle">Nombre completo de la persona que tomara el curso</li>
+													<li type="circle">Número telefónico para contacto</li>
+													<li type="circle">Nivel al que aspiraran: </li>
+													<li>Tecnólogo tiene la secundaria terminada o están en 3er año</li>
+												    <li>Ingeniería tiene el Preparatoria/Bachillerato terminado o están por terminarlo </li>
+												 </ul>
+											 <p>Posteriormente recibirás en el correo la ficha de pago y el formato electrónico de inscripción al curso.</p>
+											 <p>Una vez realizado el pago en el banco, entregar la siguiente documentación en la oficina del curso:</p>
+											      <ul>
+												    <li>Original y copia del comprobante del pago.</li>
+													<li>2 fotografías tamaño infantil blanco y negro de foto estudio.No instantáneas.</li>
+												  </ul>
+											 
+											 <p> <b>No podrás realizar tu trámite después de la fecha límite de pago </b></p>
+                                             
+                                             <!--<ul type = circle>
                                              <li>Requisitos <button class="btn btn-primary pull-right">Consultar</button></li>
                                          	</ul>
                                          	<ul type = circle>
                                              <li>Solicitud del curso <a href="/WebColomosGob/documentos/aspirantes/Solicitud Propedeutico 2015.xls" class="btn btn-primary pull-right" download>Consultar</a></li>
-                                         	</ul>
-                                         	<p>Horario atención 9:00 a 14:00 hrs. y 15:00 a 19:00 hrs.</p>
-											<p>Para cualquier duda o aclaración dirigirse a la Coordinación del Curso Propedéutico/Nivelación al Teléfono 36413250 ext.275 o al correo : propedeutico@ceti.mx</p>
+                                         	</ul> -->
+                                         	<p>Para mayor información comunícate al teléfono 36-41-32-50 Ext. 275 de lunes a viernes 9:00 a 14:00 hrs y 15:00 a 19:00 hrs. o envíanos un correo a propedeutico@ceti.mx</p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-10-31 19:49:10</p>
+								    		<p class='ultima_actualizacion'>Ultima actualización: 2018-01-21 19:49:10</p>
 								    	</div>
 								    </div>
 		    					</div>

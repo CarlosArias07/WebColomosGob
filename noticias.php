@@ -69,6 +69,150 @@
                                             <div id="loadMore">Load more</div>
                                             <div id="showLess">Show less</div>
 
+											
+											
+											
+											
+											
+											
+											<main>
+<div class="container news_list">
+	<!-- Indicador de pagina actual-->
+    <div class="container">
+        <div class="col-md-12 col-sm-12 col-xs-12">
+            <ol class="breadcrumb">
+                <li><a href="#"><i class="icon icon-home"></i></a></li>
+                <li class=""><a href="index.php">Inicio</a></li>
+                <li class="active">Noticias</li>
+            </ol>
+        </div>
+        <hr>
+    </div>
+	<ul class="grid">
+	<li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1190">
+								<span class="feature bBeca" style="background-image:url(img/noticias/2720concursodecartelsobreprevenciontortura..jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1190">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Viernes 19 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li><li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1189">
+								<span class="feature bBeca" style="background-image:url(img/noticias/1112prepaenlinea.jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1189">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Viernes 19 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li><li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1188">
+								<span class="feature bBeca" style="background-image:url(img/noticias/5600bannerlogotipo.jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1188">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Miercoles 17 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li><li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1187">
+								<span class="feature bBeca" style="background-image:url(img/noticias/5137bannerlema.jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1187">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Miercoles 17 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li><li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1186">
+								<span class="feature bBeca" style="background-image:url(img/noticias/4620bannergaleriafotografica.jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1186">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Miercoles 17 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li><li class="fadeIn">
+							<article class="post">
+								<a href="noticia.php?id=1185">
+								<span class="feature bBeca" style="background-image:url(img/noticias/4539premionacionaldelemprendedor.jpg);">
+								</span>
+								</a>
+								<div class="text">
+									<a href="noticia.php?id=1185">
+									<h2>Convocatoria</h2>
+									<p>
+										<time class="entry-date published updated">
+											Miercoles 17 de Enero de 2018
+										</time>
+									</p>
+									</a>
+								</div>
+							</article>
+						</li>
+	</ul>
+</div>
+	<div class="wrapper">
+		<ul>
+			<li class="bCargar"><button id="cargar" class="btn btn-lg btn-red cargar" data-page="2" onclick="cargar(this)">Cargar más</button></li>
+		</ul>
+	</div>
+</main>
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
                                         </div>
                                  <div class='col-sm-7 pull-left'>
                                         <div class='article-body'>
