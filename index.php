@@ -177,34 +177,34 @@
 
                                 <li class='col-md-3 col-sm-3 col-xs-3'>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/sitiosInteres/3116bannercalendarioserviciosactividadescademicas.jpg'  height='208px'></a>
+                                        <a href='#'><img src='imagenes/index/akdmic.jpg'  height='208px'></a>
                                     </div>
                                     <div class='caption-box'>
-                                        <h4>Calendario de Servicios y Actividades académicas 2017-2018</h4>
-                                        <p>Calendario de Servicios y Actividades académicas 2017-2018</p>
-                                        <a class='btn btn-success btn-mini' href='noticia.php?id=1112'>Ver</a>
+                                        <h4>Akdmic</h4>
+                                        <p>Learning today for tomorrow´s world</p>
+                                        <a class='btn btn-success btn-mini' href="https://akdmic.com/" target="_blank">Ver</a>
                                     </div>
                                 </li>
 
                                 <li class='col-md-3 col-sm-3 col-xs-3'>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/sitiosInteres/2404bannercalendarioescolar2017-2018.jpg'  height='208px'></a>
+                                        <a href='#'><img src='imagenes/index/conexion.png'  height='208px'></a>
                                     </div>
                                     <div class='caption-box'>
-                                        <h4>Calendario Escolar 2017-2018</h4>
-                                        <p>Consulta el Calendario Escolar 2017-2018</p>
-                                        <a class='btn btn-success btn-mini' href='noticia.php?id=1111'>Ver</a>
+                                        <h4>Revista conexion</h4>
+                                        <p>Edición 11</p>
+                                        <a class='btn btn-success btn-mini' href='templates/cad/revistaConexion.php'>Ver</a>
                                     </div>
                                 </li>
 
                                 <li class='col-md-3 col-sm-3 col-xs-3'>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/sitiosInteres/205145aniversario.jpg'  height='208px'></a>
+                                        <a href='#'><img src='imagenes/index/construye-t.png'  height='208px'></a>
                                     </div>
                                     <div class='caption-box'>
-                                        <h4>45° Aniversario CETI </h4>
+                                        <h4>Construye T</h4>
                                         <p></p>
-                                        <a class='btn btn-success btn-mini' href='http://direcciondesarrollo.ceti.mx/historico/'>Ver</a>
+                                        <a class='btn btn-success btn-mini' href='http://www.sems.gob.mx/construyet' target="_blank">Ver</a>
                                     </div>
                                 </li>
 
@@ -251,7 +251,7 @@
                             </ul>
                         </div>
                         <!-- FIN SLIDE 2 -->
-                        <div class='item'>
+                        <!--<div class='item'>
                            <ul class='thumbnails'>
 
                                 <li class='col-md-3 col-sm-3 col-xs-3'>
@@ -266,7 +266,7 @@
                                 </li>
 
                             </ul> 
-                        </div>
+                        </div> -->
                     </div>
                     <!-- Control box -->
                     <div class="control-box">
