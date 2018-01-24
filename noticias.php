@@ -9,12 +9,13 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
 		<!--  ESTILOS  -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
+		
         <link rel="stylesheet" type="text/css" href="css/lista.css">
 	</head>
 
 	<body>
         <!-- CONTENIDO A PARTIR DE AQUI -->
-            <?php include_once('menu.html'); ?>
+            <?php include_once('menu2.php'); ?>
             
             <main class="principal">
         

@@ -25,7 +25,49 @@
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner" role="listbox">
-                    <div class="item active">
+				    
+					
+					<div class="item active">
+					    <a href="templates/noticias/concursoCartelPrevencionTortura-23-01-18.php">
+                        <img src="imagenes/noticias/concursoCartelPrevencionTortura-23-01-18.jpg" alt="Codigo Conducta"> 
+                        <div class="carousel-caption">
+                            <h3>Concurso de cartel</h3>
+                            <p>sobre prevención de la tortura</p>
+                        </div>
+						</a>
+                    </div>
+					
+                    <div class="item">
+					    <a href="templates/noticias/galeria fotografica50Aniv-23-01-18.php">
+                        <img src="imagenes/noticias/galeria fotografica50Aniv-23-01-18.jpg" alt="Codigo Conducta"> 
+                        <div class="carousel-caption">
+                            <h3>Convocatoria 50 aniversario CETI</h3>
+                            <p>Galería Fotográfica</p>
+                        </div>
+						</a>
+                    </div>
+					
+					<div class="item">
+					    <a href="templates/noticias/lema50Aniv-23-01-18.php">
+                        <img src="imagenes/noticias/lema50Aniv-23-01-18.jpg" alt="Codigo Conducta"> 
+                        <div class="carousel-caption">
+                            <h3>Convocatoria 50 aniversario CETI</h3>
+                            <p>Lema</p>
+                        </div>
+						</a>
+                    </div>
+					
+					<div class="item">
+					    <a href="templates/noticias/logotipo50Aniv-23-01-18.php">
+                        <img src="imagenes/noticias/logotipo50Aniv-23-01-18.jpg" alt="Codigo Conducta"> 
+                        <div class="carousel-caption">
+                            <h3>Convocatoria 50 aniversario CETI</h3>
+                            <p>Logotipo</p>
+                        </div>
+						</a>
+                    </div>
+					
+					<div class="item">
 					    <a href="templates/noticias/anticorrupcionCETI-29-01-18.php">
                         <img src="imagenes/noticias/anticorrupcionCETI-29-01-18.png" alt="Codigo Conducta"> 
                         <div class="carousel-caption">
@@ -34,6 +76,7 @@
                         </div>
 						</a>
                     </div>
+					
                     <div class="item">
 					    <a href="https://www.inadem.gob.mx/" target="_blank">
                         <img src="imagenes/noticias/premioNacionaldelEmprendedor-18-01-18.jpg" alt="Premio Nacional">
@@ -43,13 +86,8 @@
                         </div>
 						</a>
                     </div>
-                    <div class="item">
-                        <img src="imagenes/noticias/5.jpg" alt="Flower">
-                        <div class="carousel-caption">
-                            <h3>Título de Noticia</h3>
-                            <p>Texto breve descriptivo de Noticia</p>
-                        </div>
-                    </div>
+					
+					
                 </div>
                 <!-- Left and right controls -->
                 <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -64,6 +102,9 @@
                     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                     <li data-target="#myCarousel" data-slide-to="1"></li>
                     <li data-target="#myCarousel" data-slide-to="2"></li>
+					<li data-target="#myCarousel" data-slide-to="3"></li>
+					<li data-target="#myCarousel" data-slide-to="4"></li>
+					<li data-target="#myCarousel" data-slide-to="5"></li>
                 </ol>
             </div>
         </div>
@@ -165,30 +206,30 @@
         <!-- SITIOS Y NOTAS DE INTERES -->
         <section class="structure dependency bottom-buffer clearfix list-article slider_articles" >
             <div class="container" >
-                <div class="col-md-12 col-sm-4 col-xs-12 notas">
+                <div class="col-md-12 col-sm-12 col-xs-12 ">
                         <h3 class="top-buffer ">Sitios y notas de interés</h3>
                         <hr class="red"></hr>
                 </div>
                 <div id="notas" class="row carousel slide" data-ride="carousel">
                     <!-- Wrapper for slides -->
-                    <div class="carousel-inner">
+                    <div class="carousel-inner" style="text-align:center">
                         <div class='item active'>
                             <ul class='thumbnails'>
 
-                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                <li class='col-md-3 col-sm-3'>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/index/akdmic.jpg'  height='208px'></a>
+                                        <a href='https://akdmic.com/' target="_blank"><img src='imagenes/index/akdmic.jpg'  height='208px'></a>
                                     </div>
                                     <div class='caption-box'>
                                         <h4>Akdmic</h4>
-                                        <p>Learning today for tomorrow´s world</p>
+                                        <p>Let´s Learn English</p>
                                         <a class='btn btn-success btn-mini' href="https://akdmic.com/" target="_blank">Ver</a>
                                     </div>
                                 </li>
 
-                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                <li class=' col-md-3 col-sm-3 '>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/index/conexion.png'  height='208px'></a>
+                                        <a href='templates/cad/revistaConexion.php'><img src='imagenes/index/conexion.png'  height='208px'></a>
                                     </div>
                                     <div class='caption-box'>
                                         <h4>Revista conexion</h4>
@@ -197,9 +238,9 @@
                                     </div>
                                 </li>
 
-                                <li class='col-md-3 col-sm-3 col-xs-3'>
+                                <li class='col-md-3 col-sm-3 '>
                                     <div class='thumbnail'>
-                                        <a href='#'><img src='imagenes/index/construye-t.png'  height='208px'></a>
+                                        <a href='http://www.sems.gob.mx/construyet' target="_blank"><img src='imagenes/index/construye-t.png'  height="208px"></a>
                                     </div>
                                     <div class='caption-box'>
                                         <h4>Construye T</h4>
@@ -207,12 +248,11 @@
                                         <a class='btn btn-success btn-mini' href='http://www.sems.gob.mx/construyet' target="_blank">Ver</a>
                                     </div>
                                 </li>
-
                             </ul>
                         </div>
 
                         <!-- SLIDE 2 -->
-                        <div class='item'>
+                        <!--<div class='item'>
                            <ul class='thumbnails'>
 
                                 <li class='col-md-3 col-sm-3 col-xs-3'>
@@ -249,7 +289,8 @@
                                 </li>
 
                             </ul>
-                        </div>
+                        </div> 
+						
                         <!-- FIN SLIDE 2 -->
                         <!--<div class='item'>
                            <ul class='thumbnails'>
@@ -286,7 +327,21 @@
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <h3 class="top-buffer">Temas de interés</h3>
                 <hr class="red"></hr>
-                <div class='col-md-12'><div class='col-md-6'><a href='noticia.php?id=892' target='_blank'><p class='titulo'>Calendario Escolar 2017-2018</p></a><p class='descripcion'>Te invitamos a conocer el nuevo periodo escolar del CETI</p><a href='noticia.php?id=875' target='_blank'><p class='titulo'>Comité de Ética y Prevención de Conflictos de Interés del CETI</p></a><p class='descripcion'>Comité de Ética y Prevención de Conflictos de Interés del CETI</p><a href='noticia.php?id=621' target='_blank'><p class='titulo'>Inicia operación Plantel Río Santiago</p></a><p class='descripcion'>Notas referentes a nuestro nuevo plantel</p><a href='noticia.php?id=573' target='_blank'><p class='titulo'>PDMP 2014</p></a><p class='descripcion'>Programa de Desarrollo de Mediano Plazo 2014 - 2018</p><a href='noticia.php?id=545' target='_blank'><p class='titulo'>CÓDIGO DE CONDUCTA</p></a><p class='descripcion'>Nuestro compromiso con la sociedad</p></div><div class='col-md-6'><a href='noticia.php?id=293' target='_blank'><p class='titulo'>Equidad entre Hombres y Mujeres</p></a><p class='descripcion'>Conoce nuestra sección de Equidad, en donde encontrarás todo lo relacionado con las estrategias camino a la certificación en la Norma Mexicana para la Igualdad Laboral entre Mujeres y Hombres</p><a href='noticia.php?id=263' target='_blank'><p class='titulo'>Sala de Prensa</p></a><p class='descripcion'>Sala de Prensa (veda electoral)</p><a href='noticia.php?id=30' target='_blank'><p class='titulo'>   Manuales de la Administración Pública Federal</p></a><p class='descripcion'>Consulta los manuales de la Administración Pública Federal...</p><a href='noticia.php?id=25' target='_blank'><p class='titulo'>Metas Institucionales</p></a><p class='descripcion'> </p></div>          </div>
+                <div class='col-md-12'>
+				<div class='col-md-6'>
+				 <a href='templates/noticias/anticorrupcionCETI-29-01-18.php' target=''><p class='titulo'>Código de Conducta del Centro de Enseñanza Técnica industrial</p></a><p class='descripcion'>Te invitamos a conocer el código anticorrupción del CETI</p>
+				 <!--<a href='noticia.php?id=875' target='_blank'><p class='titulo'>Comité de Ética y Prevención de Conflictos de Interés del CETI</p></a><p class='descripcion'>Comité de Ética y Prevención de Conflictos de Interés del CETI</p>
+				 <a href='noticia.php?id=621' target='_blank'><p class='titulo'>Inicia operación Plantel Río Santiago</p></a><p class='descripcion'>Notas referentes a nuestro nuevo plantel</p>
+				 <a href='noticia.php?id=573' target='_blank'><p class='titulo'>PDMP 2014</p></a><p class='descripcion'>Programa de Desarrollo de Mediano Plazo 2014 - 2018</p>
+				 <a href='noticia.php?id=545' target='_blank'><p class='titulo'>CÓDIGO DE CONDUCTA</p></a><p class='descripcion'>Nuestro compromiso con la sociedad</p> -->
+				</div>
+			    <div class='col-md-6'>
+				 <a href='noticia.php?id=293' target='_blank'><p class='titulo'>Equidad entre Hombres y Mujeres</p></a><p class='descripcion'>Conoce nuestra sección de Equidad, en donde encontrarás todo lo relacionado con las estrategias camino a la certificación en la Norma Mexicana para la Igualdad Laboral entre Mujeres y Hombres</p>
+				 <!--<a href='noticia.php?id=263' target='_blank'><p class='titulo'>Sala de Prensa</p></a><p class='descripcion'>Sala de Prensa (veda electoral)</p>
+				 <a href='noticia.php?id=30' target='_blank'><p class='titulo'>   Manuales de la Administración Pública Federal</p></a><p class='descripcion'>Consulta los manuales de la Administración Pública Federal...</p>
+				 <a href='noticia.php?id=25' target='_blank'><p class='titulo'>Metas Institucionales</p></a><p class='descripcion'> </p> -->
+				</div>     
+			    </div>
                 <br>
                 <br>
         </div>
@@ -300,7 +355,7 @@
             <h3 class="top-buffer">Ubicación y contacto</h3>
             <hr class="red"></hr>
             <div class="col-md-12">
-                <iframe name="mapa" class="mapa" width="1100px" 
+                <iframe name="mapa" class="mapa" width="1100px" height="350px" 
                   frameborder="0" style="border:0"
                   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDkmcLsyAlGj2ktTYTX_ZhAxLSyGirkV3A
                     &q=CETI+Colomos,Guadalajara+MX&maptype=satellite" allowfullscreen>

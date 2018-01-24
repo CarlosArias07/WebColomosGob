@@ -10,6 +10,8 @@
 
 p.descripcion {
     font-size: 12px;
+	color: #545454;
+	text-align: justify;
 	}
 	
 .bordes{
@@ -21,3 +23,4 @@ p.descripcion {
  padding:2px 10px;
  width=240;
  }
+ 

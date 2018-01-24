@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
         <!--  ESTILOS  -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/dropdown.css">
+    <link rel="stylesheet" type="text/css" href="../css/dropdown.css">
     </head>
 
     <body>
