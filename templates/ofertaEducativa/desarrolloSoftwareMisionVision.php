@@ -32,9 +32,9 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li><a href='/WebColomosGob/templates/ofertaEducativa/desarrolloSoftware.php'>Desarrollo Software</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/desarrolloSoftwareMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
+					                    <li><a href='/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li><a href='/templates/ofertaEducativa/desarrolloSoftware.php'>Desarrollo Software</a></li>
+										<li class='active'><a href='/templates/ofertaEducativa/desarrolloSoftwareMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
 										
 					                </ol>
 					            </div>

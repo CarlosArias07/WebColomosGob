@@ -4,7 +4,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
         <!--  ESTILOS  -->
-		<!-- Principal -->
+		<!-- Principal menu -->
         <link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/dropdown.css">
     </head>
@@ -27,7 +27,7 @@
                             <a href="templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a>
                             <a href="templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a>
                             <!--<a href="/WebColomosGob/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a>-->
-							<a href="/WebColomosGob/templates/conoceCeti/anuies.php">Anuies</a>
+							<a href="/templates/conoceCeti/anuies.php">Anuies</a>
                             </div>
                             </div>
                         </li>
@@ -35,7 +35,7 @@
                             <div class="dropdown">
                             <button class="dropbtn">Oferta Académica</button>
                             <div class="dropdown-content">
-                            <a href="/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php">Tecnólogo e Ingeniería</a>
+                            <a href="/templates/ofertaEducativa/ofertaEducativa.php">Tecnólogo e Ingeniería</a>
                             </div>
                             </div>
                         </li>
@@ -44,8 +44,8 @@
                             <button class="dropbtn">Aspirantes</button>
                             <div class="dropdown-content">
                             <a href="http://aspirantes.ceti.mx/" target="_blank">Trámite de Admisión</a>
-                            <a href="/WebColomosGob/templates/aspirantes/cursoPropedeutico.php">Curso Propedéutico</a>
-							<a href="/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php">Oferta Educativa</a>
+                            <a href="/templates/aspirantes/cursoPropedeutico.php">Curso Propedéutico</a>
+							<a href="/templates/ofertaEducativa/ofertaEducativa.php">Oferta Educativa</a>
                             <a href="http://aspirantes.ceti.mx/" target="_blank">Dictamen de Admisión</a>
                             </div>
                             </div>
@@ -55,13 +55,13 @@
                             <button class="dropbtn">Estudiantes</button>
                             <div class="dropdown-content">
                             <a href="#">Trámites Escolares</a>
-                            <a href="/WebColomosGob/templates/alumnos/becas2.php">Becas</a>
-							<a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a>
+                            <a href="/templates/alumnos/becas2.php">Becas</a>
+							<a href="/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a>
                             <a href="http://ase1.ceti.mx/tecnologo/" target="_blank">ingreso al Sistema</a>
 							<a href="http://archivos.ceti.mx/correo.alumnos" target="_blank">Correo Institucional</a>
-							<a href="/WebColomosGob/templates/alumnos/reglamentos.php">Reglamentos</a>
+							<a href="/templates/alumnos/reglamentos.php">Reglamentos</a>
 							<a href="http://bolsa.ceti.mx/" target="_blank">Bolsa de Trabajo</a>
-							<a href='/WebColomosGob/templates/alumnos/moodleEduca.php'>Moddle-EDUCA</a>
+							<a href='/templates/alumnos/moodleEduca.php'>Moddle-EDUCA</a>
                             </div>
                             </div>
                         </li>
@@ -73,8 +73,8 @@
                             <a href="#">Tr&aacute;mites Escolares</a>
 							<a href="http://bolsa.ceti.mx/" target="_blank">Bolsa de Trabajo</a>
                             <a href="http://ase1.ceti.mx/tecnologo/" target="_blank">Ingreso al Sistema</a>
-                            <a href="/WebColomosGob/templates/egresados/posiblesEgresados.php">Posibles Egresados</a>
-							<a href="/WebColomosGob/templates/egresados/egresados.php">Lista de Egresados</a>
+                            <a href="/templates/egresados/posiblesEgresados.php">Posibles Egresados</a>
+							<a href="/templates/egresados/egresados.php">Lista de Egresados</a>
                             </div>
                             </div>
                         </li>
@@ -86,8 +86,8 @@
                             <a href="http://ase1.ceti.mx/tecnologo/" target="_blank">Ingreso al Sistema</a>
                             <a href="http://formaciondocente.ceti.mx/" target="_blank">PIFAD-Formaci&oacute;n Docente</a>
 							<a href="http://recursoshumanos.ceti.mx/" target="_blank">Recursos Humanos</a>
-                            <a href="/WebColomosGob/templates/docentes/reglamentosManuales.php">Reglamentos y Manuales</a>
-							<a href="/WebColomosGob/templates/docentes/procedimientosFormatos.php">Procedimientos y formatos </a>
+                            <a href="/templates/docentes/reglamentosManuales.php">Reglamentos y Manuales</a>
+							<a href="/templates/docentes/procedimientosFormatos.php">Procedimientos y formatos </a>
                             </div>
                             </div>
                         </li>
@@ -96,10 +96,10 @@
                             <div class="dropdown">
                             <button class="dropbtn">Desarrollo Acad&eacute;mico</button>
                             <div class="dropdown-content">
-                            <a href="/WebColomosGob/templates/goe/goe.php">GOE</a>
-                            <a href="/WebColomosGob/templates/tutoria/tutorias.php">Tutor&iacute;as</a>
-							<a href="/WebColomosGob/templates/biblioteca/biblioteca.php">Biblioteca</a>
-                            <a href="/WebColomosGob/templates/cad/cad.php">Cultura Arte y Deporte</a>
+                            <a href="/templates/goe/goe.php">GOE</a>
+                            <a href="/templates/tutoria/tutorias.php">Tutor&iacute;as</a>
+							<a href="/templates/biblioteca/biblioteca.php">Biblioteca</a>
+                            <a href="/templates/cad/cad.php">Cultura Arte y Deporte</a>
 							<!--<a href="#">Servicio M&eacute;dico</a>
 							<a href="#">Trabajo Social</a>
 							<a href="#">Asesor&iacute;a y Regularizaci&oacute;n</a> 

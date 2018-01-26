@@ -32,7 +32,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/conoceCeti/nuestroPlantel.php'>CONOCE EL CETI</a></li>
+					                    <li class='active'><a href='/templates/conoceCeti/nuestroPlantel.php'>CONOCE EL CETI</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -47,15 +47,15 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="/WebColomosGob/templates/conoceCeti/misionVision.php">Misión y Visión</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/conoceCeti/planoPlantel.php">Plano del Plantel</a><hr class="sub-hr"></li>	
-													<li><a href="/WebColomosGob/templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a><hr class="sub-hr">	</li>
-													<li><a href="/WebColomosGob/templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a><hr class="sub-hr"></li>	
+									       	<ul>	<li><a href="/templates/conoceCeti/misionVision.php">Misión y Visión</a><hr class="sub-hr"></li>	
+											        <li><a href="/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a><hr class="sub-hr"></li>
+													<li><a href="/templates/conoceCeti/planoPlantel.php">Plano del Plantel</a><hr class="sub-hr"></li>	
+													<li><a href="/templates/conoceCeti/directorioInstitucional.php">Directorio Institucional</a><hr class="sub-hr">	</li>
+													<li><a href="/templates/conoceCeti/directorioTelefonico.php">Directorio Telefónico</a><hr class="sub-hr"></li>	
 													</ul><h4 class='bottom-buffer'>Sitios relacionados</h4>
 								        <hr class='red sitios_relacionados'><ul><li>
-										<a href="/WebColomosGob/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a><hr class="sub-hr"></li>	
-										<li><a href="/WebColomosGob/templates/conoceCeti/anuies.php">ANUIES</a><hr class="sub-hr"></li>	
+										<a href="/templates/conoceCeti/redSeguridad.php">Red de Seguridad</a><hr class="sub-hr"></li>	
+										<li><a href="/templates/conoceCeti/anuies.php">ANUIES</a><hr class="sub-hr"></li>	
 										</ul>
 									    </div>  
 

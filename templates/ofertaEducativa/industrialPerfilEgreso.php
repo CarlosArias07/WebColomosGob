@@ -32,9 +32,9 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/industrial.php'>Industrial</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/industrialPerfilEgreso.php'>Perfil de Egreso</a></li>
+					                    <li class='active'><a href='/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li class='active'><a href='/templates/ofertaEducativa/industrial.php'>Industrial</a></li>
+										<li class='active'><a href='/templates/ofertaEducativa/industrialPerfilEgreso.php'>Perfil de Egreso</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>

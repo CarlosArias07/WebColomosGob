@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li><a href='/WebColomosGob/templates/ofertaEducativa/electronica.php'>Electr&oacute;nica y Comunicaciones</a></li>
+					                    <li><a href='/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li><a href='/templates/ofertaEducativa/electronica.php'>Electr&oacute;nica y Comunicaciones</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/electronicaMisionVision.php'>Misi&oacute;n Visi&oacute;n</a></li>
 										
 					                </ol>

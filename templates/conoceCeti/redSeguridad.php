@@ -33,7 +33,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/conoceCeti/redSeguridad.php'>Red de Seguridad</a></li>
+					                    <li class='active'><a href='/templates/conoceCeti/redSeguridad.php'>Red de Seguridad</a></li>
 					                </ol>
 					            </div>
 								

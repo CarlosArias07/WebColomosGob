@@ -32,9 +32,9 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/maquinasHerramienta.php'>Maquinas-Herramienta</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/ofertaEducativa/maquinasHerramientaReticula.php'>Ret&iacute;cula</a></li>
+					                    <li class='active'><a href='/templates/ofertaEducativa/ofertaEducativa.php'>Oferta Educativa</a></li>
+										<li class='active'><a href='/templates/ofertaEducativa/maquinasHerramienta.php'>Maquinas-Herramienta</a></li>
+										<li class='active'><a href='/templates/ofertaEducativa/maquinasHerramientaReticula.php'>Ret&iacute;cula</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
