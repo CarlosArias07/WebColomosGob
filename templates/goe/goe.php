@@ -32,7 +32,7 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
+					                    <li class='active'><a href='/templates/goe/goe.php'>GOE</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -46,13 +46,13 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
-                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
-											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	<li><a href="/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
+											                    <li><a href="/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
+                                                                <li><a href="/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
+											                    <li><a href="/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
+																<li><a href="/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
+																<li><a href="/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
+																<li><a href="/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

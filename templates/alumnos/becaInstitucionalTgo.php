@@ -33,8 +33,8 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
-										<li><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
-										<li><a href='/WebColomosGob/templates/alumnos/becasTecnologo.php'>Becas Tecnólogo</a></li>
+										<li><a href='/templates/alumnos/becas2.php'>Becas</a></li>
+										<li><a href='/templates/alumnos/becasTecnologo.php'>Becas Tecnólogo</a></li>
 										<li class='active'><a href='/WebColomosGob/templates/alumnos/becaInstitucionalTgo.php'>Beca Institucional</a></li>
 					                </ol>
 					            </div>
@@ -50,13 +50,13 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" target="_blank">Solicitud de Beca</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/documentos/alumnos/ConvocatoriaBecasInstitucionalesAGODIC2017.pdf" target="_blank">Convocatoria</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/Reglamento-para-el-otorgamiento-de-Becas-del-CETI-Rev.-K-sin-firma.pdf" target="_blank">Reglamento para obtener Beca</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/DictamenBecasInstitucionalesAgo-Dic2017.pdf" target="_blank">Dictamen para Consulta</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/DictamendeBecasAgosto-Diciembre2017_Firmado.pdf" target="_blank">Dictamen Firmado</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/Fedeerratas_DictamendeBecas2017b.pdf" target="_blank">Fé de Erratas</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/documentos/alumnos/Fede erratas_DictamendeBecas_fila378.pdf" target="_blank">Otra Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/Solicitud-Beca-Ceti-2016.pdf" target="_blank">Solicitud de Beca</a><hr class="sub-hr"></li>
+											    <li><a href="/documentos/alumnos/ConvocatoriaBecasInstitucionalesAGODIC2017.pdf" target="_blank">Convocatoria</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/Reglamento-para-el-otorgamiento-de-Becas-del-CETI-Rev.-K-sin-firma.pdf" target="_blank">Reglamento para obtener Beca</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/DictamenBecasInstitucionalesAgo-Dic2017.pdf" target="_blank">Dictamen para Consulta</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/DictamendeBecasAgosto-Diciembre2017_Firmado.pdf" target="_blank">Dictamen Firmado</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/Fedeerratas_DictamendeBecas2017b.pdf" target="_blank">Fé de Erratas</a><hr class="sub-hr"></li>	
+											    <li><a href="/documentos/alumnos/Fede erratas_DictamendeBecas_fila378.pdf" target="_blank">Otra Fé de Erratas</a><hr class="sub-hr"></li>	
 											    <li><a href="http://www.ceti.mx/cetinew/index.php" target="_blank">Contraloría Social</a><hr class="sub-hr"></li>		
 											</ul>
 									    </div> 

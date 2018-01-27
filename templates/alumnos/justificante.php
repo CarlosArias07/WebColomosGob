@@ -13,14 +13,13 @@
         <link rel="stylesheet" type="text/css" href="../../css/dropdown.css">
         <link rel="stylesheet" type="text/css" href="../../css/imagegallery.css">
 		<link rel="stylesheet" type="text/css" href="../../css/principales.css">
-		<link rel="stylesheet" type="text/css" href="../../css/prueba.css">
         <!-- Bootstrap Dropdown Hover CSS -->
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
 	</head>
 
 	<body>
-        <!-- MENU PRINCIPAL -->
+		<!-- MENU PRINCIPAL -->
         <?php include_once('../../menu.html'); ?>
 
         <!-- CONTENIDO A PARTIR DE AQUI -->
@@ -33,34 +32,29 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/templates/cad/cad.php'>CAD</a></li>
-					                    <li><a href='/templates/cad/talleresCad.php'>Talleres y Galería</a></li>	
-										<li class='active'><a href='/templates/cad/acondicionamiento.php'>Acondicionamiento Fisíco</a></li>
+										<li><a href='/templates/alumnos/tramitesescolares.php'>Trámites</a></li>
+					                    <li class='active'><a href='/templates/alumnos/justificante.php'>Justificante</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Acondicionamiento Fisíco</h2>
+					            		<h2 class='bottom-buffer'>Justificante</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/cad/acondicionamiento/acondicionamiento1.jpg" alt="acondicionamiento">
+					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
+										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
-									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
+									        <!--<h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"><li><a href="/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
-											                   <li><a href="/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
-											                   <li><a href="/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
-											</ul>
-										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
-								            <hr class='red sitios_relacionados'>
-											<ul>
-											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
-											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
-											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
-									    </div> 
+									       	<ul>	<li><a href="/templates/alumnos/tramitesescolares.php">Trámites Escolares</a><hr class="sub-hr"></li>	
+											        <hr class="sub-hr"></li>
+													</ul>--><h4 class='bottom-buffer'>Sitios relacionados</h4>
+								        <hr class='red sitios_relacionados'><ul><li>
+										<a href="/templates/alumnos/tramitesescolares.php">Trámites Escolares</a><hr class="sub-hr"></li>	
+										</ul>
+									    </div>  
 
 
 
@@ -77,16 +71,30 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-								    		<p class='contenido'>
-											En este taller se trata de dar a conocer las diferentes maneras que se pueden utilizar para el acondicionamiento físico,
-											el cuerpo es una ciencia de la cual se puede obtener muchos beneficios si se le trabaja adecuadamente.</p>
-											<p class='contenido'>
-											Traer ropa cómoda con la hidratación adecuada y cumplir con las normas.
-											</p>
-							
-										
-							
-							
+											
+											<h4>Requisitos para el trámite </h4>
+								    		<ul>
+											   <li type="circle">Entregar el Formato de Justificante, junto con documento que acredite dicha justificación en la ventanilla del Departamento de Servicios de Apoyo Académico (el formato podrás descargarlo al final de esta información).</li>
+											</ul>   
+											<p><b>Importante:</p></b>  
+
+											<ul>
+											<li>El periodo de recepción del justificante será desde el inicio de su ausencia y hasta dentro de los tres días hábiles posteriores a su reincorporación a clases; toda solicitud de justificación fuera de dicho periodo, no se considerará procedente.
+											</li>
+											<li>Como comprobante puedes presentar: constancia de trabajo, constancia médica, constancia de participación en algún evento cultural, deportivo, de ciencia o tecnología donde se acredite que está representando al CETI, etc. o una carta firmada 
+											por tus madre, padre, tutor o tutora en donde explique el motivo de dicha falta, además debes de anexar copia de IFE. </li>
+											</ul>
+											<p><b>Nota</b>: para mayor información puedes consultar el Reglamento Escolar de Nivel Medio Superior y Superior </p>
+											
+											
+											
+											<p class='contenido'><b>Duración de trámite: </b> Un día hábil</p>
+											<p class='contenido'><b>Costo del trámite: </b> Sin costo</p>
+											<center>
+											<a href="/documentos/alumnos/JustificanteFaltas.doc" target="_blank" class="btn btn-primary">Descargar Formato</a>
+											</center>
+											
+											
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -98,7 +106,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 20:45:10</p>
+								    		<p class='ultima_actualizacion'>Última actualización: 2018-01-26 15:52:10</p>
 								    	</div>
 								    </div>
 		    					</div>

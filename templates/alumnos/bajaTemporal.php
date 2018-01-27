@@ -13,14 +13,13 @@
         <link rel="stylesheet" type="text/css" href="../../css/dropdown.css">
         <link rel="stylesheet" type="text/css" href="../../css/imagegallery.css">
 		<link rel="stylesheet" type="text/css" href="../../css/principales.css">
-		<link rel="stylesheet" type="text/css" href="../../css/prueba.css">
         <!-- Bootstrap Dropdown Hover CSS -->
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/bootstrap-dropdownhover.min.css" rel="stylesheet">
 	</head>
 
 	<body>
-        <!-- MENU PRINCIPAL -->
+		<!-- MENU PRINCIPAL -->
         <?php include_once('../../menu.html'); ?>
 
         <!-- CONTENIDO A PARTIR DE AQUI -->
@@ -33,34 +32,29 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/templates/cad/cad.php'>CAD</a></li>
-					                    <li><a href='/templates/cad/talleresCad.php'>Talleres y Galería</a></li>	
-										<li class='active'><a href='/templates/cad/acondicionamiento.php'>Acondicionamiento Fisíco</a></li>
+										<li><a href='/templates/alumnos/tramitesescolares.php'>Trámites</a></li>
+					                    <li class='active'><a href='/templates/alumnos/bajaTemporal.php'>Baja Temporal</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
-					            		<h2 class='bottom-buffer'>Acondicionamiento Fisíco</h2>
+					            		<h2 class='bottom-buffer'>Baja Temporal</h2>
 
 					            	</div>
 					            	<div class='col-md-4 col-xs-12 pull-right '>
 									    <!--imagen por encima del menu lateral-->
-					            		<img class='img img-responsive' src="../../imagenes/cad/acondicionamiento/acondicionamiento1.jpg" alt="acondicionamiento">
+					            		<!--<img class='img img-responsive' src='img/articulos/ceti_up.jpg'/> -->
+										
 										<!--Menu lateral -->
 										<div class='border-box submenu_relacionados'>
-									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
+									        <!--<h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"><li><a href="/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
-											                   <li><a href="/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
-											                   <li><a href="/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
-											</ul>
-										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
-								            <hr class='red sitios_relacionados'>
-											<ul>
-											<li><a href="http://www.colomos.ceti.mx/">Plantel Colomos</a><hr class="sub-hr"></li>	
-											<li><a href="http://www.tonala.ceti.mx/">Plantel Tonalá</a><hr class="sub-hr"></li>	
-											<li><a href="http://coeston.ceti.mx/riosantiago">Plantel Río Santiago</a><hr class="sub-hr"></li>
-											</ul>-->
-									    </div> 
+									       	<ul>	<li><a href="/templates/alumnos/tramitesescolares.php">Trámites Escolares</a><hr class="sub-hr"></li>	
+											        <hr class="sub-hr"></li>
+													</ul>--><h4 class='bottom-buffer'>Sitios relacionados</h4>
+								        <hr class='red sitios_relacionados'><ul><li>
+										<a href="/templates/alumnos/tramitesescolares.php">Trámites Escolares</a><hr class="sub-hr"></li>	
+										</ul>
+									    </div>  
 
 
 
@@ -77,16 +71,38 @@
 								    <div class='col-sm-7 pull-left'>
 								    	<div class='article-body'>
 								    		<hr class='red'>
-								    		<p class='contenido'>
-											En este taller se trata de dar a conocer las diferentes maneras que se pueden utilizar para el acondicionamiento físico,
-											el cuerpo es una ciencia de la cual se puede obtener muchos beneficios si se le trabaja adecuadamente.</p>
-											<p class='contenido'>
-											Traer ropa cómoda con la hidratación adecuada y cumplir con las normas.
-											</p>
-							
-										
-							
-							
+											
+											<h4>Requisitos para el trámite de baja temporal </h4>
+								    		<ul>
+											   <li type="circle">Preséntate en la ventanilla del departamento de Servicios de Apoyo Académico, donde debes entregar los Formatos siguientes: el  Formato de No Adeudo para Baja y el Formato de Solicitud Múltiple de Trámite, los cual puedes descargar al final de esta información y los siguientes documentos:</li>
+											   <ul>
+											      <li type="square">Una carta donde describas los motivos por los cuales solicitas la baja temporal. 
+												  </li>
+												  <li type="square">Constancia de trabajo, licencia médica o comprobante que acredite dicha petición.
+												  </li>
+												  <li type="square">Comprobante del último pago de reinscripción al semestre.
+												  </li>
+											   </ul>
+											   <li type="circle">El Departamento de Servicios de Apoyo Académico será el encargado de evaluar tu caso y de darte respuesta a través de un oficio, el cual deberás recoger ahí mismo, en las fechas que se te indiquen. </li>
+											</ul>  
+											<p><b>Importante:</b></p>
+											<ul>
+											<li>Si eres menor de edad, el formato de No adeudo para Baja deberá estar firmado por tu padre o tutor, acompañado de una copia fotostática de su credencial del IFE.</li>
+											<li>Sólo podrás solicitar una baja temporal en las primeras 5 semanas del periodo marcado en el calendario escolar, esto lo realizarás en el Departamento de Servicios de Apoyo Académico. </li>
+											<li>Si, por motivos especiales y comprobables, requieres una baja temporal una vez transcurrido el tiempo normal del trámite, deberás solicitar la autorización del tramite a la Dirección del Plantel, presentando la carta en la cual describas los motivos de tu petición y un comprobante que la respalde (los mencionados anteriormente).  </li>
+											<li>Sólo se pueden autorizar 2 bajas temporales en el transcurso de la carrera de un estudiante, pueden ser continuas y de cualquier semestre  </li>
+											</ul>
+											
+                                            <p><b>Nota:</b>Para mayor información consultar el reglamento escolar de alumnos vigente.</p>  											 
+											
+											
+											<p class='contenido'><b>Duración de trámite: </b>5 días hábiles, siempre y cuando se cubran los puntos 1 ,2, 3 e inciso b</p>
+											<p class='contenido'><b>Costo del trámite: </b> Sin costo</p>
+											<center>
+											<a href="/documentos/alumnos/FR-01-DPL-CE-PO-002Rev. 4Noadeudoparabaja_ok.pdf" target="_blank" class="btn btn-primary">Descargar Formato</a>
+											</center>
+											
+											
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>
@@ -98,7 +114,7 @@
 								    			<a href='https://twitter.com/share' class='twitter-share-button' data-size='large' data-show-count='true'>Tweet</a><script async src='//platform.twitter.com/widgets.js' charset='utf-8'></script>
 								    		</div> -->
 								    		<hr class=''>
-								    		<p class='ultima_actualizacion'>Ultima actualización: 2017-12-15 20:45:10</p>
+								    		<p class='ultima_actualizacion'>Última actualización: 2018-01-26 20:16:10</p>
 								    	</div>
 								    </div>
 		    					</div>

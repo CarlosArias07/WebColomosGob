@@ -33,9 +33,9 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/normatividad.php'>Normatividad</a></li>
+					                    <li><a href='/templates/tutoria/tutorias.php'>Tutorías</a></li>
+					                    <li><a href='/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
+					                    <li class='active'><a href='/templates/tutoria/normatividad.php'>Normatividad</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -50,13 +50,13 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>			
+									       		<li><a href="/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
+											    <li><a href="/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>			
 											</ul>
 										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-											<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
+											<li><a href="/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
 											</ul>
 									    </div> 
 
@@ -75,29 +75,29 @@
 								    		<hr class='red'>
                                             <h4>Formatos de Tutorías</h4>
 								    		<p class="contenido">
-                                             	Acuerdos 442 BGC <a href="/WebColomosGob/documentos/tutorias/Acuerdo 442 BGC.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Acuerdos 442 BGC <a href="/documentos/tutorias/Acuerdo 442 BGC.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Acuerdo 9 del Comité de Tutorías SEMS <a href="/WebColomosGob/documentos/tutorias/Acuerdo_9_comites_tutorias_SEMS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Acuerdo 9 del Comité de Tutorías SEMS <a href="/documentos/tutorias/Acuerdo_9_comites_tutorias_SEMS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Manual de la Función Docente <a href="/WebColomosGob/documentos/tutorias/DI-MN-200-04-01 Manual de la Funcion Docente.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Manual de la Función Docente <a href="/documentos/tutorias/DI-MN-200-04-01 Manual de la Funcion Docente.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Metodología Acción Tutorial <a href="/WebColomosGob/documentos/tutorias/Metodologia_Accion_Tutorial.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Metodología Acción Tutorial <a href="/documentos/tutorias/Metodologia_Accion_Tutorial.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Programa de Tutorías Nivel Tecnólogo <a href="/WebColomosGob/documentos/tutorias/DI-VA-200-11-02 rev 4 PROGRAMA DE TUTORIAS NIVEL TECNOLOGO PLANTEL COLOMOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Programa de Tutorías Nivel Tecnólogo <a href="/documentos/tutorias/DI-VA-200-11-02 rev 4 PROGRAMA DE TUTORIAS NIVEL TECNOLOGO PLANTEL COLOMOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Manual para Ser Mejor Tutor <a href="/WebColomosGob/documentos/tutorias/MANUAL MEJOR_TUTOR.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Manual para Ser Mejor Tutor <a href="/documentos/tutorias/MANUAL MEJOR_TUTOR.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
 								    	</div>
 								    </div>

@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/alumnos/moodleEduca.php'>Moodle EDUCA</a></li>
+					                    <li class='active'><a href='/templates/alumnos/moodleEduca.php'>Moodle EDUCA</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>

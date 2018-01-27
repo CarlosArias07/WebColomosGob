@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/alumnos/reglamentos.php'>Reglamentos</a></li>
+					                    <li class='active'><a href='/templates/alumnos/reglamentos.php'>Reglamentos</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -76,42 +76,42 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class="contenido">
-                                             	Reglamento Estudiantes Educación Media Superior <a href="/WebColomosGob/documentos/alumnos/DI-RG-200-09-01 REV. C REGLAMENTO DE ESTUDIANTES EMS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento Estudiantes Educación Media Superior <a href="/documentos/alumnos/DI-RG-200-09-01 REV. C REGLAMENTO DE ESTUDIANTES EMS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-09-01 Rev. C
                                          	 </p>
                                              <p class="contenido">
-                                             	Reglamento Escolar De Nivel Superior <a href="/WebColomosGob/documentos/alumnos/DI-RG-200-09-02 REV. C REGLAMENTO DE ESTUDIANTES ES.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento Escolar De Nivel Superior <a href="/documentos/alumnos/DI-RG-200-09-02 REV. C REGLAMENTO DE ESTUDIANTES ES.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-09-02 Rev. C
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento Becas Tecnólogo e Ingeniería <a href="/WebColomosGob/documentos/alumnos/DI-RG-200-03-02 REV. J REGLAMENTO BECAS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento Becas Tecnólogo e Ingeniería <a href="/documentos/alumnos/DI-RG-200-03-02 REV. J REGLAMENTO BECAS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-03-02 REV. J
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento Servicio Social Nivel Tecnólogo <a href="/WebColomosGob/documentos/alumnos/DI-RG-200-10-07 Reglamento de Servicio Social de Educación Media Superior.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento Servicio Social Nivel Tecnólogo <a href="/alumnos/DI-RG-200-10-07 Reglamento de Servicio Social de Educación Media Superior.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-10-07 REV. 1
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento Servicio Social Nivel Ingeniería <a href="/WebColomosGob/documentos/alumnos/DI-RG-200-10-08 Reglamento de Servicio Social de Educación Superior.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento Servicio Social Nivel Ingeniería <a href="/documentos/alumnos/DI-RG-200-10-08 Reglamento de Servicio Social de Educación Superior.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-10-08 REV. 1
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento de Titulación del CETI <a href="/WebColomosGob/documentos/alumnos/Reglamento de Titulación del CETI.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento de Titulación del CETI <a href="/documentos/alumnos/Reglamento de Titulación del CETI.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-13-01
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento de uso de aulas <a href="/WebColomosGob/documentos/alumnos/Reglamento de Aulas.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento de uso de aulas <a href="/documentos/alumnos/Reglamento de Aulas.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-10-01
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento de uso de laboratorios y talleres <a href="/WebColomosGob/documentos/alumnos/Reglamento de Laboratorios y talleres.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento de uso de laboratorios y talleres <a href="/documentos/alumnos/Reglamento de Laboratorios y talleres.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	DI-RG-200-07-01
                                          	 </p>

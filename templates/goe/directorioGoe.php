@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/goe/directorioGoe.php'>Directorio</a></li>
+										<li><a href='/templates/goe/goe.php'>GOE</a></li>
+					                    <li class='active'><a href='/templates/goe/directorioGoe.php'>Directorio</a></li>
 										
 					                </ol>
 					            </div>
@@ -48,13 +48,13 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul>	<li><a href="/WebColomosGob/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php" >Servicios</a><hr class="sub-hr"></li>	
-											        <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/goe/campanasGoe.php" target="_blank">Campañas</a><hr class="sub-hr"></li>
-											        <li><a href="/WebColomosGob/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
-													<li><a href="/WebColomosGob/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
+									       	<ul>	<li><a href="/templates/goe/goe.php">¿Quiénes Somos?</a><hr class="sub-hr"></li>	
+											        <li><a href="/templates/goe/serviciosGoe.php" >Servicios</a><hr class="sub-hr"></li>	
+											        <li><a href="/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>
+													<li><a href="/templates/goe/campanasGoe.php" target="_blank">Campañas</a><hr class="sub-hr"></li>
+											        <li><a href="/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
+													<li><a href="/templates/goe/dialogosFamilia.php">Diálogos en Familia- Junta de padres</a><hr class="sub-hr"></li>
+													<li><a href="/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -84,7 +84,7 @@
 				                                     
                                            <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="goe">
+                                               <img class="img img-responsive img-circle" src="/imagenes/goe/carmenJ.jpg" alt="goe">
                                                   <div class="caption" >
                                                     <h3>Lic. Carmen Jazo Jiménez </h3>
                                                     <p>Coordinadora de GOE</p>
@@ -95,7 +95,7 @@
        
                                           <div class="col-md-6 ">
                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                              <img class="img img-responsive img-circle"  src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="goe">
+                                              <img class="img img-responsive img-circle"  src="/imagenes/goe/karlaD.jpg" alt="goe">
                                                  <div class="caption">
                                                     <h3>Karla Guadalupe Díaz </h3>
 		                                            <p>Psicóloga </p>
@@ -106,7 +106,7 @@
 										  
 										  <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/JoseJ.JPG" alt="goe" width="120" height="35">
+                                               <img class="img img-responsive img-circle" src="/imagenes/goe/JoseJ.JPG" alt="goe" width="120" height="35">
                                                   <div class="caption" >
                                                     <h3>José de Jesús López Díaz </h3>
                                                     <p>Psicólogo</p>
@@ -117,7 +117,7 @@
 										   
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/EdithMojica.jpg" alt="goe" width="150" height="50">
+                                               <img class="img img-responsive img-circle" src="/imagenes/goe/EdithMojica.jpg" alt="goe" width="150" height="50">
                                                   <div class="caption" >
                                                     <h3>Edith Mojica Brambila</h3>
                                                     <p>Psicóloga</p>
@@ -129,7 +129,7 @@
 										   
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/PatriciaGonzalez.jpg" alt="goe" width="155" height="55">
+                                               <img class="img img-responsive img-circle" src="/imagenes/goe/PatriciaGonzalez.jpg" alt="goe" width="155" height="55">
                                                   <div class="caption" >
                                                     <h3> Martha Patricia Gonzalez Caviedes</h3>
                                                     <p>Psicóloga</p>
@@ -140,7 +140,7 @@
 										   
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/goe/IlianaGonzalez.jpg" alt="goe" width="145" height="45">
+                                               <img class="img img-responsive img-circle" src="/imagenes/goe/IlianaGonzalez.jpg" alt="goe" width="145" height="45">
                                                   <div class="caption" >
                                                     <h3>Iliana Leticia Gonzalez Cisneros</h3>
                                                     <p>Psicopedagoga</p>

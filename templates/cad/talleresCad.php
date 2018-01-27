@@ -33,8 +33,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/cad/talleresCad.php'>Talleres CAD</a></li>
+					                    <li><a href='/templates/cad/cad.php'>CAD</a></li>
+										<li class='active'><a href='/templates/cad/talleresCad.php'>Talleres CAD</a></li>
 					                </ol>
 					            </div>
 								<div class='row'>
@@ -49,9 +49,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"><li><a href="/WebColomosGob/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
-											                   <li><a href="/WebColomosGob/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
-											                   <li><a href="/WebColomosGob/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
+									       	<ul type="circle"><li><a href="/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
+											                   <li><a href="/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
+											                   <li><a href="/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -136,7 +136,7 @@
 											<img class="img-responsive" alt="" src="../../imagenes/cad/radio/radio1.jpg" />
 											</a><center> <h5>Taller de Radio<h5><center> 
 											</div>
-											<div class='col-md-6'>
+											<!--<div class='col-md-6'>
 											<a class="img img-responsive thumbnail" href="">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/danzaPolinesia/danzaPolinesia1.jpg" />
 											</a><center> <h5> Danza Polinesia (hawaiano y tahitiano)<h5><center> 
@@ -170,7 +170,7 @@
 											<a class="img img-responsive thumbnail" href="">
 											<img class="img-responsive" alt="" src="../../imagenes/cad/natacion/natacion1.JPG" />
 											</a><center> <h5>Natación<h5><center> 
-											</div>
+											</div>-->
             
 											</div> <!-- list-group / end -->
 				

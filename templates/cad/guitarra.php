@@ -33,9 +33,9 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
-					                    <li><a href='/WebColomosGob/templates/cad/talleresCad.php'>Talleres y Galería</a></li>	
-										<li class='active'><a href='/WebColomosGob/templates/cad/guitarra.php'>Guitarra</a></li>
+										<li><a href='/templates/cad/cad.php'>CAD</a></li>
+					                    <li><a href='/templates/cad/talleresCad.php'>Talleres y Galería</a></li>	
+										<li class='active'><a href='/templates/cad/guitarra.php'>Guitarra</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -49,9 +49,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"><li><a href="/WebColomosGob/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
-											                   <li><a href="/WebColomosGob/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
-											                   <li><a href="/WebColomosGob/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
+									       	<ul type="circle"><li><a href="/templates/cad/directorioCad.php">Directorio</a><hr class="sub-hr"></li>
+											                   <li><a href="/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
+											                   <li><a href="/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

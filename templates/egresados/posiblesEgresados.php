@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Egresados</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/Egresados/posiblesEgresados.php'>Posibles Egresados</a></li>
+					                    <li class='active'><a href='/templates/Egresados/posiblesEgresados.php'>Posibles Egresados</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -48,7 +48,7 @@
                                           <h4 class='bottom-buffer'>Sitios relacionados</h4>
                                             <hr class='red sitios_relacionados'>
                                             <ul>
-                                            <li><a href="/WebColomosGob/templates/Egresados/egresados.php">Lista de Egresados</a><hr class="sub-hr"></li>   
+                                            <li><a href="/templates/Egresados/egresados.php">Lista de Egresados</a><hr class="sub-hr"></li>   
                                             </ul>
                                         </div> 
 								    </div>
@@ -59,8 +59,8 @@
 								    		<p class='contenido'>
 								    			<h4>Periodo Agosto - Diciembre 2017</h4>
 								    		</p>
-                                            <p>Nivel Tecnologo <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a><p>
-                                            <p>Nivel Ingeniería <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosIng_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a></p>
+                                            <p>Nivel Tecnologo <a href="/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a><p>
+                                            <p>Nivel Ingeniería <a href="/documentos/egresados/32017PosiblesEgresadosIng_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a></p>
 								    	</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

@@ -33,8 +33,8 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/directorioTutorias.php'>Directorio</a></li>
+					                    <li><a href='/templates/tutoria/tutorias.php'>Tutorías</a></li>
+					                    <li class='active'><a href='/templates/tutoria/directorioTutorias.php'>Directorio</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -49,10 +49,10 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>
-									       		<li><a href="/WebColomosGob/templates/tutoria/tutorias.php">Tutorías</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>
-											    <li><a href="/WebColomosGob/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
+									       		<li><a href="/templates/tutoria/tutorias.php">Tutorías</a><hr class="sub-hr"></li>	
+											    <li><a href="/templates/tutoria/objetivos.php">Objetivo</a><hr class="sub-hr"></li>
+											    <!--<li><a href="/templates/tutoria/Informacion.php">Docentes Tutores</a><hr class="sub-hr"></li> -->	
+											    <li><a href="/templates/goe/construyeT.php">Construye-T</a><hr class="sub-hr"></li>
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -78,7 +78,7 @@
 								    		<hr class='red'>  
                                            <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                               <img class="img img-responsive" src="/WebColomosGob/imagenes/goe/carmenJ.jpg" alt="goe">
+                                               <img class="img img-responsive" src="/imagenes/goe/carmenJ.jpg" alt="goe">
                                                   <div class="caption" >
                                                     <h3>Mtra. Aída Velázquez Castañeda </h3>
                                                     <p>Coordinadora de Tutorías del nivel Tecnólogo</p>
@@ -90,7 +90,7 @@
        
                                           <div class="col-md-6 ">
                                             <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-                                              <img class="img img-responsive"  src="/WebColomosGob/imagenes/goe/karlaD.jpg" alt="goe">
+                                              <img class="img img-responsive"  src="/imagenes/goe/karlaD.jpg" alt="goe">
                                                  <div class="caption">
                                                     <h3>Sin Responsable a Cargo </h3>
 		                                            <p>Coordinación de Tutorías del nivel de Ingeniería:</p>

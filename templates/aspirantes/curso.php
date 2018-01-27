@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Aspirantes</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/aspirantes/cursoPropedeutico.php'>Curso Propedéutico</a></li>
+					                    <li class='active'><a href='/templates/aspirantes/cursoPropedeutico.php'>Curso Propedéutico</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>

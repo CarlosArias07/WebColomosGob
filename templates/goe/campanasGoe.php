@@ -77,8 +77,8 @@ gal.init();
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/campanasGoe.php'>Campañas</a></li>
+					                    <li><a href='/templates/goe/goe.php'>GOE</a></li>
+										<li class='active'><a href='/templates/goe/campanasGoe.php'>Campañas</a></li>
 					                </ol>
 					            </div>
 								<div class='row'>

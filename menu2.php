@@ -54,7 +54,7 @@
                             <div class="dropdown">
                             <button class="dropbtn">Estudiantes</button>
                             <div class="dropdown-content">
-                            <a href="#">Trámites Escolares</a>
+                            <a href="/templates/alumnos/tramitesEscolares.php">Trámites Escolares</a>
                             <a href="/templates/alumnos/becas2.php">Becas</a>
 							<a href="/templates/conoceCeti/calendarioEscolar.php">Calendario Escolar</a>
                             <a href="http://ase1.ceti.mx/tecnologo/" target="_blank">ingreso al Sistema</a>

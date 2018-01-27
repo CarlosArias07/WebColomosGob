@@ -33,8 +33,8 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
-										<li><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/alumnos/becasIngenieria.php'>Becas Ingeniería</a></li>
+										<li><a href='/templates/alumnos/becas2.php'>Becas</a></li>
+										<li class='active'><a href='/templates/alumnos/becasIngenieria.php'>Becas Ingeniería</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -50,7 +50,7 @@
 								            <hr class='red sitios_relacionados'>
 											<ul>
 											<li><a href="#">Ver Trámites Escolares</a><hr class="sub-hr"></li>	
-											<li><a href="/WebColomosGob/templates/alumnos/becasTecnologo.php">Becas Tecnólogo</a><hr class="sub-hr"></li>	
+											<li><a href="/templates/alumnos/becasTecnologo.php">Becas Tecnólogo</a><hr class="sub-hr"></li>	
 											</ul>
 									    </div> 
 								    </div>
@@ -62,8 +62,8 @@
                                              Los Programas de Becas Nacionales que pueden participar los estudiantes del CETI a Nivel Ingeniería son las siguientes:
 											</p>
 											<div class="row">
-												<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becaInstitucionalIng.php" target="_self"><img class="img img-responsive" src="/WebColomosGob/imagenes/alumnos/becainst.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
-												<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becaCnbesIng.php" target="_self"><img class="img img-responsive" src="/WebColomosGob/imagenes/alumnos/becacnbes.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
+												<div class="col-md-6"><a href="/templates/alumnos/becaInstitucionalIng.php" target="_self"><img class="img img-responsive" src="/imagenes/alumnos/becainst.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
+												<div class="col-md-6"><a href="/templates/alumnos/becaCnbesIng.php" target="_self"><img class="img img-responsive" src="/imagenes/alumnos/becacnbes.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
 											</div>
                                          	<p class="contenido">
                                          		Las diferentes Becas tienen su propia Convocatoria donde se indica el periodo de inscripción, solicitud y dictamen, además de los requisitos y documentos que se deben entregar.

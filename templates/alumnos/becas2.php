@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
+										<li class='active'><a href='/templates/alumnos/becas2.php'>Becas</a></li>
 										             
 					                </ol>
 					            </div>
@@ -41,8 +41,8 @@
 									<hr class="red" />
 									<p>&nbsp;</p>
 									<div class="row">
-										<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becasTecnologo.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/tecnologo.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
-										<div class="col-md-6"><a href="/WebColomosGob/templates/alumnos/becasIngenieria.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
+										<div class="col-md-6"><a href="/templates/alumnos/becasTecnologo.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/tecnologo.png" alt="Recorte becas largo 2017" width="100%" height="250px" /></a>&nbsp;</div>
+										<div class="col-md-6"><a href="/templates/alumnos/becasIngenieria.php" target="_self"><img class="img img-responsive" src="../../imagenes/alumnos/ingenieria.png" alt="Recorte ch practicas 2016" width="100%" height="250px" /></a>&nbsp;</div>
 									</div>
 									<p>&nbsp;</p>
 

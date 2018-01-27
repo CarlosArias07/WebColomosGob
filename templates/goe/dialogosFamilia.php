@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/goe/goe.php'>GOE</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/goe/dialogosFamilia.php'>Diálogos en Familia</a></li>
+					                    <li><a href='/templates/goe/goe.php'>GOE</a></li>
+										<li class='active'><a href='/templates/goe/dialogosFamilia.php'>Diálogos en Familia</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -48,17 +48,17 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle">	<li><a href="/WebColomosGob/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
-											                    <li><a href="/WebColomosGob/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
-                                                                <li><a href="/WebColomosGob/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
-											                    <li><a href="/WebColomosGob/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
-																<li><a href="/WebColomosGob/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
-											                    <li><a href="/WebColomosGob/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
+									       	<ul type="circle">	<li><a href="/templates/goe/directorioGoe.php" >Directorio</a><hr class="sub-hr"></li>	
+											                    <li><a href="/templates/goe/serviciosGoe.php">Servicios</a><hr class="sub-hr"></li>
+                                                                <li><a href="/documentos/goe/programaTrabajoGoe32017.pdf" target="_blank">Programa de Trabajo</a><hr class="sub-hr"></li>																
+											                    <li><a href="/templates/goe/campanasGoe.php">Campañas</a><hr class="sub-hr"></li>
+																<li><a href="/templates/goe/contruyeT.php">Construye-T</a><hr class="sub-hr"></li>
+											                    <li><a href="/templates/goe/lecturasInteres.php">Lecturas de Interés</a><hr class="sub-hr"></li>
 											</ul>
 										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-											  <li><a href="/WebColomosGob/templates/goe/goe.php" >GOE</a><hr class="sub-hr"></li>
+											  <li><a href="/templates/goe/goe.php" >GOE</a><hr class="sub-hr"></li>
 											</ul>
 									    </div> 
 								        <!--<section class='border-box'>
@@ -76,7 +76,7 @@
 
 									<h4>Junta de Padres</h4>
 								    		<h5>
-								    			Semestre Agosto-Diciembre 2017
+								    			Semestre Febrero-junio 2018
 								    		</h5>
 								    		<p align='center'>
 								    			Tecnólogo
@@ -93,19 +93,19 @@
 								    			<tbody>
 								    				<tr>
 								    					<td>Junta y Taller Nuevo Ingreso</td>
-								    					<td>21 de julio de 2017</td>
+								    					<td>19 de enero de 2018</td>
 								    					<td>8:00 a 13:00 hrs.</td>
 								    					<td>Gimnasio del plantel</td>
 								    				</tr>
 								    				<tr>
 								    					<td>Primer Parcial</td>
-								    					<td>30 de septiembre de 2017</td>
+								    					<td>14 de abril de 2018</td>
 								    					<td>8:00 a 9:00 hrs.</td>
 								    					<td>Gimnasio del plantel</td>
 								    				</tr>
 								    				<tr>
 								    					<td>Segundo Parcial</td>
-								    					<td>11 de noviembre de 2017</td>
+								    					<td>26 de mayo de 2018</td>
 								    					<td>8:00 a 9:00 hrs.</td>
 								    					<td>Gimnasio del plantel</td>
 								    				</tr>
@@ -127,7 +127,7 @@
 								    			<tbody>
 								    				<tr>
 								    					<td>Junta Nuevo Ingreso</td>
-								    					<td>21 de julio de 2017</td>
+								    					<td>19 de enero de 2018</td>
 								    					<td>15:00 a 15:30 hrs.</td>
 								    					<td>Gimnasio del plantel</td>
 								    				</tr>

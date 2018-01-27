@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Docentes</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/docentes/procedimientosFormatos.php'>Procedimientos y Formatos</a></li>
+					                    <li class='active'><a href='/templates/docentes/procedimientosFormatos.php'>Procedimientos y Formatos</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -79,33 +79,33 @@
                                              	Estudiantes
                                          	 </p>
                                              <p class="contenido">
-                                             	Formato de Actividades para Clases No Impartidas <a href="/WebColomosGob/documentos/docentes/FSGC-217-7-INS-005_REV_A_PROGRAMA_DE_ACTIVIDADES_PARA_CLASES_NO_IMPARTIDAS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Formato de Actividades para Clases No Impartidas <a href="/documentos/docentes/FSGC-217-7-INS-005_REV_A_PROGRAMA_DE_ACTIVIDADES_PARA_CLASES_NO_IMPARTIDAS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Bitacora Mantenimiento de Equipo <a href="/WebColomosGob/documentos/docentes/BITACORA_MANTENIMIENTO_DE_EQUIPO.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Bitacora Mantenimiento de Equipo <a href="/documentos/docentes/BITACORA_MANTENIMIENTO_DE_EQUIPO.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Formato de Entrada y Salida de Equipos <a href="/WebColomosGob/documentos/docentes/FORMATO ENTRADA Y SALIDA DE EQUIPOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Formato de Entrada y Salida de Equipos <a href="/documentos/docentes/FORMATO ENTRADA Y SALIDA DE EQUIPOS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Formato para Registro de Eventos <a href="/WebColomosGob/documentos/docentes/FORMATO PARA REGISTRO DE EVE NTOS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Formato para Registro de Eventos <a href="/documentos/docentes/FORMATO PARA REGISTRO DE EVE NTOS.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Procedimiento Uso Laboratorios Talleres <a href="/WebColomosGob/documentos/docentes/PROCEDIMIENTO USO LABORATORIOS TALLERES.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Procedimiento Uso Laboratorios Talleres <a href="/documentos/docentes/PROCEDIMIENTO USO LABORATORIOS TALLERES.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Solicitud de Uso de Laboratorio Extraclase <a href="/WebColomosGob/documentos/docentes/FSGC-214-7-INS-002 SOLICITUD DE USO DE LAB EXTRACLASE.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Solicitud de Uso de Laboratorio Extraclase <a href="/documentos/docentes/FSGC-214-7-INS-002 SOLICITUD DE USO DE LAB EXTRACLASE.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Solicitud Material Herramienta o Equipo <a href="/WebColomosGob/documentos/docentes/SOLICITUD MATERIAL HERRAMIENTA O EQUIPO.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Solicitud Material Herramienta o Equipo <a href="/documentos/docentes/SOLICITUD MATERIAL HERRAMIENTA O EQUIPO.xls" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">

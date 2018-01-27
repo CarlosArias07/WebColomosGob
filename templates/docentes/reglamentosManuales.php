@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Docentes</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/docentes/reglamentosManuales.php'>Reglamentos y Manuales</a></li>
+					                    <li class='active'><a href='/templates/docentes/reglamentosManuales.php'>Reglamentos y Manuales</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -74,22 +74,22 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<p class="contenido">
-                                             	Procedimiento para el proceso de Aprendizaje y  <a href="/WebColomosGob/documentos/docentes/SGC-217-7-INS PROC PARA EL PROCESO DE APREND Y EVAL DEL APRENDIZAJE REV B.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Procedimiento para el proceso de Aprendizaje y  <a href="/documentos/docentes/SGC-217-7-INS PROC PARA EL PROCESO DE APREND Y EVAL DEL APRENDIZAJE REV B.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	Evaluación del Aprendizaje
                                          	 </p>
                                              <p class="contenido">
-                                             	Manual de la Función Docente <a href="/WebColomosGob/documentos/docentes/MANUAL_DE_LA_FUNCION_DOCENTE_NOVIEMBRE_2010_doc.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Manual de la Función Docente <a href="/documentos/docentes/MANUAL_DE_LA_FUNCION_DOCENTE_NOVIEMBRE_2010_doc.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Manual de Organización y Funcionamiento de las  <a href="/WebColomosGob/documentos/docentes/DI-MN-200-05-01 REV._C_ORG_Y_FUN_COORD_DIV.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Manual de Organización y Funcionamiento de las  <a href="/documentos/docentes/DI-MN-200-05-01 REV._C_ORG_Y_FUN_COORD_DIV.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	Coordinaciones de División
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Reglamento de Organizacion y Funcionamiento de  <a href="/WebColomosGob/documentos/docentes/DI-RG-200-05-02_RGTO_ORGANIZ_ FUNCION_ACADEMIAS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
+                                             	Reglamento de Organizacion y Funcionamiento de  <a href="/documentos/docentes/DI-RG-200-05-02_RGTO_ORGANIZ_ FUNCION_ACADEMIAS.pdf" target="_blank" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              	Academias
                                          	 </p>

@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-										<li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/cad/directorioCad.php'>Directorio</a></li>
+										<li><a href='/templates/cad/cad.php'>CAD</a></li>
+					                    <li class='active'><a href='/templates/cad/directorioCad.php'>Directorio</a></li>
 										
 					                </ol>
 					            </div>
@@ -48,9 +48,9 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"><li><a href="/WebColomosGob/templates/cad/cad.php">CAD</a><hr class="sub-hr"></li>
-											                   <li><a href="/WebColomosGob/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
-											                   <li><a href="/WebColomosGob/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
+									       	<ul type="circle"><li><a href="/templates/cad/cad.php">CAD</a><hr class="sub-hr"></li>
+											                   <li><a href="/templates/cad/talleresCad.php" >Talleres y Galería</a><hr class="sub-hr"></li>	
+											                   <li><a href="/templates/cad/revistaConexion.php">Revistas Conexion</a><hr class="sub-hr"></li>               																
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -76,7 +76,7 @@
 								    		<hr class='red'>           
                                            <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
-											  <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/VictorJosue.png" alt="Victor" width="170" height="60">
+											  <img class="img img-responsive img-circle" src="/imagenes/cad/VictorJosue.png" alt="Victor" width="170" height="60">
                                                   <div class="caption" >
                                                     <h3>Víctor Josué Cabrera Huerta </h3>
                                                     <p>Coordinador de Cultura Arte y Deporte, profesor de Acroyoga</p>
@@ -89,7 +89,7 @@
 										  <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 											<br>
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/GilGarcia.png" alt="Gil" width="130" height="55">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/GilGarcia.png" alt="Gil" width="130" height="55">
                                                   <div class="caption" >
                                                     <h3>Jesús Gil García Galindo </h3>
                                                     <p>Técnico de Sonido Vespertino y Administrador de Eventos</p>
@@ -101,7 +101,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 											   
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/AlfredoOrozco.png" alt="alfredo" width="150" height="50">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/AlfredoOrozco.png" alt="alfredo" width="150" height="50">
                                                   <div class="caption" >
                                                     <h3>Alfredo Orozco Mendoza </h3>
                                                     <p>Profesor de Teatro y Cinematografía, Director de Teatro y Orquesta de Cámara</p>
@@ -113,7 +113,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 											 <br>
-                                               <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/denisseContreras.jpg" alt="denisse" width="130" height="40">
+                                               <img class="img img-responsive img-circle" src="/imagenes/cad/denisseContreras.jpg" alt="denisse" width="130" height="40">
                                                   <div class="caption" >
                                                     <h3>Denisse Contreras Gómez </h3>
                                                     <p>Profesora de Pintura y  profesora de Dibujo </p>
@@ -124,7 +124,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/EdgarGiovanni.png" alt="cad" width="145" height="45">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/EdgarGiovanni.png" alt="cad" width="145" height="45">
                                                   <div class="caption" >
                                                     <h3>Edgar Giovanni Pardo Roldan </h3>
                                                     <p>Profesor de Música (Canto y Percusiones)</p>
@@ -135,7 +135,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/JorgeGuerrero.png" alt="cad" width="95" height="20">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/JorgeGuerrero.png" alt="cad" width="95" height="20">
                                                   <div class="caption" >
                                                     <h3>Jorge Guerrero Benitez</h3>
                                                     <p>Profesor de Danza Aérea</p>
@@ -146,7 +146,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/SebastianCecillon.png" alt="cad" width="145" height="45">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/SebastianCecillon.png" alt="cad" width="145" height="45">
                                                   <div class="caption" >
                                                     <h3>Sebastián Cecillón Arévalo</h3>
                                                     <p>Coordinador de Radio CETI</p>
@@ -157,7 +157,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/IrisAvelar.png" alt="cad" width="70" height="18">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/IrisAvelar.png" alt="cad" width="70" height="18">
                                                   <div class="caption" >
                                                     <h3> Iris  Avelar  López </h3>
                                                     <p>Profesor de acondicionamiento Físico, Balón Mano y Defensa Personal</p>
@@ -168,7 +168,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									           <br>
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/CarlosSilva.png" alt="cad" width="95" height="20">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/CarlosSilva.png" alt="cad" width="95" height="20">
                                                   <div class="caption" >
                                                     <h3>Juan Carlos Silva Rosales</h3>
                                                     <p>Profesor de Atletismo y Fútbol</p>
@@ -179,7 +179,7 @@
 										   <div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/ManuelIgnacio.png" alt="cad" width="160" height="50">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/ManuelIgnacio.png" alt="cad" width="160" height="50">
                                                   <div class="caption" >
                                                     <h3>Manuel Ignacio Reséndiz López </h3>
                                                     <p>Profesor de Voleibol y de Baloncesto</p>
@@ -191,7 +191,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/LauraFregozo.png" alt="cad" width="70" height="25">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/LauraFregozo.png" alt="cad" width="70" height="25">
                                                   <div class="caption" >
                                                     <h3>Laura Alicia Fregozo Cuarenta </h3>
                                                     <p>Profesor de Baile Hawaiano</p>
@@ -202,7 +202,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 									           <br>
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/nataliBonilla.png" alt="cad" width="130" height="40">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/nataliBonilla.png" alt="cad" width="130" height="40">
                                                   <div class="caption" >
                                                     <h3>Natali Bonilla Naranjo</h3>
 													
@@ -214,7 +214,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 							
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/LuisSanchez.png" alt="cad" width="90" height="30">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/LuisSanchez.png" alt="cad" width="90" height="30">
                                                   <div class="caption" >
                                                     <h3>José Luis Sánchez Pérez</h3>
                                                     <p>Profesor de Futbol</p>
@@ -225,7 +225,7 @@
 											<div class="col-md-6 ">
                                              <div class="thumbnail" style="border:2px solid #A4A4A4; background-color:#F2F2F2">
 							
-											   <img class="img img-responsive img-circle" src="/WebColomosGob/imagenes/cad/JuanGutierrez.png" alt="cad" width="90" height="30">
+											   <img class="img img-responsive img-circle" src="/imagenes/cad/JuanGutierrez.png" alt="cad" width="90" height="30">
                                                   <div class="caption" >
                                                     <h3>Juan Francisco Javier Gutiérrez Cedillo</h3>
                                                     <p>Profesor de fotografía</p>

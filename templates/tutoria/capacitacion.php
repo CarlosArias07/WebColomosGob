@@ -33,9 +33,9 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/capacitacion.php'>Capacitación</a></li>
+					                    <li><a href='/templates/tutoria/tutorias.php'>Tutorías</a></li>
+					                    <li><a href='/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
+					                    <li class='active'><a href='/templates/tutoria/capacitacion.php'>Capacitación</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -50,13 +50,13 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>		
-											    <li><a href="/WebColomosGob/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
+									       		<li><a href="/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>		
+											    <li><a href="/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
 											</ul>
 										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-											<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
+											<li><a href="/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
 											</ul>
 									    </div> 
 

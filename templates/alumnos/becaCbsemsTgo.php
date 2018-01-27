@@ -33,9 +33,9 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Alumnos</a></li>
-										<li><a href='/WebColomosGob/templates/alumnos/becas2.php'>Becas</a></li>
-										<li><a href='/WebColomosGob/templates/alumnos/becasTecnologo.php'>Becas Tecnólogo</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/alumnos/becaCbsemsTgo.php'>Beca CBSEMS</a></li>
+										<li><a href='/templates/alumnos/becas2.php'>Becas</a></li>
+										<li><a href='/templates/alumnos/becasTecnologo.php'>Becas Tecnólogo</a></li>
+										<li class='active'><a href='/templates/alumnos/becaCbsemsTgo.php'>Beca CBSEMS</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>

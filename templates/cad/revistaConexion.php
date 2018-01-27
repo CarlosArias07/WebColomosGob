@@ -32,8 +32,8 @@
 					                <ol class='breadcrumb'>
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
-					                    <li><a href='/WebColomosGob/templates/cad/cad.php'>CAD</a></li>
-										<li class='active'><a href='/WebColomosGob/templates/cad/revistaConexion.php'>Revista Conexion</a></li>
+					                    <li><a href='/templates/cad/cad.php'>CAD</a></li>
+										<li class='active'><a href='/templates/cad/revistaConexion.php'>Revista Conexion</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -46,16 +46,16 @@
 										<div class='border-box submenu_relacionados'>
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
-									       	<ul type="circle"> <li><a href="/WebColomosGob/swf/cad/conexion_10.swf" target="_blank">Edición 10 </a><hr class="sub-hr"></li>
-											                   <li><a href="/WebColomosGob/swf/cad/conexion_9.swf" target="_blank">Edición 9 </a><hr class="sub-hr"></li>
-											                   <li><a href="/WebColomosGob/swf/cad/conexion_8.swf" target="_blank">Edición 8 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_7.swf" target="_blank">Edición 7 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_6.swf" target="_blank">Edición 6 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_5.swf" target="_blank">Edición 5 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_4.swf" target="_blank">Edición 4 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_3.swf" target="_blank">Edición 3 </a><hr class="sub-hr"></li>
-															   <li><a href="/WebColomosGob/swf/cad/conexion_2.swf" target="_blank">Edición 2 </a><hr class="sub-hr"></li>
-                                                               <li><a href="/WebColomosGob/swf/cad/conexion_1.swf" target="_blank">Edición 1 </a><hr class="sub-hr"></li>															   
+									       	<ul type="circle"> <li><a href="/swf/cad/conexion_10.swf" target="_blank">Edición 10 </a><hr class="sub-hr"></li>
+											                   <li><a href="/swf/cad/conexion_9.swf" target="_blank">Edición 9 </a><hr class="sub-hr"></li>
+											                   <li><a href="/swf/cad/conexion_8.swf" target="_blank">Edición 8 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_7.swf" target="_blank">Edición 7 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_6.swf" target="_blank">Edición 6 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_5.swf" target="_blank">Edición 5 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_4.swf" target="_blank">Edición 4 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_3.swf" target="_blank">Edición 3 </a><hr class="sub-hr"></li>
+															   <li><a href="/swf/cad/conexion_2.swf" target="_blank">Edición 2 </a><hr class="sub-hr"></li>
+                                                               <li><a href="/swf/cad/conexion_1.swf" target="_blank">Edición 1 </a><hr class="sub-hr"></li>															   
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
@@ -82,7 +82,7 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 											<h4>Edición 11</h4>
-											  <embed src="/WebColomosGob/swf/cad/conexion_11.swf" width="646" height="600"   ></embed>
+											  <embed src="/swf/cad/conexion_11.swf" width="646" height="600"   ></embed>
 										</div>
 								    </div>
 								 <div class='col-sm-7 pull-left'>

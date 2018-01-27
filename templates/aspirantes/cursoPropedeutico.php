@@ -33,7 +33,7 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Aspirantes</li>
-					                    <li class='active'><a href='/WebColomosGob/templates/aspirantes/cursoPropedeutico.php'>Curso Propedéutico</a></li>
+					                    <li class='active'><a href='/templates/aspirantes/cursoPropedeutico.php'>Curso Propedéutico</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -48,8 +48,8 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/templates/aspirantes/Informacion.php">Información</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/aspirantes/materialApoyo.php">Material de Apoyo</a><hr class="sub-hr"></li>	
+									       		<li><a href="/templates/aspirantes/Informacion.php">Información</a><hr class="sub-hr"></li>	
+											    <li><a href="/templates/aspirantes/materialApoyo.php">Material de Apoyo</a><hr class="sub-hr"></li>	
 											</ul>
 										  <!--<h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>

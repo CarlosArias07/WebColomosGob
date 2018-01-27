@@ -33,8 +33,8 @@
 					                    <li><a href='../../index.php'><i class='icon icon-home'></i></a></li>
 					                    <li><a href='../../index.php'>Inicio</a></li>
 					                    <li>Desarrollo Académico</li>
-					                    <li><a href='/WebColomosGob/templates/tutoria/tutorias.php'>Tutorías</a></li>
-					                    <li class='active'><a href='/WebColomosGob/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
+					                    <li><a href='/templates/tutoria/tutorias.php'>Tutorías</a></li>
+					                    <li class='active'><a href='/templates/tutoria/docentesTutores.php'>Docentes Tutores</a></li>
 					                </ol>
 					            </div>
 								<div class='row'><div class='col-sm-7 pull-left'>
@@ -49,14 +49,14 @@
 									        <h4 class='bottom-buffer'>Submenú de la sección</h4>
 									        <hr class='red sitios_relacionados'>
 									       	<ul>	
-									       		<li><a href="/WebColomosGob/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>	
-											    <li><a href="/WebColomosGob/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
+									       		<li><a href="/documentos/tutorias/PeriodosDeEntrega.pdf" target="_blank">Calendario</a><hr class="sub-hr"></li>	
+											    <li><a href="/templates/tutoria/capacitacion.php">Capacitacion</a><hr class="sub-hr"></li>	
+											    <li><a href="/templates/tutoria/normatividad.php">Normatividad</a><hr class="sub-hr"></li>		
 											</ul>
 										  <h4 class='bottom-buffer'>Sitios relacionados</h4>
 								            <hr class='red sitios_relacionados'>
 											<ul>
-												<li><a href="/WebColomosGob/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
+												<li><a href="/templates/goe/dialogosFamilia.php">Junta de Padres</a><hr class="sub-hr"></li>
 											</ul>
 									    </div> 
 
@@ -74,52 +74,52 @@
 								    	<div class='article-body'>
 								    		<hr class='red'>
 								    		<h4>Guías para el tutor</h4>
-								    		<p>Guía Tutor Focal <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a>
+								    		<p>Guía Tutor Focal <a href="/documentos/egresados/32017PosiblesEgresadosTgo_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a>
 								    		<p>
-                                            <p>Guía Tutor Grupal <a href="/WebColomosGob/documentos/egresados/32017PosiblesEgresadosIng_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a></p>
+                                            <p>Guía Tutor Grupal <a href="/documentos/egresados/32017PosiblesEgresadosIng_Web_ok.pdf" target="_blank" class="btn btn-primary pull-right" >Consultar</a></p>
 
                                             <h4>Formatos de Tutorías</h4>
 								    		<p class="contenido">
-                                             	Plan de Trabajo <a href="/WebColomosGob/documentos/tutorias/FR-06-DAC-NT-PO-014_PLAN_TRABAJO GRAL. CADA SEMESTRE TUTORES.doc" class="btn btn-primary pull-right">Consultar</a>
+                                             	Plan de Trabajo <a href="/documentos/tutorias/FR-06-DAC-NT-PO-014_PLAN_TRABAJO GRAL. CADA SEMESTRE TUTORES.doc" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Citatorio a Junta de Padres y Madres de Familia <a href="/WebColomosGob/documentos/tutorias/FR-14-DAC-NT-PO-014 CITATORIO A JUNTA DE PADRES Y MADRES DE FAMILIA.doc" class="btn btn-primary pull-right">Consultar</a>
+                                             	Citatorio a Junta de Padres y Madres de Familia <a href="/documentos/tutorias/FR-14-DAC-NT-PO-014 CITATORIO A JUNTA DE PADRES Y MADRES DE FAMILIA.doc" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Informe Parcial Junta de Padres <a href="/WebColomosGob/documentos/tutorias/FR-07-DAC-NT-PO-014 INFORME_PARCIAL_JUNTA_DE_PADRES_REV 2.doc" class="btn btn-primary pull-right">Consultar</a>
+                                             	Informe Parcial Junta de Padres <a href="/documentos/tutorias/FR-07-DAC-NT-PO-014 INFORME_PARCIAL_JUNTA_DE_PADRES_REV 2.doc" class="btn btn-primary pull-right">Consultar</a>
                                              <br>
                                              <br>
                                          	 </p>
                                          	 <p class="contenido">
-                                             	Informe de Actividades Tutoriales TG y TF <a href="/WebColomosGob/documentos/tutorias/FR-09-DAC-NT-PO-014 INFORME DE ACTIVIDADES_TUTORIALES_TGyTF REV 2.xls" class="btn btn-primary pull-right">Consultar</a>
+                                             	Informe de Actividades Tutoriales TG y TF <a href="/documentos/tutorias/FR-09-DAC-NT-PO-014 INFORME DE ACTIVIDADES_TUTORIALES_TGyTF REV 2.xls" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Solicitud de Atención y Canalización <a href="/WebColomosGob/documentos/tutorias/SOLICITUD_DE_ATENCION_Y_CANALIZACION.xls" class="btn btn-primary pull-right">Consultar</a>
+                                             	Solicitud de Atención y Canalización <a href="/documentos/tutorias/SOLICITUD_DE_ATENCION_Y_CANALIZACION.xls" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Informe de Actividades Tutoriales para Tutor Académico <a href="/WebColomosGob/documentos/tutorias/Actividades Tutoriales Tutor Academico.xls" class="btn btn-primary pull-right">Consultar</a>
+                                             	Informe de Actividades Tutoriales para Tutor Académico <a href="/documentos/tutorias/Actividades Tutoriales Tutor Academico.xls" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Datos Alumnos para Tutores <a href="/WebColomosGob/documentos/tutorias/FR-10-DAC-NT-PO-014 DATOS_ALUMNOS_PARA_TUTORES.xls" class="btn btn-primary pull-right">Consultar</a>
+                                             	Datos Alumnos para Tutores <a href="/documentos/tutorias/FR-10-DAC-NT-PO-014 DATOS_ALUMNOS_PARA_TUTORES.xls" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <h4>Videos Explicativos</h4>
                                          	 <p class="contenido">
-                                             	Video Formato Actividades Tutoriales <a href="/WebColomosGob/videos/tutorias/Formato Actividades Tutoriales TG y TF.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                             	Video Formato Actividades Tutoriales <a href="/videos/tutorias/Formato Actividades Tutoriales TG y TF.wmv" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Video Formato Asistencia Padres de Familia <a href="/WebColomosGob/videos/tutorias/Formato Asistencia PadresFamilia.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                             	Video Formato Asistencia Padres de Familia <a href="/videos/tutorias/Formato Asistencia PadresFamilia.wmv" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
                                          	 <br>
                                          	 <p class="contenido">
-                                             	Video Informe Parcial de Junta de Padres <a href="/WebColomosGob/videos/tutorias/Informe Parcial de Junta de Padres.wmv" class="btn btn-primary pull-right">Consultar</a>
+                                             	Video Informe Parcial de Junta de Padres <a href="/videos/tutorias/Informe Parcial de Junta de Padres.wmv" class="btn btn-primary pull-right">Consultar</a>
                                          	 </p>
 								    	</div>
 								    </div>

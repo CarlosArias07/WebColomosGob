@@ -196,9 +196,9 @@
 
                             
                     </div>
-                    <div class="col-md-12 clearfix top-buffer">
+                    <!--<div class="col-md-12 clearfix top-buffer">
                         <a class="pull-right" href="noticias.php">ver historial</a>
-                    </div>
+                    </div> -->
             </div>
         </div>
         <!-- FIN NOTICIAS RECIENTES -->
