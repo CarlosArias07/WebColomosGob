@@ -100,9 +100,9 @@
                             <a href="/templates/tutoria/tutorias.php">Tutor&iacute;as</a>
 							<a href="/templates/biblioteca/biblioteca.php">Biblioteca</a>
                             <a href="/templates/cad/cad.php">Cultura Arte y Deporte</a>
-							<!--<a href="#">Servicio M&eacute;dico</a>
-							<a href="#">Trabajo Social</a>
-							<a href="#">Asesor&iacute;a y Regularizaci&oacute;n</a> 
+							<a href="/templates/servicioMedico/servicioMedico.php">Servicio M&eacute;dico</a>
+							<a href="/templates/trabajoSocial/trabajoSocial.php">Trabajo Social</a>
+							<!--<a href="#">Asesor&iacute;a y Regularizaci&oacute;n</a> 
 							<a href="#">Escuela Verde</a>-->
                             </div>
                             </div>
