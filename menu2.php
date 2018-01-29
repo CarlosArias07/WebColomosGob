@@ -83,9 +83,9 @@
                             <div class="dropdown">
                             <button class="dropbtn">Docentes</button>
                             <div class="dropdown-content">
-                            <a href="http://ase1.ceti.mx/tecnologo/" target="_blank">Ingreso al Sistema</a>
-                            <a href="http://formaciondocente.ceti.mx/" target="_blank">PIFAD-Formaci&oacute;n Docente</a>
-							<a href="http://recursoshumanos.ceti.mx/" target="_blank">Recursos Humanos</a>
+                            <a href="https://ase1.ceti.mx/tecnologo/" target="_blank">Ingreso al Sistema</a>
+                            <a href="https://formaciondocente.ceti.mx/" target="_blank">PIFAD-Formaci&oacute;n Docente</a>
+							<a href="https://recursoshumanos.ceti.mx/" target="_blank">Recursos Humanos</a>
                             <a href="/templates/docentes/reglamentosManuales.php">Reglamentos y Manuales</a>
 							<a href="/templates/docentes/procedimientosFormatos.php">Procedimientos y formatos </a>
                             </div>
@@ -102,8 +102,8 @@
                             <a href="/templates/cad/cad.php">Cultura Arte y Deporte</a>
 							<a href="/templates/servicioMedico/servicioMedico.php">Servicio M&eacute;dico</a>
 							<a href="/templates/trabajoSocial/trabajoSocial.php">Trabajo Social</a>
-							<!--<a href="#">Asesor&iacute;a y Regularizaci&oacute;n</a> 
-							<a href="#">Escuela Verde</a>-->
+							<a href="/templates/asesoria/asesoriaRegularizacion">Asesor&iacute;a y Regularizaci&oacute;n</a> 
+							<a href="/templetes/escuelaVerde/escuelaVerde.php">Escuela Verde</a>
                             </div>
                             </div>
                         </li>
